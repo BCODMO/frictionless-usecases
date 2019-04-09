@@ -1,0 +1,57 @@
+add-latlon-Cniderians:
+  description: skip pound symbol rows, convert latlon, convert time, join
+  pipeline:
+  - run: load
+    parameters:
+      from: '../staging/sites.csv'
+      name: 'sites'
+      format: csv
+  - run: load
+    parameters:
+      from: '../staging/temp.csv'
+      name: 'temp'
+      format: csv
+
+  - run: unpivot
+    parameters:
+      resources: temp
+      extraKeyFields:
+        -
+          name: Site
+          type: string
+
+      extraValueField:
+          name: Temp
+          type: number
+      unpivot:
+        -
+          name: Temp_(.*)
+          keys:
+            Site: \1
+
+  - run: join
+    parameters:
+      source:
+        name: sites
+        key: ["Short Name"]
+        delete: no
+      target:
+        name: temp
+        key: ["Site"]
+      fields:
+        lat:
+          name: 'lat'
+          aggregate: 'first'
+        lon:
+          name: 'lon'
+          aggregate: 'first'
+      full: true
+
+  - run: dump.to_path
+    parameters:
+      resources: [temp]
+      out-path: '../output'
+
+  title: add latlon Cniderians
+
+
