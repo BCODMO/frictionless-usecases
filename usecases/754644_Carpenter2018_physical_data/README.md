@@ -24,12 +24,12 @@ There are other sheets in this file, each correspond to a different dataset at B
 
 ### Can't import field formats with the values from Excel
 
-#5
+https://github.com/BCODMO/frictionless-usecases/issues/5
 
 ### Error on load because missingValues not set yet when using (force_strings=False)
 
-#6
+https://github.com/BCODMO/frictionless-usecases/issues/6
 
 ### Set types on column name with () causes error
 
-#9
+https://github.com/BCODMO/frictionless-usecases/issues/9
