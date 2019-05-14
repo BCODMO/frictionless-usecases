@@ -24,7 +24,7 @@ staging/
 * sites.csv (was constructed from text in the DATASET metdata form. Column names renamed by hand)
 * temp.csv - edited version of  orig/Field_Temperature_Data_set1.txt
 
-pipeline rand with dpp:
+pipeline ran with dpp:
 	v1/processing/pipeline-spec.yaml
 
 output file(s): 
