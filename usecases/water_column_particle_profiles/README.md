@@ -26,6 +26,7 @@ General processing summary:
 * lat|lon formatting fixed and converted to decimal degrees.
 
 Pipelines & results:
+* Be advised, this uses custom processors.
 * [v1/marine_snow](v1/marine_snow) contains the pipeline-spec.yaml datapackage.json and output csvs from the marine snow pipeline.
 * [v1/ghost_colonies](v1/ghost_colonies) same as above
 
@@ -49,4 +50,6 @@ Processing need:
     * Join on Profile_ID,depth
     * The results should have null values in "ghost colony" columns where there there were no matching Profile_ID,depth in ghost_colonies.csv.  There should be null values in "marine snow" columns where there were no matching Profile_ID,depth columns in particles_per_liter.csv
 
-
+Folder [v2/pipeline-spec.yaml](v2/pipeline-spec.yaml) has a pipeline that does a join with datapackage-pipelines optoin Full:True, but it isn't what I would consider a full outer join since it dropped the rows from the ghost colony data (source) where there was no marine snow "particles_per_liter" data (target).
+* results of join are in data file [v2/particles_per_liter.csv](v2/particles_per_liter.csv)
+* Be advised, this uses custom processors.
