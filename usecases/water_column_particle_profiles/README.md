@@ -4,7 +4,7 @@ These datasets are in the process of being served at bco-dmo.org.  Full document
 
 ## originally submitted file
 
-[orig/Elementa Aggregate Data.xlsx](Elementa Aggregate Data.xlsx)
+[orig/Elementa\ Aggregate\ Data.xlsx](orig/Elementa Aggregate Data.xlsx)
 
 
 ## preprocessed data
@@ -26,11 +26,13 @@ General processing summary:
 * Added ISO_DateTime_UTC.
 * lat|lon formatting fixed and converted to decimal degrees.
 
-[v1/marine_snow](v1/marine_snow) contains the pipeline-spec.yaml datapackage.json and output csvs from the marine snow pipeline.
-[v1/ghost_colonies](v1/ghost_colonies) same as above
+Pipelines & results:
+* [v1/marine_snow](v1/marine_snow) contains the pipeline-spec.yaml datapackage.json and output csvs from the marine snow pipeline.
+* [v1/ghost_colonies](v1/ghost_colonies) same as above
 
-[v1/ghost_colonies/ghost_colonies.csv](v1/ghost_colonies/ghost_colonies.csv)
-[v1/marine_snow/particles_per_liter.csv](v1/marine_snow/particles_per_liter.csv)
+CSVs:
+* [v1/ghost_colonies/ghost_colonies.csv](v1/ghost_colonies/ghost_colonies.csv)
+* [v1/marine_snow/particles_per_liter.csv](v1/marine_snow/particles_per_liter.csv)
 
 v1 data are considered clean and will be posted on pages:
 * https://www.bco-dmo.org/dataset/719478
@@ -39,8 +41,8 @@ v1 data are considered clean and will be posted on pages:
 ## data version 2
 
 Source files: 
-[v1/ghost_colonies/ghost_colonies.csv](v1/ghost_colonies/ghost_colonies.csv)
-[v1/marine_snow/particles_per_liter.csv](v1/marine_snow/particles_per_liter.csv)
+* [v1/ghost_colonies/ghost_colonies.csv](v1/ghost_colonies/ghost_colonies.csv)
+* [v1/marine_snow/particles_per_liter.csv](v1/marine_snow/particles_per_liter.csv)
 
 
 Processing need:
