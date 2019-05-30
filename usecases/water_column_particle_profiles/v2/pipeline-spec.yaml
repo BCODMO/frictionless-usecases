@@ -1,0 +1,114 @@
+usecase-particles-v2:
+  title: usecase-particles-v2
+  description: See https://github.com/BCODMO/frictionless-usecases/tree/master/usecases/water_column_particle_profiles
+  pipeline:
+  - run: bcodmo_pipeline_processors.load
+    cache: true
+    parameters:
+      format: csv
+      from: https://raw.githubusercontent.com/BCODMO/frictionless-usecases/master/usecases/water_column_particle_profiles/v1/ghost_colonies/ghost_colonies.csv
+      headers: 1
+      validate: false
+      force_strings: true
+      skip_rows: []
+      missing_values:
+      - ''
+      - nd
+      name: ghost_colonies
+  - run: bcodmo_pipeline_processors.rename_fields_regex
+    cache: true
+    parameters:
+      resources:
+      - ghost_colonies
+      fields:
+      - bin_0_0_to_0_5
+      - bin_gt_0_5_to_1_0
+      - bin_gt_1_0_to_1_5
+      - bin_gt_1_5_to_2_0
+      - bin_gt_2_0_to_2_5
+      - bin_gt_2_5_to_3_0
+      - bin_gt_3_0_to_3_5
+      - bin_gt_3_5_to_4_0
+      - bin_gt_4_0_to_4_5
+      - bin_gt_4_5
+      pattern:
+        find: (.*)
+        replace: phaeo_\1
+    bcodmo_notes: To disambiguate columns once combined with marine snow data.
+  - run: bcodmo_pipeline_processors.load
+    cache: true
+    parameters:
+      format: csv
+      from: https://raw.githubusercontent.com/BCODMO/frictionless-usecases/master/usecases/water_column_particle_profiles/v1/marine_snow/particles_per_liter.csv
+      headers: 1
+      validate: false
+      force_strings: true
+      skip_rows: []
+      missing_values:
+      - ''
+      - nd
+      name: particles_per_liter
+  - run: bcodmo_pipeline_processors.rename_fields_regex
+    cache: true
+    parameters:
+      resources:
+      - particles_per_liter
+      fields:
+      - bin_0_0_to_0_5
+      - bin_gt_0_5_to_1_0
+      - bin_gt_1_0_to_1_5
+      - bin_gt_1_5_to_2_0
+      - bin_gt_2_0_to_2_5
+      - bin_gt_2_5_to_3_0
+      - bin_gt_3_0_to_3_5
+      - bin_gt_3_5_to_4_0
+      - bin_gt_4_0_to_4_5
+      - bin_gt_4_5
+      pattern:
+        find: (.*)
+        replace: snow_\1
+    bcodmo_notes: To disambiguate columns once combined with ghost colonies.
+  - run: join
+    cache: true
+    parameters:
+      source:
+        name: ghost_colonies
+        key:
+        - Profile_ID
+        delete: false
+      target:
+        name: particles_per_liter
+        key:
+        - Profile_ID
+      fields:
+        phaeo_bin_0_0_to_0_5:
+          name: phaeo_bin_0_0_to_0_5
+          aggregate: first
+        phaeo_bin_gt_0_5_to_1_0:
+          name: phaeo_bin_gt_0_5_to_1_0
+          aggregate: first
+        phaeo_bin_gt_1_0_to_1_5:
+          name: phaeo_bin_gt_1_0_to_1_5
+          aggregate: first
+        phaeo_bin_gt_1_5_to_2_0:
+          name: phaeo_bin_gt_1_5_to_2_0
+          aggregate: first
+        phaeo_bin_gt_2_0_to_2_5:
+          name: phaeo_bin_gt_2_0_to_2_5
+          aggregate: first
+        phaeo_bin_gt_2_5_to_3_0:
+          name: phaeo_bin_gt_2_5_to_3_0
+          aggregate: first
+        phaeo_bin_gt_3_0_to_3_5:
+          name: phaeo_bin_gt_3_0_to_3_5
+          aggregate: first
+        phaeo_bin_gt_3_5_to_4_0:
+          name: phaeo_bin_gt_3_5_to_4_0
+          aggregate: first
+        phaeo_bin_gt_4_0_to_4_5:
+          name: phaeo_bin_gt_4_0_to_4_5
+          aggregate: first
+        phaeo_bin_gt_4_5:
+          name: phaeo_bin_gt_4_5
+          aggregate: first
+      full: true

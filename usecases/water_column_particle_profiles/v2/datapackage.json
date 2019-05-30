@@ -1,0 +1,321 @@
+{
+  "bytes": 835783,
+  "count_of_rows": 5705,
+  "hash": "1af6d7ffde6cb25f5f2d8fbb2f162f2c",
+  "name": "_",
+  "profile": "data-package",
+  "resources": [
+    {
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "dpp:streamedFrom": "https://raw.githubusercontent.com/BCODMO/frictionless-usecases/master/usecases/water_column_particle_profiles/v1/ghost_colonies/ghost_colonies.csv",
+      "dpp:streaming": true,
+      "encoding": "utf-8",
+      "format": "csv",
+      "name": "ghost_colonies",
+      "path": "ghost_colonies.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "cruise_name",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Profile_ID",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Canister",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Station",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Latitude",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Longitude",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "depth",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "date_local",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "In_water_time_local",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "In_water_DateTime_UTC",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "particles_per_L",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "phaeo_bin_0_0_to_0_5",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "phaeo_bin_gt_0_5_to_1_0",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "phaeo_bin_gt_1_0_to_1_5",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "phaeo_bin_gt_1_5_to_2_0",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "phaeo_bin_gt_2_0_to_2_5",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "phaeo_bin_gt_2_5_to_3_0",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "phaeo_bin_gt_3_0_to_3_5",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "phaeo_bin_gt_3_5_to_4_0",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "phaeo_bin_gt_4_0_to_4_5",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "phaeo_bin_gt_4_5",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          "",
+          "nd"
+        ]
+      }
+    },
+    {
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "dpp:streamedFrom": "https://raw.githubusercontent.com/BCODMO/frictionless-usecases/master/usecases/water_column_particle_profiles/v1/marine_snow/particles_per_liter.csv",
+      "dpp:streaming": true,
+      "encoding": "utf-8",
+      "format": "csv",
+      "name": "particles_per_liter",
+      "path": "particles_per_liter.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "cruise_name",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Profile_ID",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Canister",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Station",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Latitude",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Longitude",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "depth",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "date_local",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "In_water_time_local",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "In_water_DateTime_UTC",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "particles_per_L",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "snow_bin_0_0_to_0_5",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "snow_bin_gt_0_5_to_1_0",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "snow_bin_gt_1_0_to_1_5",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "snow_bin_gt_1_5_to_2_0",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "snow_bin_gt_2_0_to_2_5",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "snow_bin_gt_2_5_to_3_0",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "snow_bin_gt_3_0_to_3_5",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "snow_bin_gt_3_5_to_4_0",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "snow_bin_gt_4_0_to_4_5",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "snow_bin_gt_4_5",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "phaeo_bin_0_0_to_0_5",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "phaeo_bin_gt_0_5_to_1_0",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "phaeo_bin_gt_1_0_to_1_5",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "phaeo_bin_gt_1_5_to_2_0",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "phaeo_bin_gt_2_0_to_2_5",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "phaeo_bin_gt_2_5_to_3_0",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "phaeo_bin_gt_3_0_to_3_5",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "phaeo_bin_gt_3_5_to_4_0",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "phaeo_bin_gt_4_0_to_4_5",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "phaeo_bin_gt_4_5",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          "",
+          "nd"
+        ]
+      }
+    }
+  ]
+}
