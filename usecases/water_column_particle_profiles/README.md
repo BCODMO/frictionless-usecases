@@ -4,7 +4,7 @@ These datasets are in the process of being served at bco-dmo.org.  Full document
 
 ## originally submitted file
 
-[orig/Elementa\ Aggregate\ Data.xlsx](orig/Elementa Aggregate Data.xlsx)
+[orig/Elementa%20Aggregate%20Data.xlsx](orig/Elementa Aggregate Data.xlsx)
 
 
 ## preprocessed data
