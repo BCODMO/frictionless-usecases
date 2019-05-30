@@ -1,0 +1,216 @@
+usecase-particles-v1_ghost_colonies:
+  title: usecase-particles-v1_ghost_colonies
+  description: 'OSPREY: https://www.bco-dmo.org/dataset/768570'
+  pipeline:
+  - bcodmo_notes: This is a processed version of original file This is a processed
+      version of original file https://github.com/BCODMO/frictionless-usecases/blob/master/usecases/water_column_particle_profiles/orig/metadata.xlsx?raw=true
+    cache: true
+    parameters:
+      force_strings: true
+      format: xlsx
+      from: https://github.com/BCODMO/frictionless-usecases/blob/master/usecases/water_column_particle_profiles/preprocessed/profile_info.xlsx?raw=true
+      headers: 1
+      missing_values:
+      - ''
+      - nd
+      name: profile_info
+      sheet: Asper and Smith metadata
+      skip_rows:
+      - '#'
+      validate: false
+      preserve_formatting: false
+    run: bcodmo_pipeline_processors.load
+  - bcodmo_notes: 'This works because it is still a string at this point.
+
+      I could have also done add booleand computed field which makes a new column
+      and you can say where {lat} > 0 then.... But you would make a new column and
+      delete the old.
+
+
+      Specifying ^ means it only matches starting from the beginning of the line.'
+    cache: true
+    parameters:
+      fields:
+      - name: Latitude
+        patterns:
+        - find: ^([0-9]+)
+          replace: -\1
+      resources:
+      - profile_info
+    run: find_replace
+  - run: find_replace
+    cache: true
+    parameters:
+      resources:
+      - profile_info
+      fields:
+      - patterns:
+        - find: T00:00:00
+          replace: ''
+        name: date_local
+  - run: add_computed_field
+    cache: true
+    parameters:
+      resources:
+      - profile_info
+      fields:
+      - operation: format
+        target: datetime_local
+        source: []
+        with: '{date_local} {In_water_time_local}'
+  - run: find_replace
+    cache: true
+    parameters:
+      resources:
+      - profile_info
+      fields:
+      - patterns:
+        - find: ^\d*-\d*-\d*$
+          replace: ''
+        name: datetime_local
+    bcodmo_notes: Remove from column if just date, no time.
+  - cache: true
+    parameters:
+      fields:
+      - output_field: In_water_DateTime_UTC
+        output_format: '%Y-%m-%dT%H:%M%Z'
+        input_type: python
+        output_timezone: UTC
+        input_fields:
+        - datetime_local
+        input_format: '%Y-%m-%d %H:%M:%S'
+        input_timezone: Antarctica/McMurdo
+      resources:
+      - profile_info
+    run: bcodmo_pipeline_processors.convert_date
+  - cache: true
+    parameters:
+      force_strings: true
+      format: xlsx
+      from: https://github.com/BCODMO/frictionless-usecases/blob/master/usecases/water_column_particle_profiles/preprocessed/elementa.xlsx?raw=true
+      headers: 1
+      missing_values:
+      - N/A
+      - nd
+      name: ghost_colonies
+      sheet: ghost colonies
+      skip_rows:
+      - '#'
+      validate: false
+      preserve_formatting: false
+    run: bcodmo_pipeline_processors.load
+    bcodmo_notes: This is a processed version of original file https://github.com/BCODMO/frictionless-usecases/blob/master/usecases/water_column_particle_profiles/orig/Elementa%20Aggregate%20Data.xlsx?raw=true
+  - cache: true
+    parameters:
+      fields:
+      - patterns:
+        - find: (.*)T00:00:00
+          replace: \1
+        name: Date
+      resources:
+      - ghost_colonies
+    run: find_replace
+  - bcodmo_notes: Back changing format to what was in Excel for prcision.
+    cache: true
+    parameters:
+      fields:
+      - digits: 2
+        name: depth
+      - digits: 2
+        name: particles_per_L
+      - digits: 2
+        name: bin_0_0_to_0_5
+      - digits: 2
+        name: bin_gt_0_5_to_1_0
+      - digits: 2
+        name: bin_gt_1_0_to_1_5
+      - digits: 2
+        name: bin_gt_1_5_to_2_0
+      - digits: 2
+        name: bin_gt_2_0_to_2_5
+      - digits: 2
+        name: bin_gt_2_5_to_3_0
+      - digits: 2
+        name: bin_gt_3_0_to_3_5
+      - digits: 2
+        name: bin_gt_3_5_to_4_0
+      - digits: 2
+        name: bin_gt_4_0_to_4_5
+      - digits: 2
+        name: bin_gt_4_5
+      resources:
+      - ghost_colonies
+    run: bcodmo_pipeline_processors.round_fields
+  - cache: false
+    parameters:
+      fields:
+        Canister:
+          aggregate: first
+          name: Canister
+        In_water_DateTime_UTC:
+          aggregate: first
+          name: In_water_DateTime_UTC
+        In_water_time_local:
+          aggregate: first
+          name: In_water_time_local
+        Latitude:
+          aggregate: first
+          name: Latitude
+        Longitude:
+          aggregate: first
+          name: Longitude
+        cruise_name:
+          aggregate: first
+          name: cruise_name
+        date_local:
+          name: date_local
+          aggregate: first
+        datetime_local:
+          name: datetime_local
+          aggregate: first
+      full: true
+      source:
+        delete: false
+        key:
+        - Profile_ID
+        name: profile_info
+      target:
+        key:
+        - Date
+        name: ghost_colonies
+    run: join
+    bcodmo_notes: ''
+  - run: delete_fields
+    cache: true
+    parameters:
+      resources:
+      - ghost_colonies
+      fields:
+      - datetime_local
+      - Date
+  - run: bcodmo_pipeline_processors.reorder_fields
+    cache: true
+    parameters:
+      resources:
+      - ghost_colonies
+      fields:
+      - cruise_name
+      - Canister
+      - Station
+      - Latitude
+      - Longitude
+      - depth
+      - date_local
+      - In_water_time_local
+      - In_water_DateTime_UTC
+      - particles_per_L
+      - bin_0_0_to_0_5
+      - bin_gt_0_5_to_1_0
+      - bin_gt_1_0_to_1_5
+      - bin_gt_1_5_to_2_0
+      - bin_gt_2_0_to_2_5
+      - bin_gt_2_5_to_3_0
+      - bin_gt_3_0_to_3_5
+      - bin_gt_3_5_to_4_0
+      - bin_gt_4_0_to_4_5
+      - bin_gt_4_5

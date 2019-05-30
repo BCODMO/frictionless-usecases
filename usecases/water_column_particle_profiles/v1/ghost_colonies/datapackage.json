@@ -1,0 +1,261 @@
+{
+  "bytes": 41520,
+  "count_of_rows": 347,
+  "hash": "d6a91048d9b7977f43f8909e1cf52cd3",
+  "name": "_",
+  "profile": "data-package",
+  "resources": [
+    {
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "dpp:streamedFrom": "https://github.com/BCODMO/frictionless-usecases/blob/master/usecases/water_column_particle_profiles/preprocessed/profile_info.xlsx?raw=true",
+      "dpp:streaming": true,
+      "encoding": "utf-8",
+      "format": "csv",
+      "name": "profile_info",
+      "path": "profile_info.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "Profile_ID",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Canister",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "cruise_name",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "cruise_id",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Label",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "date_local",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Station_id",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Station_comment",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "image_start",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "image_stop",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "total_images",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "In_water_time_local",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "max_wire_out",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "max_wire_out_comment",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Medium",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Latitude",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Longitude",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "In_water_timestamp_UTC",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "datetime_local",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "In_water_DateTime_UTC",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          "",
+          "nd"
+        ]
+      }
+    },
+    {
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "dpp:streamedFrom": "https://github.com/BCODMO/frictionless-usecases/blob/master/usecases/water_column_particle_profiles/preprocessed/elementa.xlsx?raw=true",
+      "dpp:streaming": true,
+      "encoding": "utf-8",
+      "format": "csv",
+      "name": "ghost_colonies",
+      "path": "ghost_colonies.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "cruise_name",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Canister",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Station",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Latitude",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Longitude",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "depth",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "date_local",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "In_water_time_local",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "In_water_DateTime_UTC",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "particles_per_L",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "bin_0_0_to_0_5",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "bin_gt_0_5_to_1_0",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "bin_gt_1_0_to_1_5",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "bin_gt_1_5_to_2_0",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "bin_gt_2_0_to_2_5",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "bin_gt_2_5_to_3_0",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "bin_gt_3_0_to_3_5",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "bin_gt_3_5_to_4_0",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "bin_gt_4_0_to_4_5",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "bin_gt_4_5",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          "N/A",
+          "nd"
+        ]
+      }
+    }
+  ]
+}
