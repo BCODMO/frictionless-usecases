@@ -46,7 +46,7 @@ Source files:
 
 Processing need:
 * Combine v1/ghost_colonies.csv and v1/particles_per_liter.csv. Do equivalent of a full outer join on with these two tabular datasets so that each row corresponds to the depth in a profile and has both the marine snow and ghost colony data. v1 data are clean and described on landing pages, they just need to be combined.
-    * Join on Canister,depth
-    * The results should have null values in "ghost colony" columns where there there were no matching Canister,depth in ghost_colonies.csv.  There should be null values in "marine snow" columns where there were no matching Canister,depth columns in particles_per_liter.csv
+    * Join on Profile_ID,depth
+    * The results should have null values in "ghost colony" columns where there there were no matching Profile_ID,depth in ghost_colonies.csv.  There should be null values in "marine snow" columns where there were no matching Profile_ID,depth columns in particles_per_liter.csv
 
 
