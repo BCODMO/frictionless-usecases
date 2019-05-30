@@ -214,3 +214,41 @@ usecase-particles-v1_ghost_colonies:
       - bin_gt_3_5_to_4_0
       - bin_gt_4_0_to_4_5
       - bin_gt_4_5
+  - run: add_computed_field
+    cache: true
+    parameters:
+      resources:
+      - ghost_colonies
+      fields:
+      - operation: format
+        target: Profile_ID
+        source: []
+        with: '{date_local}'
+    bcodmo_notes: 'This is needed to join to marine snow data.  '
+  - run: bcodmo_pipeline_processors.reorder_fields
+    cache: true
+    parameters:
+      resources:
+      - ghost_colonies
+      fields:
+      - cruise_name
+      - Profile_ID
+      - Canister
+      - Station
+      - Latitude
+      - Longitude
+      - depth
+      - date_local
+      - In_water_time_local
+      - In_water_DateTime_UTC
+      - particles_per_L
+      - bin_0_0_to_0_5
+      - bin_gt_0_5_to_1_0
+      - bin_gt_1_0_to_1_5
+      - bin_gt_1_5_to_2_0
+      - bin_gt_2_0_to_2_5
+      - bin_gt_2_5_to_3_0
+      - bin_gt_3_0_to_3_5
+      - bin_gt_3_5_to_4_0
+      - bin_gt_4_0_to_4_5
+      - bin_gt_4_5

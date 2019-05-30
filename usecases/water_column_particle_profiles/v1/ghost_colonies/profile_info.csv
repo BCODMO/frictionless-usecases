@@ -1,4 +1,4 @@
-﻿Profile_ID,Canister,cruise_name,cruise_id,Label,date_local,Station_id,Station_comment,image_start,image_stop,total_images,In_water_time_local,max_wire_out,max_wire_out_comment,Medium,Latitude,Longitude,In_water_timestamp_UTC,datetime_local,In_water_DateTime_UTC
+Profile_ID,Canister,cruise_name,cruise_id,Label,date_local,Station_id,Station_comment,image_start,image_stop,total_images,In_water_time_local,max_wire_out,max_wire_out_comment,Medium,Latitude,Longitude,In_water_timestamp_UTC,datetime_local,In_water_DateTime_UTC
 G,G,IVARS 1-1,1-1,,2001-12-20,Calinectes,,43,669,626,,700,,Film,-76.987,171.935,,,
 K,K,IVARS 1-1,1-1,,2001-12-22,Xiphias,,58,354,296,21:32:00,,,Film,-77.553,-177.977,2001-12-22T21:32Z,2001-12-22 21:32:00,2001-12-22T08:32Z
 L,L,IVARS 1-2,1-2,,2002-02-04,Calinectes,,60,688,628,19:09:00,724,at 20:41,Film,-77.008,171.826,2002-02-04T19:09Z,2002-02-04 19:09:00,2002-02-04T06:09Z

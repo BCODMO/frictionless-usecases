@@ -221,7 +221,6 @@ usecase-particles-v1-marine_snow:
       resources:
       - particles_per_liter
       fields:
+      - Date
       - datetime_local
       - In_water_timestamp_UTC
-      - Profile_ID
-      - Date

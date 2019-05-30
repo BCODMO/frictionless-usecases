@@ -1,7 +1,7 @@
 {
-  "bytes": 638898,
+  "bytes": 668357,
   "count_of_rows": 5388,
-  "hash": "2c05c0f934008e8709b024bb9c248259",
+  "hash": "6786d23fb109681ec0befc36efc02a89",
   "name": "_",
   "profile": "data-package",
   "resources": [
@@ -153,6 +153,11 @@
           {
             "format": "default",
             "name": "cruise_name",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Profile_ID",
             "type": "string"
           },
           {
