@@ -16,7 +16,7 @@ orig/"Elementa Aggregate Data.xlsx"
 General processing description:
 * Sheets in Elementa Aggregate Data.xlsx extracted as individual tabular resources in elementa.xlsx.  Some sheets actually had two separate tables in one sheet, one for marine snow particles and one for Phaeocystis ghost colonies together in one sheet.  Two independant tabular datasets created, one for ghost colonies, one for marine snow.
 * profile_info.xlsx - date/time/location formatting cleaned, missing values filled in from correspondence with PI.
-* There was no way to join the data sources so added "Profile_ID" columns so marine snow and ghost colony data could be joined to profile_info.
+* There was no way to join the data sources so added "Profile_ID" columns so marine snow and ghost colony data could be joined to profile_info.  Sometimes the unique identifier for profile was the "Canister" and sometimes the local date, so Profile_ID is a mix of those.
 
 ## data version 1 
 
