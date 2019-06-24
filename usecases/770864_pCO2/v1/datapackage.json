@@ -1,0 +1,135 @@
+{
+  "bytes": 880047,
+  "count_of_rows": 9197,
+  "hash": "a92b2992c17d071e7448c2fa680926db",
+  "metadata": {
+    "res1": {
+      "Cruise": {
+        "count": 9197,
+        "maximum": "GOM_UW_1704",
+        "minimum": "GOM_UW_1704"
+      },
+      "GPS_DateTime_UTC": {
+        "count": 9197,
+        "maximum": "2017-04-16T20:54:39Z",
+        "minimum": "2017-04-06T13:07:17Z"
+      },
+      "Latitude": {
+        "boundingbox": [
+          27.4902,
+          29.6455,
+          266.5777,
+          271.2016
+        ],
+        "count": 9197,
+        "maximum": 29.6455,
+        "minimum": 27.4902
+      },
+      "Longitude": {
+        "count": 9197,
+        "maximum": 271.2016,
+        "minimum": 266.5777
+      },
+      "Region": {
+        "count": 7372,
+        "maximum": "MisPlume(west)",
+        "minimum": "AtchCoast"
+      },
+      "Salinity": {
+        "count": 9197,
+        "maximum": 36.4,
+        "minimum": 0.208
+      },
+      "Temperature": {
+        "count": 9197,
+        "maximum": 24.9401,
+        "minimum": 17.2791
+      },
+      "pCO2": {
+        "count": 9172,
+        "maximum": 1802.9513130076461,
+        "minimum": 113.9379115817571
+      }
+    }
+  },
+  "name": "_",
+  "profile": "data-package",
+  "resources": [
+    {
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "dpp:streamedFrom": "https://github.com/BCODMO/frictionless-usecases/blob/master/usecases/770864_pCO2/orig/201704_GOM_Meta_Underway_submission.xlsx?raw=true",
+      "dpp:streaming": true,
+      "encoding": "utf-8",
+      "format": "csv",
+      "name": "pco2",
+      "path": "pco2.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "Region",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Cruise",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "GPS_DateTime_UTC",
+            "type": "string"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Longitude",
+            "type": "number"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Latitude",
+            "type": "number"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Temperature",
+            "type": "number"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Salinity",
+            "type": "number"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "pCO2",
+            "type": "number"
+          }
+        ],
+        "missingValues": [
+          "nd",
+          ""
+        ]
+      }
+    }
+  ]
+}

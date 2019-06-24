@@ -1,0 +1,119 @@
+usecase_inconsistant-preserve-format:
+  title: usecase_inconsistant-preserve-format
+  description: ''
+  pipeline:
+  - run: bcodmo_pipeline_processors.load
+    cache: false
+    parameters:
+      format: xlsx
+      from: https://github.com/BCODMO/frictionless-usecases/blob/master/usecases/770864_pCO2/orig/201704_GOM_Meta_Underway_submission.xlsx?raw=true
+      headers:
+      - Region
+      - Cruise
+      - GPS_DateTime_UTC
+      - Longitude
+      - Latitude
+      - Temperature
+      - Salinity
+      - pCO2
+      validate: false
+      force_strings: true
+      remove_empty_rows: true
+      skip_rows:
+      - 1
+      - 2
+      missing_values:
+      - nd
+      - ''
+      input_separator: ','
+      sheet: 1
+      preserve_formatting: true
+  - run: bcodmo_pipeline_processors.round_fields
+    cache: true
+    parameters:
+      resources:
+      - res1
+      fields:
+      - digits: 4
+        name: Longitude
+      - digits: 4
+        name: Latitude
+  - run: find_replace
+    cache: true
+    parameters:
+      resources:
+      - res1
+      fields:
+      - patterns:
+        - find: (.+)
+          replace: \1Z
+        name: GPS_DateTime_UTC
+  - run: set_types
+    cache: true
+    parameters:
+      regex: false
+      resources:
+      - res1
+      types:
+        Region:
+          type: string
+        Cruise:
+          type: string
+        GPS_DateTime_UTC:
+          type: string
+        Longitude:
+          type: number
+        Latitude:
+          type: number
+        Temperature:
+          type: number
+        Salinity:
+          type: number
+        pCO2:
+          type: number
+  - run: update_package
+    parameters:
+      metadata:
+        res1:
+          Region:
+            minimum: AtchCoast
+            maximum: MisPlume(west)
+            count: 7372
+          Cruise:
+            minimum: GOM_UW_1704
+            maximum: GOM_UW_1704
+            count: 9197
+          GPS_DateTime_UTC:
+            minimum: '2017-04-06T13:07:17Z'
+            maximum: '2017-04-16T20:54:39Z'
+            count: 9197
+          Longitude:
+            minimum: 266.5777
+            maximum: 271.2016
+            count: 9197
+          Latitude:
+            minimum: 27.4902
+            maximum: 29.6455
+            count: 9197
+            boundingbox:
+            - 27.4902
+            - 29.6455
+            - 266.5777
+            - 271.2016
+          Temperature:
+            minimum: 17.2791
+            maximum: 24.9401
+            count: 9197
+          Salinity:
+            minimum: 0.208
+            maximum: 36.4
+            count: 9197
+          pCO2:
+            minimum: 113.9379115817571
+            maximum: 1802.9513130076461
+            count: 9172
+  - run: bcodmo_pipeline_processors.rename_resource
+    cache: true
+    parameters:
+      old_resource: res1
+      new_resource: pco2
