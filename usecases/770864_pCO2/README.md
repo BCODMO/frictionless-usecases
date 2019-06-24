@@ -14,4 +14,4 @@ The folder [v1](v1) contains the output from a pipeline corresponding to data ve
 * datapackage.json
 * pco2.csv
 
-This pipeline uses custom pipeline processors found in the github repo BCODMO/pipeline-generator.
+This pipeline uses custom pipeline processors found in the github repo https://github.com/BCODMO/bcodmo_processors.
