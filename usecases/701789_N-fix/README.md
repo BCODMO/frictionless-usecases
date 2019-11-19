@@ -12,3 +12,4 @@ The [orig](orig) folder contains the original excel file submitted to BCO-DMO.
 * add timestamp (UTC) in ISO format
 * data with value "surface" in collection depth column should be changed to 0
 * remove parenthesis and units from column names (field descriptions and units captured in metadata).
+* remove spaces from column names
