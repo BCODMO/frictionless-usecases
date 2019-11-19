@@ -10,3 +10,4 @@ The [orig](orig) folder contains the original excel file submitted to BCO-DMO.
 
 * convert lat/lon to decimal degrees
 * add timestamp (UTC) in ISO format
+* data with value "surface" in collection depth column should be changed to 0
