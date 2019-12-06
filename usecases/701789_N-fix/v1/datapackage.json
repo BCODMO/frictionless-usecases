@@ -1,0 +1,160 @@
+{
+  "bytes": 2242,
+  "count_of_rows": 16,
+  "hash": "84eaffad57175992a486c2c137c73b00",
+  "name": "_",
+  "profile": "data-package",
+  "resources": [
+    {
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "dpp:streamedFrom": "https://github.com/BCODMO/frictionless-usecases/blob/master/usecases/701789_N-fix/orig/BCO-DMO.xlsx?raw=true",
+      "dpp:streaming": true,
+      "encoding": "utf-8",
+      "format": "csv",
+      "name": "nfix",
+      "path": "nfix.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "Sample ID",
+            "type": "string"
+          },
+          {
+            "format": "%Y-%m-%d",
+            "name": "Date_local",
+            "type": "date"
+          },
+          {
+            "format": "default",
+            "name": "Time_local",
+            "type": "string"
+          },
+          {
+            "format": "%Y-%m-%dT%H:%M:%S",
+            "name": "ISO_DateTime_UTC",
+            "outputFormat": "%Y-%m-%dT%H:%M:%SZ",
+            "type": "datetime"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Latitude",
+            "type": "number"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Longitude",
+            "type": "number"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Depth",
+            "type": "number"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Collection_Depth",
+            "type": "number"
+          },
+          {
+            "format": "default",
+            "name": "Size_fraction",
+            "type": "string"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Temperature",
+            "type": "number"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Salinity",
+            "type": "number"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "N_Fixation_Rate_Absolute",
+            "type": "number"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Nitrogen_Fixation_Rate_SE",
+            "type": "number"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Ammonium",
+            "type": "number"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Ammonium_SD",
+            "type": "number"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Nitrate",
+            "type": "number"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Nitrate_SD",
+            "type": "number"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Phosphate",
+            "type": "number"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Phosphate_SD",
+            "type": "number"
+          }
+        ],
+        "missingValues": [
+          "",
+          "nd",
+          "ND"
+        ]
+      }
+    }
+  ]
+}

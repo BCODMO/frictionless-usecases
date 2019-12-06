@@ -1,0 +1,225 @@
+701789_v1_nfix:
+  title: 701789_v1_nfix
+  description: 'BCO-DMO dataset landing page: https://www.bco-dmo.org/dataset/701789
+
+    submission: http://redmine.bco-dmo.org/issues/2313'
+  version: v1.0.7
+  pipeline:
+  - run: bcodmo_pipeline_processors.load
+    cache: false
+    parameters:
+      format: xlsx
+      from: https://github.com/BCODMO/frictionless-usecases/blob/master/usecases/701789_N-fix/orig/BCO-DMO.xlsx?raw=true
+      headers: 1
+      infer_strategy: strings
+      cast_strategy: strings
+      remove_empty_rows: true
+      skip_rows: []
+      override_schema:
+        missingValues:
+        - ''
+        - nd
+        - ND
+      input_separator: ','
+      sheet: 1
+      preserve_formatting: true
+      name: nfix
+  - run: bcodmo_pipeline_processors.find_replace
+    cache: true
+    parameters:
+      resources:
+      - nfix
+      fields:
+      - patterns:
+        - find: T00:00:00
+          replace: ''
+        name: Date
+  - run: bcodmo_pipeline_processors.find_replace
+    cache: true
+    parameters:
+      resources:
+      - nfix
+      fields:
+      - patterns:
+        - find: :00$
+          replace: ''
+        name: Local Time           (UTC - 08:00)
+  - run: bcodmo_pipeline_processors.convert_to_decimal_degrees
+    cache: true
+    parameters:
+      resources:
+      - nfix
+      fields:
+      - format: degrees-minutes-seconds
+        input_field: Latitude (N)
+        output_field: Latitude (N)
+        pattern: (?P<degrees>\w+).* (?P<minutes>\w+).* (?P<seconds>\w+).*$
+        directional: N
+    bcodmo_notes: "example input: 71\xB0 8\u2019 45\""
+  - run: bcodmo_pipeline_processors.convert_to_decimal_degrees
+    cache: true
+    parameters:
+      resources:
+      - nfix
+      fields:
+      - format: degrees-minutes-seconds
+        input_field: Longitude (W)
+        output_field: Longitude (W)
+        pattern: (?P<degrees>\w+).* (?P<minutes>\w+) ?. ?(?P<seconds>\w+).*$
+        directional: W
+  - run: bcodmo_pipeline_processors.round_fields
+    cache: true
+    parameters:
+      resources:
+      - nfix
+      fields:
+      - digits: 5
+        name: Latitude (N)
+        preserve_trailing_zeros: true
+      - digits: 5
+        name: Longitude (W)
+        preserve_trailing_zeros: true
+  - run: bcodmo_pipeline_processors.convert_date
+    cache: true
+    parameters:
+      resources:
+      - nfix
+      fields:
+      - input_type: python
+        inputs:
+        - field: Date
+          format: '%Y-%m-%d'
+        - field: Local Time           (UTC - 08:00)
+          format: '%H:%M'
+        input_timezone: US/Alaska
+        output_field: ISO_DateTime_UTC
+        output_format: '%Y-%m-%dT%H:%MZ'
+        output_timezone: UTC
+        year: ''
+  - run: bcodmo_pipeline_processors.reorder_fields
+    cache: true
+    parameters:
+      resources:
+      - nfix
+      fields:
+      - Sample ID
+      - Date
+      - Local Time           (UTC - 08:00)
+      - ISO_DateTime_UTC
+      - Latitude (N)
+      - Longitude (W)
+      - Depth (m)
+      - Collection Depth (m)
+      - "Size fraction (\xB5m)"
+      - "Temperature (\xB0C)"
+      - Salinity
+      - "Absolute_N_Fixation Rate (\xB5mol N L-1 h-1)"
+      - "Standard Deviation Nitrogen Fixation Rate  (\xB5mol N L-1 h-1)"
+      - "Ammonium (\xB5mol N L-1)"
+      - "Standard Deviation Ammonium (\xB5mol N L-1)"
+      - "Nitrate (\xB5mol N L-1)"
+      - "Standard Deviation Nitrate (\xB5mol N L-1)"
+      - "Phosphate (\xB5mol N L-1)"
+      - "Standard Deviation Phosphate (\xB5mol N L-1)"
+  - run: bcodmo_pipeline_processors.find_replace
+    cache: true
+    parameters:
+      resources:
+      - nfix
+      fields:
+      - patterns:
+        - find: surface
+          replace: '0'
+        name: Collection Depth (m)
+  - run: bcodmo_pipeline_processors.rename_fields
+    cache: true
+    parameters:
+      resources:
+      - nfix
+      fields:
+      - old_field: Local Time           (UTC - 08:00)
+        new_field: Time_local
+      - old_field: Date
+        new_field: Date_local
+      - old_field: Latitude (N)
+        new_field: Latitude
+      - old_field: Longitude (W)
+        new_field: Longitude
+      - old_field: Depth (m)
+        new_field: Depth
+      - old_field: Collection Depth (m)
+        new_field: Collection_Depth
+      - old_field: "Size fraction (\xB5m)"
+        new_field: Size_fraction
+      - old_field: "Temperature (\xB0C)"
+        new_field: Temperature
+      - old_field: "Absolute_N_Fixation Rate (\xB5mol N L-1 h-1)"
+        new_field: N_Fixation_Rate_Absolute
+      - old_field: "Standard Deviation Nitrogen Fixation Rate  (\xB5mol N L-1 h-1)"
+        new_field: Nitrogen_Fixation_Rate_SE
+      - old_field: "Ammonium (\xB5mol N L-1)"
+        new_field: Ammonium
+      - old_field: "Standard Deviation Ammonium (\xB5mol N L-1)"
+        new_field: Ammonium_SD
+      - old_field: "Nitrate (\xB5mol N L-1)"
+        new_field: Nitrate
+      - old_field: "Standard Deviation Nitrate (\xB5mol N L-1)"
+        new_field: Nitrate_SD
+      - old_field: "Phosphate (\xB5mol N L-1)"
+        new_field: Phosphate
+      - old_field: "Standard Deviation Phosphate (\xB5mol N L-1)"
+        new_field: Phosphate_SD
+  - run: set_types
+    cache: true
+    parameters:
+      regex: false
+      resources:
+      - nfix
+      types:
+        Sample ID:
+          type: string
+        Date_local:
+          type: date
+          format: '%Y-%m-%d'
+        Time_local:
+          type: string
+        ISO_DateTime_UTC:
+          type: datetime
+          format: '%Y-%m-%dT%H:%M:%SZ'
+          outputFormat: '%Y-%m-%dT%H:%M:%SZ'
+        Latitude:
+          type: number
+        Longitude:
+          type: number
+        Depth:
+          type: number
+        Collection_Depth:
+          type: number
+        Size_fraction:
+          type: string
+        Temperature:
+          type: number
+        Salinity:
+          type: number
+        N_Fixation_Rate_Absolute:
+          type: number
+        Nitrogen_Fixation_Rate_SE:
+          type: number
+        Ammonium:
+          type: number
+        Ammonium_SD:
+          type: number
+        Nitrate:
+          type: number
+        Nitrate_SD:
+          type: number
+        Phosphate:
+          type: number
+        Phosphate_SD:
+          type: number
+  - run: bcodmo_pipeline_processors.dump_to_path
+    parameters:
+      out-path: /data305/pipeline_results/701789_v1_nfix
+      force-format: true
+      format: csv
+      save_pipeline_spec: true
