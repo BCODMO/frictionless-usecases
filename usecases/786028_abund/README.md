@@ -24,6 +24,6 @@ epr.csv displayed in Laminar
 
 ## data version 2
 
-TBD. Needs all processing steps from data version 1 in addition to joining with another data source to get specied identifiers into the dataset.  
+TBD. Needs all processing steps from data version 1 in addition to joining with another data source to get species identifiers into the dataset.  
 
 This pipeline uses custom pipeline processors found in the github repo https://github.com/BCODMO/bcodmo_processors.
