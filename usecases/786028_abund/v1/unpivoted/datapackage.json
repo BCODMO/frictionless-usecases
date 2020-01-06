@@ -1,0 +1,70 @@
+{
+  "bytes": 119807,
+  "count_of_rows": 3536,
+  "hash": "7cfaa497c0bdedda92b250e2931dbf1f",
+  "name": "_",
+  "profile": "data-package",
+  "resources": [
+    {
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "dpp:streamedFrom": "https://github.com/BCODMO/frictionless-usecases/blob/master/usecases/786028_abund/orig/Pvent_P&S_135_supptable1_submit.xlsx?raw=true",
+      "dpp:streaming": true,
+      "encoding": "utf-8",
+      "format": "csv",
+      "name": "epr",
+      "path": "epr.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "Identification",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Date",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Zone",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "ID",
+            "type": "string"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Recovery_T",
+            "type": "number"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "abundance",
+            "type": "number"
+          }
+        ],
+        "missingValues": [
+          "",
+          "nd",
+          "ND"
+        ]
+      }
+    }
+  ]
+}

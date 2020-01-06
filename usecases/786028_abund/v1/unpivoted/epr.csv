@@ -1,0 +1,3537 @@
+Identification,Date,Zone,ID,Recovery_T,abundance
+Bathymargarites symplector,9,H,2,26.7,0
+Bathymargarites symplector,9,H,3,23.2,0
+Bathymargarites symplector,9,H,4,24.7,0
+Bathymargarites symplector,9,W,6,2.2,0
+Bathymargarites symplector,9,W,7,2.2,0
+Bathymargarites symplector,9,W,19,6.5,0
+Bathymargarites symplector,11,H,30,18.5,0
+Bathymargarites symplector,11,H,34,27,0
+Bathymargarites symplector,11,H,29,28,0
+Bathymargarites symplector,11,W,23,9.6,0
+Bathymargarites symplector,11,W,24,7,0
+Bathymargarites symplector,11,W,26,9,0
+Bathymargarites symplector,11,C,27,3.3,0
+Bathymargarites symplector,11,C,31,3.3,0
+Bathymargarites symplector,11,C,35,3.7,0
+Bathymargarites symplector,22,H,96,10,0
+Bathymargarites symplector,22,H,103,17.9,0
+Bathymargarites symplector,22,H,129,14.7,0
+Bathymargarites symplector,22,W,110,5.8,0
+Bathymargarites symplector,22,W,111,2.9,0
+Bathymargarites symplector,22,W,109,2.3,0
+Bathymargarites symplector,22,C,73,2.4,0
+Bathymargarites symplector,22,C,64,2.1,0
+Bathymargarites symplector,22,C,113,2,0
+Bathymargarites symplector,33,H,S139,2.3,0
+Bathymargarites symplector,33,H,S133,4.2,2
+Bathymargarites symplector,33,W,138,2.9,0
+Bathymargarites symplector,33,W,132,,0
+Bathymargarites symplector,96,W,156,3.1,3
+Bathymargarites symplector,96,W,158,2.6,5
+Bathymargarites symplector,96,W,159,,0
+Bathymargarites symplector,108,H,83,2.6,2
+Bathymargarites symplector,108,H,164,2.6,3
+Bathymargarites symplector,108,H,174,2.7,1
+Bathymargarites symplector,108,C,170,1.9,0
+Bathymargarites symplector,108,C,171,2.1,3
+Bathymargarites symplector,108,C,172,1.9,0
+Bathymargarites symplector,135,W,183,,1
+Bathymargarites symplector,135,W,184,,4
+Bathymargarites symplector,135,W,186,,1
+Bathymargarites symplector,135,C,180,2,2
+Bathymargarites symplector,135,C,182,2,0
+Bathymargarites symplector,135,C,187,2,2
+Bathymargarites symplector,Pre,H,215,,0
+Bathymargarites symplector,Pre,H,187,3.1,0
+Bathymargarites symplector,Pre,H,236,,1
+Bathymargarites symplector,Pre,W,184,2,4
+Bathymargarites symplector,Pre,W,232,,8
+Bathymargarites symplector,Pre,W,224,2.5,0
+Bathymargarites symplector,Pre,C,201,2.3,0
+Bathymargarites symplector,Pre,C,204,2,0
+Bathymargarites symplector,Pre,C,199,2,4
+Clypeosectus delectus,9,H,2,26.7,0
+Clypeosectus delectus,9,H,3,23.2,0
+Clypeosectus delectus,9,H,4,24.7,0
+Clypeosectus delectus,9,W,6,2.2,4
+Clypeosectus delectus,9,W,7,2.2,0
+Clypeosectus delectus,9,W,19,6.5,0
+Clypeosectus delectus,11,H,30,18.5,0
+Clypeosectus delectus,11,H,34,27,0
+Clypeosectus delectus,11,H,29,28,0
+Clypeosectus delectus,11,W,23,9.6,0
+Clypeosectus delectus,11,W,24,7,0
+Clypeosectus delectus,11,W,26,9,0
+Clypeosectus delectus,11,C,27,3.3,3
+Clypeosectus delectus,11,C,31,3.3,6
+Clypeosectus delectus,11,C,35,3.7,1
+Clypeosectus delectus,22,H,96,10,0
+Clypeosectus delectus,22,H,103,17.9,0
+Clypeosectus delectus,22,H,129,14.7,0
+Clypeosectus delectus,22,W,110,5.8,8
+Clypeosectus delectus,22,W,111,2.9,10
+Clypeosectus delectus,22,W,109,2.3,31
+Clypeosectus delectus,22,C,73,2.4,19
+Clypeosectus delectus,22,C,64,2.1,9
+Clypeosectus delectus,22,C,113,2,5
+Clypeosectus delectus,33,H,S139,2.3,0
+Clypeosectus delectus,33,H,S133,4.2,0
+Clypeosectus delectus,33,W,138,2.9,45
+Clypeosectus delectus,33,W,132,,63
+Clypeosectus delectus,96,W,156,3.1,14
+Clypeosectus delectus,96,W,158,2.6,17
+Clypeosectus delectus,96,W,159,,31
+Clypeosectus delectus,108,H,83,2.6,4
+Clypeosectus delectus,108,H,164,2.6,5
+Clypeosectus delectus,108,H,174,2.7,3
+Clypeosectus delectus,108,C,170,1.9,0
+Clypeosectus delectus,108,C,171,2.1,7
+Clypeosectus delectus,108,C,172,1.9,3
+Clypeosectus delectus,135,W,183,,0
+Clypeosectus delectus,135,W,184,,0
+Clypeosectus delectus,135,W,186,,0
+Clypeosectus delectus,135,C,180,2,2
+Clypeosectus delectus,135,C,182,2,0
+Clypeosectus delectus,135,C,187,2,0
+Clypeosectus delectus,Pre,H,215,,0
+Clypeosectus delectus,Pre,H,187,3.1,0
+Clypeosectus delectus,Pre,H,236,,0
+Clypeosectus delectus,Pre,W,184,2,0
+Clypeosectus delectus,Pre,W,232,,0
+Clypeosectus delectus,Pre,W,224,2.5,0
+Clypeosectus delectus,Pre,C,201,2.3,34
+Clypeosectus delectus,Pre,C,204,2,15
+Clypeosectus delectus,Pre,C,199,2,8
+Ctenopelta porifera,9,H,2,26.7,20
+Ctenopelta porifera,9,H,3,23.2,10
+Ctenopelta porifera,9,H,4,24.7,45
+Ctenopelta porifera,9,W,6,2.2,0
+Ctenopelta porifera,9,W,7,2.2,0
+Ctenopelta porifera,9,W,19,6.5,1
+Ctenopelta porifera,11,H,30,18.5,0
+Ctenopelta porifera,11,H,34,27,31
+Ctenopelta porifera,11,H,29,28,15
+Ctenopelta porifera,11,W,23,9.6,0
+Ctenopelta porifera,11,W,24,7,0
+Ctenopelta porifera,11,W,26,9,0
+Ctenopelta porifera,11,C,27,3.3,0
+Ctenopelta porifera,11,C,31,3.3,0
+Ctenopelta porifera,11,C,35,3.7,0
+Ctenopelta porifera,22,H,96,10,0
+Ctenopelta porifera,22,H,103,17.9,2
+Ctenopelta porifera,22,H,129,14.7,14
+Ctenopelta porifera,22,W,110,5.8,0
+Ctenopelta porifera,22,W,111,2.9,0
+Ctenopelta porifera,22,W,109,2.3,0
+Ctenopelta porifera,22,C,73,2.4,0
+Ctenopelta porifera,22,C,64,2.1,0
+Ctenopelta porifera,22,C,113,2,0
+Ctenopelta porifera,33,H,S139,2.3,0
+Ctenopelta porifera,33,H,S133,4.2,0
+Ctenopelta porifera,33,W,138,2.9,0
+Ctenopelta porifera,33,W,132,,0
+Ctenopelta porifera,96,W,156,3.1,0
+Ctenopelta porifera,96,W,158,2.6,0
+Ctenopelta porifera,96,W,159,,0
+Ctenopelta porifera,108,H,83,2.6,0
+Ctenopelta porifera,108,H,164,2.6,0
+Ctenopelta porifera,108,H,174,2.7,0
+Ctenopelta porifera,108,C,170,1.9,0
+Ctenopelta porifera,108,C,171,2.1,0
+Ctenopelta porifera,108,C,172,1.9,0
+Ctenopelta porifera,135,W,183,,0
+Ctenopelta porifera,135,W,184,,0
+Ctenopelta porifera,135,W,186,,0
+Ctenopelta porifera,135,C,180,2,0
+Ctenopelta porifera,135,C,182,2,0
+Ctenopelta porifera,135,C,187,2,0
+Ctenopelta porifera,Pre,H,215,,0
+Ctenopelta porifera,Pre,H,187,3.1,0
+Ctenopelta porifera,Pre,H,236,,0
+Ctenopelta porifera,Pre,W,184,2,0
+Ctenopelta porifera,Pre,W,232,,0
+Ctenopelta porifera,Pre,W,224,2.5,0
+Ctenopelta porifera,Pre,C,201,2.3,0
+Ctenopelta porifera,Pre,C,204,2,0
+Ctenopelta porifera,Pre,C,199,2,0
+Cyathermia naticoides,9,H,2,26.7,1
+Cyathermia naticoides,9,H,3,23.2,1
+Cyathermia naticoides,9,H,4,24.7,6
+Cyathermia naticoides,9,W,6,2.2,0
+Cyathermia naticoides,9,W,7,2.2,0
+Cyathermia naticoides,9,W,19,6.5,1
+Cyathermia naticoides,11,H,30,18.5,0
+Cyathermia naticoides,11,H,34,27,6
+Cyathermia naticoides,11,H,29,28,3
+Cyathermia naticoides,11,W,23,9.6,0
+Cyathermia naticoides,11,W,24,7,0
+Cyathermia naticoides,11,W,26,9,0
+Cyathermia naticoides,11,C,27,3.3,2
+Cyathermia naticoides,11,C,31,3.3,0
+Cyathermia naticoides,11,C,35,3.7,1
+Cyathermia naticoides,22,H,96,10,0
+Cyathermia naticoides,22,H,103,17.9,973
+Cyathermia naticoides,22,H,129,14.7,390
+Cyathermia naticoides,22,W,110,5.8,3
+Cyathermia naticoides,22,W,111,2.9,0
+Cyathermia naticoides,22,W,109,2.3,0
+Cyathermia naticoides,22,C,73,2.4,0
+Cyathermia naticoides,22,C,64,2.1,1
+Cyathermia naticoides,22,C,113,2,0
+Cyathermia naticoides,33,H,S139,2.3,0
+Cyathermia naticoides,33,H,S133,4.2,1
+Cyathermia naticoides,33,W,138,2.9,0
+Cyathermia naticoides,33,W,132,,0
+Cyathermia naticoides,96,W,156,3.1,0
+Cyathermia naticoides,96,W,158,2.6,0
+Cyathermia naticoides,96,W,159,,0
+Cyathermia naticoides,108,H,83,2.6,0
+Cyathermia naticoides,108,H,164,2.6,1
+Cyathermia naticoides,108,H,174,2.7,0
+Cyathermia naticoides,108,C,170,1.9,0
+Cyathermia naticoides,108,C,171,2.1,0
+Cyathermia naticoides,108,C,172,1.9,0
+Cyathermia naticoides,135,W,183,,0
+Cyathermia naticoides,135,W,184,,0
+Cyathermia naticoides,135,W,186,,0
+Cyathermia naticoides,135,C,180,2,0
+Cyathermia naticoides,135,C,182,2,0
+Cyathermia naticoides,135,C,187,2,0
+Cyathermia naticoides,Pre,H,215,,1
+Cyathermia naticoides,Pre,H,187,3.1,0
+Cyathermia naticoides,Pre,H,236,,0
+Cyathermia naticoides,Pre,W,184,2,0
+Cyathermia naticoides,Pre,W,232,,0
+Cyathermia naticoides,Pre,W,224,2.5,0
+Cyathermia naticoides,Pre,C,201,2.3,0
+Cyathermia naticoides,Pre,C,204,2,0
+Cyathermia naticoides,Pre,C,199,2,0
+Eulepetopsis vitrea,9,H,2,26.7,0
+Eulepetopsis vitrea,9,H,3,23.2,0
+Eulepetopsis vitrea,9,H,4,24.7,0
+Eulepetopsis vitrea,9,W,6,2.2,2
+Eulepetopsis vitrea,9,W,7,2.2,0
+Eulepetopsis vitrea,9,W,19,6.5,0
+Eulepetopsis vitrea,11,H,30,18.5,0
+Eulepetopsis vitrea,11,H,34,27,0
+Eulepetopsis vitrea,11,H,29,28,0
+Eulepetopsis vitrea,11,W,23,9.6,0
+Eulepetopsis vitrea,11,W,24,7,0
+Eulepetopsis vitrea,11,W,26,9,0
+Eulepetopsis vitrea,11,C,27,3.3,0
+Eulepetopsis vitrea,11,C,31,3.3,0
+Eulepetopsis vitrea,11,C,35,3.7,1
+Eulepetopsis vitrea,22,H,96,10,0
+Eulepetopsis vitrea,22,H,103,17.9,0
+Eulepetopsis vitrea,22,H,129,14.7,0
+Eulepetopsis vitrea,22,W,110,5.8,12
+Eulepetopsis vitrea,22,W,111,2.9,14
+Eulepetopsis vitrea,22,W,109,2.3,6
+Eulepetopsis vitrea,22,C,73,2.4,8
+Eulepetopsis vitrea,22,C,64,2.1,3
+Eulepetopsis vitrea,22,C,113,2,2
+Eulepetopsis vitrea,33,H,S139,2.3,2
+Eulepetopsis vitrea,33,H,S133,4.2,1
+Eulepetopsis vitrea,33,W,138,2.9,8
+Eulepetopsis vitrea,33,W,132,,6
+Eulepetopsis vitrea,96,W,156,3.1,97
+Eulepetopsis vitrea,96,W,158,2.6,104
+Eulepetopsis vitrea,96,W,159,,11
+Eulepetopsis vitrea,108,H,83,2.6,16
+Eulepetopsis vitrea,108,H,164,2.6,16
+Eulepetopsis vitrea,108,H,174,2.7,16
+Eulepetopsis vitrea,108,C,170,1.9,3
+Eulepetopsis vitrea,108,C,171,2.1,12
+Eulepetopsis vitrea,108,C,172,1.9,2
+Eulepetopsis vitrea,135,W,183,,0
+Eulepetopsis vitrea,135,W,184,,0
+Eulepetopsis vitrea,135,W,186,,1
+Eulepetopsis vitrea,135,C,180,2,1
+Eulepetopsis vitrea,135,C,182,2,0
+Eulepetopsis vitrea,135,C,187,2,0
+Eulepetopsis vitrea,Pre,H,215,,0
+Eulepetopsis vitrea,Pre,H,187,3.1,5
+Eulepetopsis vitrea,Pre,H,236,,7
+Eulepetopsis vitrea,Pre,W,184,2,13
+Eulepetopsis vitrea,Pre,W,232,,28
+Eulepetopsis vitrea,Pre,W,224,2.5,1
+Eulepetopsis vitrea,Pre,C,201,2.3,14
+Eulepetopsis vitrea,Pre,C,204,2,2
+Eulepetopsis vitrea,Pre,C,199,2,0
+Gorgoleptis spiralis,9,H,2,26.7,0
+Gorgoleptis spiralis,9,H,3,23.2,0
+Gorgoleptis spiralis,9,H,4,24.7,0
+Gorgoleptis spiralis,9,W,6,2.2,2
+Gorgoleptis spiralis,9,W,7,2.2,1
+Gorgoleptis spiralis,9,W,19,6.5,0
+Gorgoleptis spiralis,11,H,30,18.5,0
+Gorgoleptis spiralis,11,H,34,27,0
+Gorgoleptis spiralis,11,H,29,28,0
+Gorgoleptis spiralis,11,W,23,9.6,0
+Gorgoleptis spiralis,11,W,24,7,0
+Gorgoleptis spiralis,11,W,26,9,0
+Gorgoleptis spiralis,11,C,27,3.3,1
+Gorgoleptis spiralis,11,C,31,3.3,4
+Gorgoleptis spiralis,11,C,35,3.7,3
+Gorgoleptis spiralis,22,H,96,10,0
+Gorgoleptis spiralis,22,H,103,17.9,0
+Gorgoleptis spiralis,22,H,129,14.7,0
+Gorgoleptis spiralis,22,W,110,5.8,16
+Gorgoleptis spiralis,22,W,111,2.9,27
+Gorgoleptis spiralis,22,W,109,2.3,28
+Gorgoleptis spiralis,22,C,73,2.4,13
+Gorgoleptis spiralis,22,C,64,2.1,4
+Gorgoleptis spiralis,22,C,113,2,8
+Gorgoleptis spiralis,33,H,S139,2.3,0
+Gorgoleptis spiralis,33,H,S133,4.2,0
+Gorgoleptis spiralis,33,W,138,2.9,30
+Gorgoleptis spiralis,33,W,132,,43
+Gorgoleptis spiralis,96,W,156,3.1,3
+Gorgoleptis spiralis,96,W,158,2.6,2
+Gorgoleptis spiralis,96,W,159,,1
+Gorgoleptis spiralis,108,H,83,2.6,1
+Gorgoleptis spiralis,108,H,164,2.6,2
+Gorgoleptis spiralis,108,H,174,2.7,1
+Gorgoleptis spiralis,108,C,170,1.9,0
+Gorgoleptis spiralis,108,C,171,2.1,0
+Gorgoleptis spiralis,108,C,172,1.9,1
+Gorgoleptis spiralis,135,W,183,,0
+Gorgoleptis spiralis,135,W,184,,0
+Gorgoleptis spiralis,135,W,186,,0
+Gorgoleptis spiralis,135,C,180,2,0
+Gorgoleptis spiralis,135,C,182,2,0
+Gorgoleptis spiralis,135,C,187,2,0
+Gorgoleptis spiralis,Pre,H,215,,0
+Gorgoleptis spiralis,Pre,H,187,3.1,0
+Gorgoleptis spiralis,Pre,H,236,,0
+Gorgoleptis spiralis,Pre,W,184,2,0
+Gorgoleptis spiralis,Pre,W,232,,0
+Gorgoleptis spiralis,Pre,W,224,2.5,0
+Gorgoleptis spiralis,Pre,C,201,2.3,0
+Gorgoleptis spiralis,Pre,C,204,2,0
+Gorgoleptis spiralis,Pre,C,199,2,0
+Gorgoleptis emarginatus,9,H,2,26.7,0
+Gorgoleptis emarginatus,9,H,3,23.2,0
+Gorgoleptis emarginatus,9,H,4,24.7,0
+Gorgoleptis emarginatus,9,W,6,2.2,0
+Gorgoleptis emarginatus,9,W,7,2.2,0
+Gorgoleptis emarginatus,9,W,19,6.5,0
+Gorgoleptis emarginatus,11,H,30,18.5,0
+Gorgoleptis emarginatus,11,H,34,27,0
+Gorgoleptis emarginatus,11,H,29,28,0
+Gorgoleptis emarginatus,11,W,23,9.6,1
+Gorgoleptis emarginatus,11,W,24,7,0
+Gorgoleptis emarginatus,11,W,26,9,2
+Gorgoleptis emarginatus,11,C,27,3.3,0
+Gorgoleptis emarginatus,11,C,31,3.3,0
+Gorgoleptis emarginatus,11,C,35,3.7,0
+Gorgoleptis emarginatus,22,H,96,10,0
+Gorgoleptis emarginatus,22,H,103,17.9,0
+Gorgoleptis emarginatus,22,H,129,14.7,0
+Gorgoleptis emarginatus,22,W,110,5.8,3
+Gorgoleptis emarginatus,22,W,111,2.9,1
+Gorgoleptis emarginatus,22,W,109,2.3,3
+Gorgoleptis emarginatus,22,C,73,2.4,1
+Gorgoleptis emarginatus,22,C,64,2.1,2
+Gorgoleptis emarginatus,22,C,113,2,0
+Gorgoleptis emarginatus,33,H,S139,2.3,0
+Gorgoleptis emarginatus,33,H,S133,4.2,0
+Gorgoleptis emarginatus,33,W,138,2.9,0
+Gorgoleptis emarginatus,33,W,132,,6
+Gorgoleptis emarginatus,96,W,156,3.1,0
+Gorgoleptis emarginatus,96,W,158,2.6,0
+Gorgoleptis emarginatus,96,W,159,,0
+Gorgoleptis emarginatus,108,H,83,2.6,0
+Gorgoleptis emarginatus,108,H,164,2.6,0
+Gorgoleptis emarginatus,108,H,174,2.7,0
+Gorgoleptis emarginatus,108,C,170,1.9,0
+Gorgoleptis emarginatus,108,C,171,2.1,0
+Gorgoleptis emarginatus,108,C,172,1.9,0
+Gorgoleptis emarginatus,135,W,183,,0
+Gorgoleptis emarginatus,135,W,184,,0
+Gorgoleptis emarginatus,135,W,186,,0
+Gorgoleptis emarginatus,135,C,180,2,0
+Gorgoleptis emarginatus,135,C,182,2,0
+Gorgoleptis emarginatus,135,C,187,2,0
+Gorgoleptis emarginatus,Pre,H,215,,0
+Gorgoleptis emarginatus,Pre,H,187,3.1,1
+Gorgoleptis emarginatus,Pre,H,236,,0
+Gorgoleptis emarginatus,Pre,W,184,2,0
+Gorgoleptis emarginatus,Pre,W,232,,0
+Gorgoleptis emarginatus,Pre,W,224,2.5,0
+Gorgoleptis emarginatus,Pre,C,201,2.3,0
+Gorgoleptis emarginatus,Pre,C,204,2,0
+Gorgoleptis emarginatus,Pre,C,199,2,0
+Laeviphitus sp.,9,H,2,26.7,0
+Laeviphitus sp.,9,H,3,23.2,0
+Laeviphitus sp.,9,H,4,24.7,0
+Laeviphitus sp.,9,W,6,2.2,0
+Laeviphitus sp.,9,W,7,2.2,0
+Laeviphitus sp.,9,W,19,6.5,0
+Laeviphitus sp.,11,H,30,18.5,0
+Laeviphitus sp.,11,H,34,27,0
+Laeviphitus sp.,11,H,29,28,0
+Laeviphitus sp.,11,W,23,9.6,0
+Laeviphitus sp.,11,W,24,7,0
+Laeviphitus sp.,11,W,26,9,0
+Laeviphitus sp.,11,C,27,3.3,0
+Laeviphitus sp.,11,C,31,3.3,0
+Laeviphitus sp.,11,C,35,3.7,0
+Laeviphitus sp.,22,H,96,10,0
+Laeviphitus sp.,22,H,103,17.9,0
+Laeviphitus sp.,22,H,129,14.7,0
+Laeviphitus sp.,22,W,110,5.8,0
+Laeviphitus sp.,22,W,111,2.9,0
+Laeviphitus sp.,22,W,109,2.3,0
+Laeviphitus sp.,22,C,73,2.4,0
+Laeviphitus sp.,22,C,64,2.1,0
+Laeviphitus sp.,22,C,113,2,0
+Laeviphitus sp.,33,H,S139,2.3,0
+Laeviphitus sp.,33,H,S133,4.2,0
+Laeviphitus sp.,33,W,138,2.9,0
+Laeviphitus sp.,33,W,132,,0
+Laeviphitus sp.,96,W,156,3.1,0
+Laeviphitus sp.,96,W,158,2.6,0
+Laeviphitus sp.,96,W,159,,0
+Laeviphitus sp.,108,H,83,2.6,0
+Laeviphitus sp.,108,H,164,2.6,0
+Laeviphitus sp.,108,H,174,2.7,0
+Laeviphitus sp.,108,C,170,1.9,0
+Laeviphitus sp.,108,C,171,2.1,0
+Laeviphitus sp.,108,C,172,1.9,0
+Laeviphitus sp.,135,W,183,,0
+Laeviphitus sp.,135,W,184,,0
+Laeviphitus sp.,135,W,186,,0
+Laeviphitus sp.,135,C,180,2,0
+Laeviphitus sp.,135,C,182,2,0
+Laeviphitus sp.,135,C,187,2,1
+Laeviphitus sp.,Pre,H,215,,0
+Laeviphitus sp.,Pre,H,187,3.1,0
+Laeviphitus sp.,Pre,H,236,,0
+Laeviphitus sp.,Pre,W,184,2,0
+Laeviphitus sp.,Pre,W,232,,0
+Laeviphitus sp.,Pre,W,224,2.5,0
+Laeviphitus sp.,Pre,C,201,2.3,0
+Laeviphitus sp.,Pre,C,204,2,0
+Laeviphitus sp.,Pre,C,199,2,0
+Lepetodrilus cristatus,9,H,2,26.7,0
+Lepetodrilus cristatus,9,H,3,23.2,0
+Lepetodrilus cristatus,9,H,4,24.7,0
+Lepetodrilus cristatus,9,W,6,2.2,0
+Lepetodrilus cristatus,9,W,7,2.2,0
+Lepetodrilus cristatus,9,W,19,6.5,0
+Lepetodrilus cristatus,11,H,30,18.5,0
+Lepetodrilus cristatus,11,H,34,27,0
+Lepetodrilus cristatus,11,H,29,28,0
+Lepetodrilus cristatus,11,W,23,9.6,0
+Lepetodrilus cristatus,11,W,24,7,0
+Lepetodrilus cristatus,11,W,26,9,0
+Lepetodrilus cristatus,11,C,27,3.3,0
+Lepetodrilus cristatus,11,C,31,3.3,0
+Lepetodrilus cristatus,11,C,35,3.7,0
+Lepetodrilus cristatus,22,H,96,10,0
+Lepetodrilus cristatus,22,H,103,17.9,0
+Lepetodrilus cristatus,22,H,129,14.7,0
+Lepetodrilus cristatus,22,W,110,5.8,0
+Lepetodrilus cristatus,22,W,111,2.9,0
+Lepetodrilus cristatus,22,W,109,2.3,0
+Lepetodrilus cristatus,22,C,73,2.4,0
+Lepetodrilus cristatus,22,C,64,2.1,0
+Lepetodrilus cristatus,22,C,113,2,0
+Lepetodrilus cristatus,33,H,S139,2.3,0
+Lepetodrilus cristatus,33,H,S133,4.2,2
+Lepetodrilus cristatus,33,W,138,2.9,0
+Lepetodrilus cristatus,33,W,132,,0
+Lepetodrilus cristatus,96,W,156,3.1,0
+Lepetodrilus cristatus,96,W,158,2.6,0
+Lepetodrilus cristatus,96,W,159,,0
+Lepetodrilus cristatus,108,H,83,2.6,0
+Lepetodrilus cristatus,108,H,164,2.6,0
+Lepetodrilus cristatus,108,H,174,2.7,0
+Lepetodrilus cristatus,108,C,170,1.9,0
+Lepetodrilus cristatus,108,C,171,2.1,0
+Lepetodrilus cristatus,108,C,172,1.9,0
+Lepetodrilus cristatus,135,W,183,,0
+Lepetodrilus cristatus,135,W,184,,0
+Lepetodrilus cristatus,135,W,186,,0
+Lepetodrilus cristatus,135,C,180,2,0
+Lepetodrilus cristatus,135,C,182,2,0
+Lepetodrilus cristatus,135,C,187,2,0
+Lepetodrilus cristatus,Pre,H,215,,0
+Lepetodrilus cristatus,Pre,H,187,3.1,0
+Lepetodrilus cristatus,Pre,H,236,,0
+Lepetodrilus cristatus,Pre,W,184,2,0
+Lepetodrilus cristatus,Pre,W,232,,0
+Lepetodrilus cristatus,Pre,W,224,2.5,0
+Lepetodrilus cristatus,Pre,C,201,2.3,0
+Lepetodrilus cristatus,Pre,C,204,2,0
+Lepetodrilus cristatus,Pre,C,199,2,0
+Lepetodrilus elevatus,9,H,2,26.7,0
+Lepetodrilus elevatus,9,H,3,23.2,0
+Lepetodrilus elevatus,9,H,4,24.7,0
+Lepetodrilus elevatus,9,W,6,2.2,0
+Lepetodrilus elevatus,9,W,7,2.2,0
+Lepetodrilus elevatus,9,W,19,6.5,2
+Lepetodrilus elevatus,11,H,30,18.5,0
+Lepetodrilus elevatus,11,H,34,27,0
+Lepetodrilus elevatus,11,H,29,28,0
+Lepetodrilus elevatus,11,W,23,9.6,2
+Lepetodrilus elevatus,11,W,24,7,0
+Lepetodrilus elevatus,11,W,26,9,0
+Lepetodrilus elevatus,11,C,27,3.3,0
+Lepetodrilus elevatus,11,C,31,3.3,0
+Lepetodrilus elevatus,11,C,35,3.7,0
+Lepetodrilus elevatus,22,H,96,10,287
+Lepetodrilus elevatus,22,H,103,17.9,422
+Lepetodrilus elevatus,22,H,129,14.7,7
+Lepetodrilus elevatus,22,W,110,5.8,0
+Lepetodrilus elevatus,22,W,111,2.9,0
+Lepetodrilus elevatus,22,W,109,2.3,15
+Lepetodrilus elevatus,22,C,73,2.4,14
+Lepetodrilus elevatus,22,C,64,2.1,0
+Lepetodrilus elevatus,22,C,113,2,1
+Lepetodrilus elevatus,33,H,S139,2.3,392
+Lepetodrilus elevatus,33,H,S133,4.2,667
+Lepetodrilus elevatus,33,W,138,2.9,2
+Lepetodrilus elevatus,33,W,132,,81
+Lepetodrilus elevatus,96,W,156,3.1,1
+Lepetodrilus elevatus,96,W,158,2.6,0
+Lepetodrilus elevatus,96,W,159,,0
+Lepetodrilus elevatus,108,H,83,2.6,0
+Lepetodrilus elevatus,108,H,164,2.6,0
+Lepetodrilus elevatus,108,H,174,2.7,0
+Lepetodrilus elevatus,108,C,170,1.9,0
+Lepetodrilus elevatus,108,C,171,2.1,0
+Lepetodrilus elevatus,108,C,172,1.9,0
+Lepetodrilus elevatus,135,W,183,,0
+Lepetodrilus elevatus,135,W,184,,0
+Lepetodrilus elevatus,135,W,186,,0
+Lepetodrilus elevatus,135,C,180,2,0
+Lepetodrilus elevatus,135,C,182,2,0
+Lepetodrilus elevatus,135,C,187,2,0
+Lepetodrilus elevatus,Pre,H,215,,1
+Lepetodrilus elevatus,Pre,H,187,3.1,1
+Lepetodrilus elevatus,Pre,H,236,,9
+Lepetodrilus elevatus,Pre,W,184,2,1
+Lepetodrilus elevatus,Pre,W,232,,26
+Lepetodrilus elevatus,Pre,W,224,2.5,0
+Lepetodrilus elevatus,Pre,C,201,2.3,9
+Lepetodrilus elevatus,Pre,C,204,2,0
+Lepetodrilus elevatus,Pre,C,199,2,0
+Lepetodrilus ovalis,9,H,2,26.7,0
+Lepetodrilus ovalis,9,H,3,23.2,0
+Lepetodrilus ovalis,9,H,4,24.7,0
+Lepetodrilus ovalis,9,W,6,2.2,0
+Lepetodrilus ovalis,9,W,7,2.2,0
+Lepetodrilus ovalis,9,W,19,6.5,0
+Lepetodrilus ovalis,11,H,30,18.5,0
+Lepetodrilus ovalis,11,H,34,27,0
+Lepetodrilus ovalis,11,H,29,28,0
+Lepetodrilus ovalis,11,W,23,9.6,0
+Lepetodrilus ovalis,11,W,24,7,1
+Lepetodrilus ovalis,11,W,26,9,2
+Lepetodrilus ovalis,11,C,27,3.3,0
+Lepetodrilus ovalis,11,C,31,3.3,0
+Lepetodrilus ovalis,11,C,35,3.7,0
+Lepetodrilus ovalis,22,H,96,10,1
+Lepetodrilus ovalis,22,H,103,17.9,0
+Lepetodrilus ovalis,22,H,129,14.7,0
+Lepetodrilus ovalis,22,W,110,5.8,23
+Lepetodrilus ovalis,22,W,111,2.9,6
+Lepetodrilus ovalis,22,W,109,2.3,4
+Lepetodrilus ovalis,22,C,73,2.4,1
+Lepetodrilus ovalis,22,C,64,2.1,17
+Lepetodrilus ovalis,22,C,113,2,6
+Lepetodrilus ovalis,33,H,S139,2.3,0
+Lepetodrilus ovalis,33,H,S133,4.2,1
+Lepetodrilus ovalis,33,W,138,2.9,11
+Lepetodrilus ovalis,33,W,132,,53
+Lepetodrilus ovalis,96,W,156,3.1,39
+Lepetodrilus ovalis,96,W,158,2.6,0
+Lepetodrilus ovalis,96,W,159,,70
+Lepetodrilus ovalis,108,H,83,2.6,18
+Lepetodrilus ovalis,108,H,164,2.6,18
+Lepetodrilus ovalis,108,H,174,2.7,39
+Lepetodrilus ovalis,108,C,170,1.9,2
+Lepetodrilus ovalis,108,C,171,2.1,15
+Lepetodrilus ovalis,108,C,172,1.9,3
+Lepetodrilus ovalis,135,W,183,,0
+Lepetodrilus ovalis,135,W,184,,1
+Lepetodrilus ovalis,135,W,186,,0
+Lepetodrilus ovalis,135,C,180,2,0
+Lepetodrilus ovalis,135,C,182,2,1
+Lepetodrilus ovalis,135,C,187,2,1
+Lepetodrilus ovalis,Pre,H,215,,6
+Lepetodrilus ovalis,Pre,H,187,3.1,36
+Lepetodrilus ovalis,Pre,H,236,,13
+Lepetodrilus ovalis,Pre,W,184,2,11
+Lepetodrilus ovalis,Pre,W,232,,35
+Lepetodrilus ovalis,Pre,W,224,2.5,7
+Lepetodrilus ovalis,Pre,C,201,2.3,51
+Lepetodrilus ovalis,Pre,C,204,2,4
+Lepetodrilus ovalis,Pre,C,199,2,0
+Lepetodrilus pustulosus,9,H,2,26.7,0
+Lepetodrilus pustulosus,9,H,3,23.2,0
+Lepetodrilus pustulosus,9,H,4,24.7,0
+Lepetodrilus pustulosus,9,W,6,2.2,0
+Lepetodrilus pustulosus,9,W,7,2.2,0
+Lepetodrilus pustulosus,9,W,19,6.5,0
+Lepetodrilus pustulosus,11,H,30,18.5,0
+Lepetodrilus pustulosus,11,H,34,27,0
+Lepetodrilus pustulosus,11,H,29,28,0
+Lepetodrilus pustulosus,11,W,23,9.6,9
+Lepetodrilus pustulosus,11,W,24,7,4
+Lepetodrilus pustulosus,11,W,26,9,1
+Lepetodrilus pustulosus,11,C,27,3.3,0
+Lepetodrilus pustulosus,11,C,31,3.3,0
+Lepetodrilus pustulosus,11,C,35,3.7,0
+Lepetodrilus pustulosus,22,H,96,10,1
+Lepetodrilus pustulosus,22,H,103,17.9,0
+Lepetodrilus pustulosus,22,H,129,14.7,0
+Lepetodrilus pustulosus,22,W,110,5.8,0
+Lepetodrilus pustulosus,22,W,111,2.9,0
+Lepetodrilus pustulosus,22,W,109,2.3,0
+Lepetodrilus pustulosus,22,C,73,2.4,3
+Lepetodrilus pustulosus,22,C,64,2.1,0
+Lepetodrilus pustulosus,22,C,113,2,0
+Lepetodrilus pustulosus,33,H,S139,2.3,1
+Lepetodrilus pustulosus,33,H,S133,4.2,0
+Lepetodrilus pustulosus,33,W,138,2.9,0
+Lepetodrilus pustulosus,33,W,132,,0
+Lepetodrilus pustulosus,96,W,156,3.1,0
+Lepetodrilus pustulosus,96,W,158,2.6,0
+Lepetodrilus pustulosus,96,W,159,,0
+Lepetodrilus pustulosus,108,H,83,2.6,0
+Lepetodrilus pustulosus,108,H,164,2.6,0
+Lepetodrilus pustulosus,108,H,174,2.7,0
+Lepetodrilus pustulosus,108,C,170,1.9,0
+Lepetodrilus pustulosus,108,C,171,2.1,0
+Lepetodrilus pustulosus,108,C,172,1.9,0
+Lepetodrilus pustulosus,135,W,183,,0
+Lepetodrilus pustulosus,135,W,184,,0
+Lepetodrilus pustulosus,135,W,186,,0
+Lepetodrilus pustulosus,135,C,180,2,0
+Lepetodrilus pustulosus,135,C,182,2,0
+Lepetodrilus pustulosus,135,C,187,2,0
+Lepetodrilus pustulosus,Pre,H,215,,0
+Lepetodrilus pustulosus,Pre,H,187,3.1,0
+Lepetodrilus pustulosus,Pre,H,236,,0
+Lepetodrilus pustulosus,Pre,W,184,2,0
+Lepetodrilus pustulosus,Pre,W,232,,0
+Lepetodrilus pustulosus,Pre,W,224,2.5,0
+Lepetodrilus pustulosus,Pre,C,201,2.3,0
+Lepetodrilus pustulosus,Pre,C,204,2,0
+Lepetodrilus pustulosus,Pre,C,199,2,0
+Lepetodrilus tevnianus,9,H,2,26.7,1
+Lepetodrilus tevnianus,9,H,3,23.2,0
+Lepetodrilus tevnianus,9,H,4,24.7,21
+Lepetodrilus tevnianus,9,W,6,2.2,378
+Lepetodrilus tevnianus,9,W,7,2.2,1268
+Lepetodrilus tevnianus,9,W,19,6.5,1557
+Lepetodrilus tevnianus,11,H,30,18.5,52
+Lepetodrilus tevnianus,11,H,34,27,0
+Lepetodrilus tevnianus,11,H,29,28,19
+Lepetodrilus tevnianus,11,W,23,9.6,466
+Lepetodrilus tevnianus,11,W,24,7,928
+Lepetodrilus tevnianus,11,W,26,9,769
+Lepetodrilus tevnianus,11,C,27,3.3,18
+Lepetodrilus tevnianus,11,C,31,3.3,56
+Lepetodrilus tevnianus,11,C,35,3.7,556
+Lepetodrilus tevnianus,22,H,96,10,433
+Lepetodrilus tevnianus,22,H,103,17.9,278
+Lepetodrilus tevnianus,22,H,129,14.7,8
+Lepetodrilus tevnianus,22,W,110,5.8,33
+Lepetodrilus tevnianus,22,W,111,2.9,217
+Lepetodrilus tevnianus,22,W,109,2.3,97
+Lepetodrilus tevnianus,22,C,73,2.4,106
+Lepetodrilus tevnianus,22,C,64,2.1,2
+Lepetodrilus tevnianus,22,C,113,2,7
+Lepetodrilus tevnianus,33,H,S139,2.3,76
+Lepetodrilus tevnianus,33,H,S133,4.2,37
+Lepetodrilus tevnianus,33,W,138,2.9,1
+Lepetodrilus tevnianus,33,W,132,,38
+Lepetodrilus tevnianus,96,W,156,3.1,1
+Lepetodrilus tevnianus,96,W,158,2.6,0
+Lepetodrilus tevnianus,96,W,159,,0
+Lepetodrilus tevnianus,108,H,83,2.6,0
+Lepetodrilus tevnianus,108,H,164,2.6,0
+Lepetodrilus tevnianus,108,H,174,2.7,0
+Lepetodrilus tevnianus,108,C,170,1.9,0
+Lepetodrilus tevnianus,108,C,171,2.1,0
+Lepetodrilus tevnianus,108,C,172,1.9,0
+Lepetodrilus tevnianus,135,W,183,,0
+Lepetodrilus tevnianus,135,W,184,,0
+Lepetodrilus tevnianus,135,W,186,,0
+Lepetodrilus tevnianus,135,C,180,2,0
+Lepetodrilus tevnianus,135,C,182,2,0
+Lepetodrilus tevnianus,135,C,187,2,0
+Lepetodrilus tevnianus,Pre,H,215,,0
+Lepetodrilus tevnianus,Pre,H,187,3.1,0
+Lepetodrilus tevnianus,Pre,H,236,,0
+Lepetodrilus tevnianus,Pre,W,184,2,0
+Lepetodrilus tevnianus,Pre,W,232,,0
+Lepetodrilus tevnianus,Pre,W,224,2.5,0
+Lepetodrilus tevnianus,Pre,C,201,2.3,0
+Lepetodrilus tevnianus,Pre,C,204,2,0
+Lepetodrilus tevnianus,Pre,C,199,2,0
+Lepetodrilus spp.,9,H,2,26.7,0
+Lepetodrilus spp.,9,H,3,23.2,0
+Lepetodrilus spp.,9,H,4,24.7,1
+Lepetodrilus spp.,9,W,6,2.2,1738
+Lepetodrilus spp.,9,W,7,2.2,633
+Lepetodrilus spp.,9,W,19,6.5,1056
+Lepetodrilus spp.,11,H,30,18.5,0
+Lepetodrilus spp.,11,H,34,27,0
+Lepetodrilus spp.,11,H,29,28,0
+Lepetodrilus spp.,11,W,23,9.6,282
+Lepetodrilus spp.,11,W,24,7,428
+Lepetodrilus spp.,11,W,26,9,291
+Lepetodrilus spp.,11,C,27,3.3,268
+Lepetodrilus spp.,11,C,31,3.3,465
+Lepetodrilus spp.,11,C,35,3.7,527
+Lepetodrilus spp.,22,H,96,10,196
+Lepetodrilus spp.,22,H,103,17.9,101
+Lepetodrilus spp.,22,H,129,14.7,1
+Lepetodrilus spp.,22,W,110,5.8,2584
+Lepetodrilus spp.,22,W,111,2.9,9464
+Lepetodrilus spp.,22,W,109,2.3,5373
+Lepetodrilus spp.,22,C,73,2.4,8567
+Lepetodrilus spp.,22,C,64,2.1,204
+Lepetodrilus spp.,22,C,113,2,308
+Lepetodrilus spp.,33,H,S139,2.3,1155
+Lepetodrilus spp.,33,H,S133,4.2,1522
+Lepetodrilus spp.,33,W,138,2.9,256
+Lepetodrilus spp.,33,W,132,,513
+Lepetodrilus spp.,96,W,156,3.1,5
+Lepetodrilus spp.,96,W,158,2.6,1
+Lepetodrilus spp.,96,W,159,,16
+Lepetodrilus spp.,108,H,83,2.6,31
+Lepetodrilus spp.,108,H,164,2.6,30
+Lepetodrilus spp.,108,H,174,2.7,13
+Lepetodrilus spp.,108,C,170,1.9,1
+Lepetodrilus spp.,108,C,171,2.1,30
+Lepetodrilus spp.,108,C,172,1.9,6
+Lepetodrilus spp.,135,W,183,,0
+Lepetodrilus spp.,135,W,184,,3
+Lepetodrilus spp.,135,W,186,,0
+Lepetodrilus spp.,135,C,180,2,1
+Lepetodrilus spp.,135,C,182,2,0
+Lepetodrilus spp.,135,C,187,2,0
+Lepetodrilus spp.,Pre,H,215,,0
+Lepetodrilus spp.,Pre,H,187,3.1,0
+Lepetodrilus spp.,Pre,H,236,,0
+Lepetodrilus spp.,Pre,W,184,2,0
+Lepetodrilus spp.,Pre,W,232,,0
+Lepetodrilus spp.,Pre,W,224,2.5,0
+Lepetodrilus spp.,Pre,C,201,2.3,0
+Lepetodrilus spp.,Pre,C,204,2,0
+Lepetodrilus spp.,Pre,C,199,2,0
+Melanodrymia sp.,9,H,2,26.7,0
+Melanodrymia sp.,9,H,3,23.2,0
+Melanodrymia sp.,9,H,4,24.7,0
+Melanodrymia sp.,9,W,6,2.2,0
+Melanodrymia sp.,9,W,7,2.2,0
+Melanodrymia sp.,9,W,19,6.5,0
+Melanodrymia sp.,11,H,30,18.5,0
+Melanodrymia sp.,11,H,34,27,0
+Melanodrymia sp.,11,H,29,28,0
+Melanodrymia sp.,11,W,23,9.6,0
+Melanodrymia sp.,11,W,24,7,0
+Melanodrymia sp.,11,W,26,9,0
+Melanodrymia sp.,11,C,27,3.3,0
+Melanodrymia sp.,11,C,31,3.3,0
+Melanodrymia sp.,11,C,35,3.7,0
+Melanodrymia sp.,22,H,96,10,0
+Melanodrymia sp.,22,H,103,17.9,0
+Melanodrymia sp.,22,H,129,14.7,0
+Melanodrymia sp.,22,W,110,5.8,0
+Melanodrymia sp.,22,W,111,2.9,0
+Melanodrymia sp.,22,W,109,2.3,0
+Melanodrymia sp.,22,C,73,2.4,0
+Melanodrymia sp.,22,C,64,2.1,0
+Melanodrymia sp.,22,C,113,2,0
+Melanodrymia sp.,33,H,S139,2.3,0
+Melanodrymia sp.,33,H,S133,4.2,0
+Melanodrymia sp.,33,W,138,2.9,0
+Melanodrymia sp.,33,W,132,,0
+Melanodrymia sp.,96,W,156,3.1,0
+Melanodrymia sp.,96,W,158,2.6,0
+Melanodrymia sp.,96,W,159,,0
+Melanodrymia sp.,108,H,83,2.6,0
+Melanodrymia sp.,108,H,164,2.6,0
+Melanodrymia sp.,108,H,174,2.7,0
+Melanodrymia sp.,108,C,170,1.9,0
+Melanodrymia sp.,108,C,171,2.1,0
+Melanodrymia sp.,108,C,172,1.9,0
+Melanodrymia sp.,135,W,183,,0
+Melanodrymia sp.,135,W,184,,0
+Melanodrymia sp.,135,W,186,,1
+Melanodrymia sp.,135,C,180,2,0
+Melanodrymia sp.,135,C,182,2,0
+Melanodrymia sp.,135,C,187,2,0
+Melanodrymia sp.,Pre,H,215,,0
+Melanodrymia sp.,Pre,H,187,3.1,0
+Melanodrymia sp.,Pre,H,236,,0
+Melanodrymia sp.,Pre,W,184,2,0
+Melanodrymia sp.,Pre,W,232,,0
+Melanodrymia sp.,Pre,W,224,2.5,0
+Melanodrymia sp.,Pre,C,201,2.3,0
+Melanodrymia sp.,Pre,C,204,2,0
+Melanodrymia sp.,Pre,C,199,2,0
+Pachydermia laevis,9,H,2,26.7,0
+Pachydermia laevis,9,H,3,23.2,0
+Pachydermia laevis,9,H,4,24.7,0
+Pachydermia laevis,9,W,6,2.2,2
+Pachydermia laevis,9,W,7,2.2,0
+Pachydermia laevis,9,W,19,6.5,0
+Pachydermia laevis,11,H,30,18.5,0
+Pachydermia laevis,11,H,34,27,0
+Pachydermia laevis,11,H,29,28,0
+Pachydermia laevis,11,W,23,9.6,0
+Pachydermia laevis,11,W,24,7,0
+Pachydermia laevis,11,W,26,9,0
+Pachydermia laevis,11,C,27,3.3,0
+Pachydermia laevis,11,C,31,3.3,1
+Pachydermia laevis,11,C,35,3.7,1
+Pachydermia laevis,22,H,96,10,0
+Pachydermia laevis,22,H,103,17.9,0
+Pachydermia laevis,22,H,129,14.7,0
+Pachydermia laevis,22,W,110,5.8,6
+Pachydermia laevis,22,W,111,2.9,1
+Pachydermia laevis,22,W,109,2.3,18
+Pachydermia laevis,22,C,73,2.4,19
+Pachydermia laevis,22,C,64,2.1,0
+Pachydermia laevis,22,C,113,2,1
+Pachydermia laevis,33,H,S139,2.3,0
+Pachydermia laevis,33,H,S133,4.2,2
+Pachydermia laevis,33,W,138,2.9,0
+Pachydermia laevis,33,W,132,,4
+Pachydermia laevis,96,W,156,3.1,0
+Pachydermia laevis,96,W,158,2.6,0
+Pachydermia laevis,96,W,159,,0
+Pachydermia laevis,108,H,83,2.6,0
+Pachydermia laevis,108,H,164,2.6,0
+Pachydermia laevis,108,H,174,2.7,0
+Pachydermia laevis,108,C,170,1.9,0
+Pachydermia laevis,108,C,171,2.1,1
+Pachydermia laevis,108,C,172,1.9,1
+Pachydermia laevis,135,W,183,,0
+Pachydermia laevis,135,W,184,,0
+Pachydermia laevis,135,W,186,,0
+Pachydermia laevis,135,C,180,2,1
+Pachydermia laevis,135,C,182,2,0
+Pachydermia laevis,135,C,187,2,0
+Pachydermia laevis,Pre,H,215,,0
+Pachydermia laevis,Pre,H,187,3.1,0
+Pachydermia laevis,Pre,H,236,,0
+Pachydermia laevis,Pre,W,184,2,0
+Pachydermia laevis,Pre,W,232,,0
+Pachydermia laevis,Pre,W,224,2.5,0
+Pachydermia laevis,Pre,C,201,2.3,0
+Pachydermia laevis,Pre,C,204,2,0
+Pachydermia laevis,Pre,C,199,2,0
+Peltospira delicata,9,H,2,26.7,0
+Peltospira delicata,9,H,3,23.2,0
+Peltospira delicata,9,H,4,24.7,0
+Peltospira delicata,9,W,6,2.2,0
+Peltospira delicata,9,W,7,2.2,0
+Peltospira delicata,9,W,19,6.5,0
+Peltospira delicata,11,H,30,18.5,0
+Peltospira delicata,11,H,34,27,0
+Peltospira delicata,11,H,29,28,0
+Peltospira delicata,11,W,23,9.6,0
+Peltospira delicata,11,W,24,7,0
+Peltospira delicata,11,W,26,9,0
+Peltospira delicata,11,C,27,3.3,0
+Peltospira delicata,11,C,31,3.3,0
+Peltospira delicata,11,C,35,3.7,0
+Peltospira delicata,22,H,96,10,0
+Peltospira delicata,22,H,103,17.9,0
+Peltospira delicata,22,H,129,14.7,0
+Peltospira delicata,22,W,110,5.8,0
+Peltospira delicata,22,W,111,2.9,0
+Peltospira delicata,22,W,109,2.3,0
+Peltospira delicata,22,C,73,2.4,0
+Peltospira delicata,22,C,64,2.1,0
+Peltospira delicata,22,C,113,2,0
+Peltospira delicata,33,H,S139,2.3,0
+Peltospira delicata,33,H,S133,4.2,0
+Peltospira delicata,33,W,138,2.9,0
+Peltospira delicata,33,W,132,,0
+Peltospira delicata,96,W,156,3.1,1
+Peltospira delicata,96,W,158,2.6,0
+Peltospira delicata,96,W,159,,0
+Peltospira delicata,108,H,83,2.6,0
+Peltospira delicata,108,H,164,2.6,0
+Peltospira delicata,108,H,174,2.7,0
+Peltospira delicata,108,C,170,1.9,1
+Peltospira delicata,108,C,171,2.1,2
+Peltospira delicata,108,C,172,1.9,0
+Peltospira delicata,135,W,183,,0
+Peltospira delicata,135,W,184,,0
+Peltospira delicata,135,W,186,,0
+Peltospira delicata,135,C,180,2,0
+Peltospira delicata,135,C,182,2,0
+Peltospira delicata,135,C,187,2,0
+Peltospira delicata,Pre,H,215,,0
+Peltospira delicata,Pre,H,187,3.1,0
+Peltospira delicata,Pre,H,236,,0
+Peltospira delicata,Pre,W,184,2,0
+Peltospira delicata,Pre,W,232,,0
+Peltospira delicata,Pre,W,224,2.5,0
+Peltospira delicata,Pre,C,201,2.3,0
+Peltospira delicata,Pre,C,204,2,0
+Peltospira delicata,Pre,C,199,2,0
+Phymorhynchus major,9,H,2,26.7,0
+Phymorhynchus major,9,H,3,23.2,0
+Phymorhynchus major,9,H,4,24.7,0
+Phymorhynchus major,9,W,6,2.2,0
+Phymorhynchus major,9,W,7,2.2,0
+Phymorhynchus major,9,W,19,6.5,0
+Phymorhynchus major,11,H,30,18.5,0
+Phymorhynchus major,11,H,34,27,0
+Phymorhynchus major,11,H,29,28,0
+Phymorhynchus major,11,W,23,9.6,0
+Phymorhynchus major,11,W,24,7,0
+Phymorhynchus major,11,W,26,9,0
+Phymorhynchus major,11,C,27,3.3,0
+Phymorhynchus major,11,C,31,3.3,0
+Phymorhynchus major,11,C,35,3.7,0
+Phymorhynchus major,22,H,96,10,0
+Phymorhynchus major,22,H,103,17.9,0
+Phymorhynchus major,22,H,129,14.7,0
+Phymorhynchus major,22,W,110,5.8,0
+Phymorhynchus major,22,W,111,2.9,0
+Phymorhynchus major,22,W,109,2.3,0
+Phymorhynchus major,22,C,73,2.4,0
+Phymorhynchus major,22,C,64,2.1,0
+Phymorhynchus major,22,C,113,2,0
+Phymorhynchus major,33,H,S139,2.3,0
+Phymorhynchus major,33,H,S133,4.2,0
+Phymorhynchus major,33,W,138,2.9,0
+Phymorhynchus major,33,W,132,,0
+Phymorhynchus major,96,W,156,3.1,0
+Phymorhynchus major,96,W,158,2.6,0
+Phymorhynchus major,96,W,159,,0
+Phymorhynchus major,108,H,83,2.6,0
+Phymorhynchus major,108,H,164,2.6,0
+Phymorhynchus major,108,H,174,2.7,0
+Phymorhynchus major,108,C,170,1.9,0
+Phymorhynchus major,108,C,171,2.1,0
+Phymorhynchus major,108,C,172,1.9,0
+Phymorhynchus major,135,W,183,,0
+Phymorhynchus major,135,W,184,,0
+Phymorhynchus major,135,W,186,,0
+Phymorhynchus major,135,C,180,2,1
+Phymorhynchus major,135,C,182,2,0
+Phymorhynchus major,135,C,187,2,20
+Phymorhynchus major,Pre,H,215,,0
+Phymorhynchus major,Pre,H,187,3.1,0
+Phymorhynchus major,Pre,H,236,,0
+Phymorhynchus major,Pre,W,184,2,0
+Phymorhynchus major,Pre,W,232,,0
+Phymorhynchus major,Pre,W,224,2.5,0
+Phymorhynchus major,Pre,C,201,2.3,0
+Phymorhynchus major,Pre,C,204,2,0
+Phymorhynchus major,Pre,C,199,2,0
+Planorbidella planispira,9,H,2,26.7,0
+Planorbidella planispira,9,H,3,23.2,0
+Planorbidella planispira,9,H,4,24.7,0
+Planorbidella planispira,9,W,6,2.2,1
+Planorbidella planispira,9,W,7,2.2,0
+Planorbidella planispira,9,W,19,6.5,0
+Planorbidella planispira,11,H,30,18.5,0
+Planorbidella planispira,11,H,34,27,0
+Planorbidella planispira,11,H,29,28,0
+Planorbidella planispira,11,W,23,9.6,0
+Planorbidella planispira,11,W,24,7,0
+Planorbidella planispira,11,W,26,9,0
+Planorbidella planispira,11,C,27,3.3,0
+Planorbidella planispira,11,C,31,3.3,0
+Planorbidella planispira,11,C,35,3.7,0
+Planorbidella planispira,22,H,96,10,0
+Planorbidella planispira,22,H,103,17.9,0
+Planorbidella planispira,22,H,129,14.7,0
+Planorbidella planispira,22,W,110,5.8,0
+Planorbidella planispira,22,W,111,2.9,0
+Planorbidella planispira,22,W,109,2.3,0
+Planorbidella planispira,22,C,73,2.4,0
+Planorbidella planispira,22,C,64,2.1,0
+Planorbidella planispira,22,C,113,2,0
+Planorbidella planispira,33,H,S139,2.3,0
+Planorbidella planispira,33,H,S133,4.2,0
+Planorbidella planispira,33,W,138,2.9,0
+Planorbidella planispira,33,W,132,,0
+Planorbidella planispira,96,W,156,3.1,0
+Planorbidella planispira,96,W,158,2.6,0
+Planorbidella planispira,96,W,159,,0
+Planorbidella planispira,108,H,83,2.6,0
+Planorbidella planispira,108,H,164,2.6,0
+Planorbidella planispira,108,H,174,2.7,0
+Planorbidella planispira,108,C,170,1.9,1
+Planorbidella planispira,108,C,171,2.1,0
+Planorbidella planispira,108,C,172,1.9,0
+Planorbidella planispira,135,W,183,,0
+Planorbidella planispira,135,W,184,,0
+Planorbidella planispira,135,W,186,,0
+Planorbidella planispira,135,C,180,2,0
+Planorbidella planispira,135,C,182,2,0
+Planorbidella planispira,135,C,187,2,0
+Planorbidella planispira,Pre,H,215,,0
+Planorbidella planispira,Pre,H,187,3.1,0
+Planorbidella planispira,Pre,H,236,,0
+Planorbidella planispira,Pre,W,184,2,0
+Planorbidella planispira,Pre,W,232,,0
+Planorbidella planispira,Pre,W,224,2.5,0
+Planorbidella planispira,Pre,C,201,2.3,0
+Planorbidella planispira,Pre,C,204,2,0
+Planorbidella planispira,Pre,C,199,2,0
+Provanna sp.,9,H,2,26.7,0
+Provanna sp.,9,H,3,23.2,0
+Provanna sp.,9,H,4,24.7,0
+Provanna sp.,9,W,6,2.2,0
+Provanna sp.,9,W,7,2.2,0
+Provanna sp.,9,W,19,6.5,0
+Provanna sp.,11,H,30,18.5,0
+Provanna sp.,11,H,34,27,0
+Provanna sp.,11,H,29,28,0
+Provanna sp.,11,W,23,9.6,0
+Provanna sp.,11,W,24,7,0
+Provanna sp.,11,W,26,9,0
+Provanna sp.,11,C,27,3.3,0
+Provanna sp.,11,C,31,3.3,0
+Provanna sp.,11,C,35,3.7,0
+Provanna sp.,22,H,96,10,0
+Provanna sp.,22,H,103,17.9,0
+Provanna sp.,22,H,129,14.7,0
+Provanna sp.,22,W,110,5.8,0
+Provanna sp.,22,W,111,2.9,0
+Provanna sp.,22,W,109,2.3,0
+Provanna sp.,22,C,73,2.4,0
+Provanna sp.,22,C,64,2.1,0
+Provanna sp.,22,C,113,2,0
+Provanna sp.,33,H,S139,2.3,0
+Provanna sp.,33,H,S133,4.2,0
+Provanna sp.,33,W,138,2.9,0
+Provanna sp.,33,W,132,,0
+Provanna sp.,96,W,156,3.1,0
+Provanna sp.,96,W,158,2.6,2
+Provanna sp.,96,W,159,,1
+Provanna sp.,108,H,83,2.6,0
+Provanna sp.,108,H,164,2.6,0
+Provanna sp.,108,H,174,2.7,0
+Provanna sp.,108,C,170,1.9,0
+Provanna sp.,108,C,171,2.1,1
+Provanna sp.,108,C,172,1.9,0
+Provanna sp.,135,W,183,,0
+Provanna sp.,135,W,184,,0
+Provanna sp.,135,W,186,,0
+Provanna sp.,135,C,180,2,0
+Provanna sp.,135,C,182,2,0
+Provanna sp.,135,C,187,2,0
+Provanna sp.,Pre,H,215,,1
+Provanna sp.,Pre,H,187,3.1,0
+Provanna sp.,Pre,H,236,,0
+Provanna sp.,Pre,W,184,2,1
+Provanna sp.,Pre,W,232,,0
+Provanna sp.,Pre,W,224,2.5,1
+Provanna sp.,Pre,C,201,2.3,0
+Provanna sp.,Pre,C,204,2,0
+Provanna sp.,Pre,C,199,2,0
+Rhynchopelta concentrica,9,H,2,26.7,0
+Rhynchopelta concentrica,9,H,3,23.2,0
+Rhynchopelta concentrica,9,H,4,24.7,0
+Rhynchopelta concentrica,9,W,6,2.2,0
+Rhynchopelta concentrica,9,W,7,2.2,1
+Rhynchopelta concentrica,9,W,19,6.5,0
+Rhynchopelta concentrica,11,H,30,18.5,0
+Rhynchopelta concentrica,11,H,34,27,0
+Rhynchopelta concentrica,11,H,29,28,0
+Rhynchopelta concentrica,11,W,23,9.6,0
+Rhynchopelta concentrica,11,W,24,7,0
+Rhynchopelta concentrica,11,W,26,9,0
+Rhynchopelta concentrica,11,C,27,3.3,0
+Rhynchopelta concentrica,11,C,31,3.3,0
+Rhynchopelta concentrica,11,C,35,3.7,0
+Rhynchopelta concentrica,22,H,96,10,2
+Rhynchopelta concentrica,22,H,103,17.9,3
+Rhynchopelta concentrica,22,H,129,14.7,0
+Rhynchopelta concentrica,22,W,110,5.8,0
+Rhynchopelta concentrica,22,W,111,2.9,0
+Rhynchopelta concentrica,22,W,109,2.3,0
+Rhynchopelta concentrica,22,C,73,2.4,0
+Rhynchopelta concentrica,22,C,64,2.1,0
+Rhynchopelta concentrica,22,C,113,2,0
+Rhynchopelta concentrica,33,H,S139,2.3,1
+Rhynchopelta concentrica,33,H,S133,4.2,0
+Rhynchopelta concentrica,33,W,138,2.9,0
+Rhynchopelta concentrica,33,W,132,,0
+Rhynchopelta concentrica,96,W,156,3.1,0
+Rhynchopelta concentrica,96,W,158,2.6,0
+Rhynchopelta concentrica,96,W,159,,0
+Rhynchopelta concentrica,108,H,83,2.6,0
+Rhynchopelta concentrica,108,H,164,2.6,0
+Rhynchopelta concentrica,108,H,174,2.7,0
+Rhynchopelta concentrica,108,C,170,1.9,0
+Rhynchopelta concentrica,108,C,171,2.1,0
+Rhynchopelta concentrica,108,C,172,1.9,0
+Rhynchopelta concentrica,135,W,183,,0
+Rhynchopelta concentrica,135,W,184,,0
+Rhynchopelta concentrica,135,W,186,,0
+Rhynchopelta concentrica,135,C,180,2,0
+Rhynchopelta concentrica,135,C,182,2,0
+Rhynchopelta concentrica,135,C,187,2,0
+Rhynchopelta concentrica,Pre,H,215,,1
+Rhynchopelta concentrica,Pre,H,187,3.1,0
+Rhynchopelta concentrica,Pre,H,236,,0
+Rhynchopelta concentrica,Pre,W,184,2,0
+Rhynchopelta concentrica,Pre,W,232,,0
+Rhynchopelta concentrica,Pre,W,224,2.5,0
+Rhynchopelta concentrica,Pre,C,201,2.3,0
+Rhynchopelta concentrica,Pre,C,204,2,0
+Rhynchopelta concentrica,Pre,C,199,2,0
+Sutilizona theca,9,H,2,26.7,0
+Sutilizona theca,9,H,3,23.2,0
+Sutilizona theca,9,H,4,24.7,0
+Sutilizona theca,9,W,6,2.2,9
+Sutilizona theca,9,W,7,2.2,0
+Sutilizona theca,9,W,19,6.5,0
+Sutilizona theca,11,H,30,18.5,0
+Sutilizona theca,11,H,34,27,0
+Sutilizona theca,11,H,29,28,0
+Sutilizona theca,11,W,23,9.6,0
+Sutilizona theca,11,W,24,7,0
+Sutilizona theca,11,W,26,9,0
+Sutilizona theca,11,C,27,3.3,1
+Sutilizona theca,11,C,31,3.3,5
+Sutilizona theca,11,C,35,3.7,0
+Sutilizona theca,22,H,96,10,0
+Sutilizona theca,22,H,103,17.9,0
+Sutilizona theca,22,H,129,14.7,0
+Sutilizona theca,22,W,110,5.8,0
+Sutilizona theca,22,W,111,2.9,0
+Sutilizona theca,22,W,109,2.3,1
+Sutilizona theca,22,C,73,2.4,0
+Sutilizona theca,22,C,64,2.1,0
+Sutilizona theca,22,C,113,2,0
+Sutilizona theca,33,H,S139,2.3,0
+Sutilizona theca,33,H,S133,4.2,0
+Sutilizona theca,33,W,138,2.9,0
+Sutilizona theca,33,W,132,,0
+Sutilizona theca,96,W,156,3.1,0
+Sutilizona theca,96,W,158,2.6,0
+Sutilizona theca,96,W,159,,0
+Sutilizona theca,108,H,83,2.6,0
+Sutilizona theca,108,H,164,2.6,0
+Sutilizona theca,108,H,174,2.7,0
+Sutilizona theca,108,C,170,1.9,0
+Sutilizona theca,108,C,171,2.1,0
+Sutilizona theca,108,C,172,1.9,0
+Sutilizona theca,135,W,183,,0
+Sutilizona theca,135,W,184,,0
+Sutilizona theca,135,W,186,,0
+Sutilizona theca,135,C,180,2,0
+Sutilizona theca,135,C,182,2,0
+Sutilizona theca,135,C,187,2,0
+Sutilizona theca,Pre,H,215,,0
+Sutilizona theca,Pre,H,187,3.1,0
+Sutilizona theca,Pre,H,236,,0
+Sutilizona theca,Pre,W,184,2,0
+Sutilizona theca,Pre,W,232,,0
+Sutilizona theca,Pre,W,224,2.5,0
+Sutilizona theca,Pre,C,201,2.3,0
+Sutilizona theca,Pre,C,204,2,0
+Sutilizona theca,Pre,C,199,2,0
+gastropod unk A,9,H,2,26.7,0
+gastropod unk A,9,H,3,23.2,0
+gastropod unk A,9,H,4,24.7,0
+gastropod unk A,9,W,6,2.2,0
+gastropod unk A,9,W,7,2.2,0
+gastropod unk A,9,W,19,6.5,0
+gastropod unk A,11,H,30,18.5,0
+gastropod unk A,11,H,34,27,0
+gastropod unk A,11,H,29,28,0
+gastropod unk A,11,W,23,9.6,0
+gastropod unk A,11,W,24,7,0
+gastropod unk A,11,W,26,9,0
+gastropod unk A,11,C,27,3.3,0
+gastropod unk A,11,C,31,3.3,0
+gastropod unk A,11,C,35,3.7,0
+gastropod unk A,22,H,96,10,0
+gastropod unk A,22,H,103,17.9,0
+gastropod unk A,22,H,129,14.7,0
+gastropod unk A,22,W,110,5.8,0
+gastropod unk A,22,W,111,2.9,1
+gastropod unk A,22,W,109,2.3,3
+gastropod unk A,22,C,73,2.4,0
+gastropod unk A,22,C,64,2.1,0
+gastropod unk A,22,C,113,2,0
+gastropod unk A,33,H,S139,2.3,0
+gastropod unk A,33,H,S133,4.2,0
+gastropod unk A,33,W,138,2.9,0
+gastropod unk A,33,W,132,,0
+gastropod unk A,96,W,156,3.1,0
+gastropod unk A,96,W,158,2.6,0
+gastropod unk A,96,W,159,,0
+gastropod unk A,108,H,83,2.6,0
+gastropod unk A,108,H,164,2.6,0
+gastropod unk A,108,H,174,2.7,0
+gastropod unk A,108,C,170,1.9,0
+gastropod unk A,108,C,171,2.1,0
+gastropod unk A,108,C,172,1.9,0
+gastropod unk A,135,W,183,,0
+gastropod unk A,135,W,184,,0
+gastropod unk A,135,W,186,,0
+gastropod unk A,135,C,180,2,0
+gastropod unk A,135,C,182,2,0
+gastropod unk A,135,C,187,2,0
+gastropod unk A,Pre,H,215,,0
+gastropod unk A,Pre,H,187,3.1,0
+gastropod unk A,Pre,H,236,,0
+gastropod unk A,Pre,W,184,2,0
+gastropod unk A,Pre,W,232,,0
+gastropod unk A,Pre,W,224,2.5,0
+gastropod unk A,Pre,C,201,2.3,0
+gastropod unk A,Pre,C,204,2,0
+gastropod unk A,Pre,C,199,2,0
+Bathymodiolus thermophilus,9,H,2,26.7,0
+Bathymodiolus thermophilus,9,H,3,23.2,0
+Bathymodiolus thermophilus,9,H,4,24.7,0
+Bathymodiolus thermophilus,9,W,6,2.2,1
+Bathymodiolus thermophilus,9,W,7,2.2,0
+Bathymodiolus thermophilus,9,W,19,6.5,1
+Bathymodiolus thermophilus,11,H,30,18.5,0
+Bathymodiolus thermophilus,11,H,34,27,0
+Bathymodiolus thermophilus,11,H,29,28,0
+Bathymodiolus thermophilus,11,W,23,9.6,0
+Bathymodiolus thermophilus,11,W,24,7,0
+Bathymodiolus thermophilus,11,W,26,9,0
+Bathymodiolus thermophilus,11,C,27,3.3,0
+Bathymodiolus thermophilus,11,C,31,3.3,0
+Bathymodiolus thermophilus,11,C,35,3.7,1
+Bathymodiolus thermophilus,22,H,96,10,3
+Bathymodiolus thermophilus,22,H,103,17.9,1
+Bathymodiolus thermophilus,22,H,129,14.7,0
+Bathymodiolus thermophilus,22,W,110,5.8,38
+Bathymodiolus thermophilus,22,W,111,2.9,55
+Bathymodiolus thermophilus,22,W,109,2.3,79
+Bathymodiolus thermophilus,22,C,73,2.4,88
+Bathymodiolus thermophilus,22,C,64,2.1,26
+Bathymodiolus thermophilus,22,C,113,2,25
+Bathymodiolus thermophilus,33,H,S139,2.3,6
+Bathymodiolus thermophilus,33,H,S133,4.2,21
+Bathymodiolus thermophilus,33,W,138,2.9,2
+Bathymodiolus thermophilus,33,W,132,,4
+Bathymodiolus thermophilus,96,W,156,3.1,5
+Bathymodiolus thermophilus,96,W,158,2.6,2
+Bathymodiolus thermophilus,96,W,159,,2
+Bathymodiolus thermophilus,108,H,83,2.6,1
+Bathymodiolus thermophilus,108,H,164,2.6,0
+Bathymodiolus thermophilus,108,H,174,2.7,0
+Bathymodiolus thermophilus,108,C,170,1.9,0
+Bathymodiolus thermophilus,108,C,171,2.1,2
+Bathymodiolus thermophilus,108,C,172,1.9,1
+Bathymodiolus thermophilus,135,W,183,,0
+Bathymodiolus thermophilus,135,W,184,,3
+Bathymodiolus thermophilus,135,W,186,,1
+Bathymodiolus thermophilus,135,C,180,2,0
+Bathymodiolus thermophilus,135,C,182,2,0
+Bathymodiolus thermophilus,135,C,187,2,1
+Bathymodiolus thermophilus,Pre,H,215,,18
+Bathymodiolus thermophilus,Pre,H,187,3.1,46
+Bathymodiolus thermophilus,Pre,H,236,,23
+Bathymodiolus thermophilus,Pre,W,184,2,2
+Bathymodiolus thermophilus,Pre,W,232,,1
+Bathymodiolus thermophilus,Pre,W,224,2.5,5
+Bathymodiolus thermophilus,Pre,C,201,2.3,44
+Bathymodiolus thermophilus,Pre,C,204,2,1
+Bathymodiolus thermophilus,Pre,C,199,2,0
+Catillopecten vulcani,9,H,2,26.7,0
+Catillopecten vulcani,9,H,3,23.2,0
+Catillopecten vulcani,9,H,4,24.7,0
+Catillopecten vulcani,9,W,6,2.2,0
+Catillopecten vulcani,9,W,7,2.2,0
+Catillopecten vulcani,9,W,19,6.5,0
+Catillopecten vulcani,11,H,30,18.5,0
+Catillopecten vulcani,11,H,34,27,0
+Catillopecten vulcani,11,H,29,28,0
+Catillopecten vulcani,11,W,23,9.6,0
+Catillopecten vulcani,11,W,24,7,0
+Catillopecten vulcani,11,W,26,9,0
+Catillopecten vulcani,11,C,27,3.3,0
+Catillopecten vulcani,11,C,31,3.3,0
+Catillopecten vulcani,11,C,35,3.7,0
+Catillopecten vulcani,22,H,96,10,0
+Catillopecten vulcani,22,H,103,17.9,0
+Catillopecten vulcani,22,H,129,14.7,0
+Catillopecten vulcani,22,W,110,5.8,0
+Catillopecten vulcani,22,W,111,2.9,0
+Catillopecten vulcani,22,W,109,2.3,1
+Catillopecten vulcani,22,C,73,2.4,0
+Catillopecten vulcani,22,C,64,2.1,1
+Catillopecten vulcani,22,C,113,2,0
+Catillopecten vulcani,33,H,S139,2.3,0
+Catillopecten vulcani,33,H,S133,4.2,0
+Catillopecten vulcani,33,W,138,2.9,1
+Catillopecten vulcani,33,W,132,,0
+Catillopecten vulcani,96,W,156,3.1,0
+Catillopecten vulcani,96,W,158,2.6,0
+Catillopecten vulcani,96,W,159,,0
+Catillopecten vulcani,108,H,83,2.6,0
+Catillopecten vulcani,108,H,164,2.6,0
+Catillopecten vulcani,108,H,174,2.7,0
+Catillopecten vulcani,108,C,170,1.9,0
+Catillopecten vulcani,108,C,171,2.1,0
+Catillopecten vulcani,108,C,172,1.9,0
+Catillopecten vulcani,135,W,183,,0
+Catillopecten vulcani,135,W,184,,0
+Catillopecten vulcani,135,W,186,,0
+Catillopecten vulcani,135,C,180,2,0
+Catillopecten vulcani,135,C,182,2,0
+Catillopecten vulcani,135,C,187,2,0
+Catillopecten vulcani,Pre,H,215,,0
+Catillopecten vulcani,Pre,H,187,3.1,0
+Catillopecten vulcani,Pre,H,236,,0
+Catillopecten vulcani,Pre,W,184,2,0
+Catillopecten vulcani,Pre,W,232,,0
+Catillopecten vulcani,Pre,W,224,2.5,0
+Catillopecten vulcani,Pre,C,201,2.3,0
+Catillopecten vulcani,Pre,C,204,2,0
+Catillopecten vulcani,Pre,C,199,2,0
+Helicoradomenia acredema,9,H,2,26.7,0
+Helicoradomenia acredema,9,H,3,23.2,0
+Helicoradomenia acredema,9,H,4,24.7,0
+Helicoradomenia acredema,9,W,6,2.2,0
+Helicoradomenia acredema,9,W,7,2.2,0
+Helicoradomenia acredema,9,W,19,6.5,0
+Helicoradomenia acredema,11,H,30,18.5,0
+Helicoradomenia acredema,11,H,34,27,0
+Helicoradomenia acredema,11,H,29,28,0
+Helicoradomenia acredema,11,W,23,9.6,0
+Helicoradomenia acredema,11,W,24,7,0
+Helicoradomenia acredema,11,W,26,9,0
+Helicoradomenia acredema,11,C,27,3.3,0
+Helicoradomenia acredema,11,C,31,3.3,0
+Helicoradomenia acredema,11,C,35,3.7,0
+Helicoradomenia acredema,22,H,96,10,0
+Helicoradomenia acredema,22,H,103,17.9,0
+Helicoradomenia acredema,22,H,129,14.7,0
+Helicoradomenia acredema,22,W,110,5.8,0
+Helicoradomenia acredema,22,W,111,2.9,0
+Helicoradomenia acredema,22,W,109,2.3,1
+Helicoradomenia acredema,22,C,73,2.4,0
+Helicoradomenia acredema,22,C,64,2.1,0
+Helicoradomenia acredema,22,C,113,2,0
+Helicoradomenia acredema,33,H,S139,2.3,0
+Helicoradomenia acredema,33,H,S133,4.2,0
+Helicoradomenia acredema,33,W,138,2.9,0
+Helicoradomenia acredema,33,W,132,,0
+Helicoradomenia acredema,96,W,156,3.1,0
+Helicoradomenia acredema,96,W,158,2.6,0
+Helicoradomenia acredema,96,W,159,,1
+Helicoradomenia acredema,108,H,83,2.6,2
+Helicoradomenia acredema,108,H,164,2.6,0
+Helicoradomenia acredema,108,H,174,2.7,0
+Helicoradomenia acredema,108,C,170,1.9,0
+Helicoradomenia acredema,108,C,171,2.1,3
+Helicoradomenia acredema,108,C,172,1.9,0
+Helicoradomenia acredema,135,W,183,,0
+Helicoradomenia acredema,135,W,184,,1
+Helicoradomenia acredema,135,W,186,,1
+Helicoradomenia acredema,135,C,180,2,0
+Helicoradomenia acredema,135,C,182,2,0
+Helicoradomenia acredema,135,C,187,2,0
+Helicoradomenia acredema,Pre,H,215,,0
+Helicoradomenia acredema,Pre,H,187,3.1,3
+Helicoradomenia acredema,Pre,H,236,,1
+Helicoradomenia acredema,Pre,W,184,2,4
+Helicoradomenia acredema,Pre,W,232,,0
+Helicoradomenia acredema,Pre,W,224,2.5,0
+Helicoradomenia acredema,Pre,C,201,2.3,0
+Helicoradomenia acredema,Pre,C,204,2,0
+Helicoradomenia acredema,Pre,C,199,2,0
+Alvinella sp.,9,H,2,26.7,0
+Alvinella sp.,9,H,3,23.2,1
+Alvinella sp.,9,H,4,24.7,0
+Alvinella sp.,9,W,6,2.2,0
+Alvinella sp.,9,W,7,2.2,0
+Alvinella sp.,9,W,19,6.5,0
+Alvinella sp.,11,H,30,18.5,0
+Alvinella sp.,11,H,34,27,0
+Alvinella sp.,11,H,29,28,0
+Alvinella sp.,11,W,23,9.6,0
+Alvinella sp.,11,W,24,7,0
+Alvinella sp.,11,W,26,9,0
+Alvinella sp.,11,C,27,3.3,0
+Alvinella sp.,11,C,31,3.3,0
+Alvinella sp.,11,C,35,3.7,0
+Alvinella sp.,22,H,96,10,0
+Alvinella sp.,22,H,103,17.9,0
+Alvinella sp.,22,H,129,14.7,0
+Alvinella sp.,22,W,110,5.8,0
+Alvinella sp.,22,W,111,2.9,0
+Alvinella sp.,22,W,109,2.3,0
+Alvinella sp.,22,C,73,2.4,0
+Alvinella sp.,22,C,64,2.1,0
+Alvinella sp.,22,C,113,2,0
+Alvinella sp.,33,H,S139,2.3,0
+Alvinella sp.,33,H,S133,4.2,0
+Alvinella sp.,33,W,138,2.9,0
+Alvinella sp.,33,W,132,,0
+Alvinella sp.,96,W,156,3.1,0
+Alvinella sp.,96,W,158,2.6,0
+Alvinella sp.,96,W,159,,0
+Alvinella sp.,108,H,83,2.6,0
+Alvinella sp.,108,H,164,2.6,0
+Alvinella sp.,108,H,174,2.7,0
+Alvinella sp.,108,C,170,1.9,0
+Alvinella sp.,108,C,171,2.1,0
+Alvinella sp.,108,C,172,1.9,0
+Alvinella sp.,135,W,183,,0
+Alvinella sp.,135,W,184,,0
+Alvinella sp.,135,W,186,,0
+Alvinella sp.,135,C,180,2,0
+Alvinella sp.,135,C,182,2,0
+Alvinella sp.,135,C,187,2,0
+Alvinella sp.,Pre,H,215,,0
+Alvinella sp.,Pre,H,187,3.1,0
+Alvinella sp.,Pre,H,236,,0
+Alvinella sp.,Pre,W,184,2,0
+Alvinella sp.,Pre,W,232,,0
+Alvinella sp.,Pre,W,224,2.5,0
+Alvinella sp.,Pre,C,201,2.3,0
+Alvinella sp.,Pre,C,204,2,0
+Alvinella sp.,Pre,C,199,2,0
+Amphisamytha galapagensis,9,H,2,26.7,0
+Amphisamytha galapagensis,9,H,3,23.2,0
+Amphisamytha galapagensis,9,H,4,24.7,0
+Amphisamytha galapagensis,9,W,6,2.2,87
+Amphisamytha galapagensis,9,W,7,2.2,29
+Amphisamytha galapagensis,9,W,19,6.5,7
+Amphisamytha galapagensis,11,H,30,18.5,0
+Amphisamytha galapagensis,11,H,34,27,0
+Amphisamytha galapagensis,11,H,29,28,0
+Amphisamytha galapagensis,11,W,23,9.6,20
+Amphisamytha galapagensis,11,W,24,7,5
+Amphisamytha galapagensis,11,W,26,9,14
+Amphisamytha galapagensis,11,C,27,3.3,2
+Amphisamytha galapagensis,11,C,31,3.3,0
+Amphisamytha galapagensis,11,C,35,3.7,2
+Amphisamytha galapagensis,22,H,96,10,1
+Amphisamytha galapagensis,22,H,103,17.9,12
+Amphisamytha galapagensis,22,H,129,14.7,0
+Amphisamytha galapagensis,22,W,110,5.8,40
+Amphisamytha galapagensis,22,W,111,2.9,97
+Amphisamytha galapagensis,22,W,109,2.3,87
+Amphisamytha galapagensis,22,C,73,2.4,20
+Amphisamytha galapagensis,22,C,64,2.1,0
+Amphisamytha galapagensis,22,C,113,2,19
+Amphisamytha galapagensis,33,H,S139,2.3,26
+Amphisamytha galapagensis,33,H,S133,4.2,26
+Amphisamytha galapagensis,33,W,138,2.9,41
+Amphisamytha galapagensis,33,W,132,,79
+Amphisamytha galapagensis,96,W,156,3.1,120
+Amphisamytha galapagensis,96,W,158,2.6,66
+Amphisamytha galapagensis,96,W,159,,135
+Amphisamytha galapagensis,108,H,83,2.6,34
+Amphisamytha galapagensis,108,H,164,2.6,34
+Amphisamytha galapagensis,108,H,174,2.7,20
+Amphisamytha galapagensis,108,C,170,1.9,6
+Amphisamytha galapagensis,108,C,171,2.1,36
+Amphisamytha galapagensis,108,C,172,1.9,9
+Amphisamytha galapagensis,135,W,183,,4
+Amphisamytha galapagensis,135,W,184,,16
+Amphisamytha galapagensis,135,W,186,,13
+Amphisamytha galapagensis,135,C,180,2,83
+Amphisamytha galapagensis,135,C,182,2,2
+Amphisamytha galapagensis,135,C,187,2,5
+Amphisamytha galapagensis,Pre,H,215,,195
+Amphisamytha galapagensis,Pre,H,187,3.1,172
+Amphisamytha galapagensis,Pre,H,236,,189
+Amphisamytha galapagensis,Pre,W,184,2,177
+Amphisamytha galapagensis,Pre,W,232,,26
+Amphisamytha galapagensis,Pre,W,224,2.5,175
+Amphisamytha galapagensis,Pre,C,201,2.3,128
+Amphisamytha galapagensis,Pre,C,204,2,21
+Amphisamytha galapagensis,Pre,C,199,2,8
+Archinome rosacea,9,H,2,26.7,0
+Archinome rosacea,9,H,3,23.2,0
+Archinome rosacea,9,H,4,24.7,0
+Archinome rosacea,9,W,6,2.2,0
+Archinome rosacea,9,W,7,2.2,0
+Archinome rosacea,9,W,19,6.5,0
+Archinome rosacea,11,H,30,18.5,0
+Archinome rosacea,11,H,34,27,0
+Archinome rosacea,11,H,29,28,0
+Archinome rosacea,11,W,23,9.6,0
+Archinome rosacea,11,W,24,7,0
+Archinome rosacea,11,W,26,9,1
+Archinome rosacea,11,C,27,3.3,0
+Archinome rosacea,11,C,31,3.3,0
+Archinome rosacea,11,C,35,3.7,0
+Archinome rosacea,22,H,96,10,0
+Archinome rosacea,22,H,103,17.9,0
+Archinome rosacea,22,H,129,14.7,0
+Archinome rosacea,22,W,110,5.8,3
+Archinome rosacea,22,W,111,2.9,1
+Archinome rosacea,22,W,109,2.3,1
+Archinome rosacea,22,C,73,2.4,0
+Archinome rosacea,22,C,64,2.1,2
+Archinome rosacea,22,C,113,2,0
+Archinome rosacea,33,H,S139,2.3,0
+Archinome rosacea,33,H,S133,4.2,0
+Archinome rosacea,33,W,138,2.9,5
+Archinome rosacea,33,W,132,,2
+Archinome rosacea,96,W,156,3.1,9
+Archinome rosacea,96,W,158,2.6,29
+Archinome rosacea,96,W,159,,17
+Archinome rosacea,108,H,83,2.6,12
+Archinome rosacea,108,H,164,2.6,4
+Archinome rosacea,108,H,174,2.7,9
+Archinome rosacea,108,C,170,1.9,1
+Archinome rosacea,108,C,171,2.1,65
+Archinome rosacea,108,C,172,1.9,0
+Archinome rosacea,135,W,183,,0
+Archinome rosacea,135,W,184,,0
+Archinome rosacea,135,W,186,,0
+Archinome rosacea,135,C,180,2,20
+Archinome rosacea,135,C,182,2,0
+Archinome rosacea,135,C,187,2,0
+Archinome rosacea,Pre,H,215,,2
+Archinome rosacea,Pre,H,187,3.1,13
+Archinome rosacea,Pre,H,236,,2
+Archinome rosacea,Pre,W,184,2,31
+Archinome rosacea,Pre,W,232,,36
+Archinome rosacea,Pre,W,224,2.5,4
+Archinome rosacea,Pre,C,201,2.3,10
+Archinome rosacea,Pre,C,204,2,7
+Archinome rosacea,Pre,C,199,2,0
+Branchinotogluma sp.,9,H,2,26.7,0
+Branchinotogluma sp.,9,H,3,23.2,0
+Branchinotogluma sp.,9,H,4,24.7,0
+Branchinotogluma sp.,9,W,6,2.2,0
+Branchinotogluma sp.,9,W,7,2.2,0
+Branchinotogluma sp.,9,W,19,6.5,0
+Branchinotogluma sp.,11,H,30,18.5,0
+Branchinotogluma sp.,11,H,34,27,0
+Branchinotogluma sp.,11,H,29,28,0
+Branchinotogluma sp.,11,W,23,9.6,0
+Branchinotogluma sp.,11,W,24,7,0
+Branchinotogluma sp.,11,W,26,9,0
+Branchinotogluma sp.,11,C,27,3.3,0
+Branchinotogluma sp.,11,C,31,3.3,0
+Branchinotogluma sp.,11,C,35,3.7,0
+Branchinotogluma sp.,22,H,96,10,1
+Branchinotogluma sp.,22,H,103,17.9,2
+Branchinotogluma sp.,22,H,129,14.7,0
+Branchinotogluma sp.,22,W,110,5.8,0
+Branchinotogluma sp.,22,W,111,2.9,0
+Branchinotogluma sp.,22,W,109,2.3,0
+Branchinotogluma sp.,22,C,73,2.4,0
+Branchinotogluma sp.,22,C,64,2.1,0
+Branchinotogluma sp.,22,C,113,2,0
+Branchinotogluma sp.,33,H,S139,2.3,0
+Branchinotogluma sp.,33,H,S133,4.2,0
+Branchinotogluma sp.,33,W,138,2.9,0
+Branchinotogluma sp.,33,W,132,,0
+Branchinotogluma sp.,96,W,156,3.1,0
+Branchinotogluma sp.,96,W,158,2.6,0
+Branchinotogluma sp.,96,W,159,,0
+Branchinotogluma sp.,108,H,83,2.6,0
+Branchinotogluma sp.,108,H,164,2.6,0
+Branchinotogluma sp.,108,H,174,2.7,0
+Branchinotogluma sp.,108,C,170,1.9,0
+Branchinotogluma sp.,108,C,171,2.1,0
+Branchinotogluma sp.,108,C,172,1.9,0
+Branchinotogluma sp.,135,W,183,,0
+Branchinotogluma sp.,135,W,184,,0
+Branchinotogluma sp.,135,W,186,,0
+Branchinotogluma sp.,135,C,180,2,0
+Branchinotogluma sp.,135,C,182,2,0
+Branchinotogluma sp.,135,C,187,2,0
+Branchinotogluma sp.,Pre,H,215,,0
+Branchinotogluma sp.,Pre,H,187,3.1,0
+Branchinotogluma sp.,Pre,H,236,,0
+Branchinotogluma sp.,Pre,W,184,2,0
+Branchinotogluma sp.,Pre,W,232,,0
+Branchinotogluma sp.,Pre,W,224,2.5,0
+Branchinotogluma sp.,Pre,C,201,2.3,0
+Branchinotogluma sp.,Pre,C,204,2,0
+Branchinotogluma sp.,Pre,C,199,2,0
+Branchiplicatus cupreus,9,H,2,26.7,0
+Branchiplicatus cupreus,9,H,3,23.2,0
+Branchiplicatus cupreus,9,H,4,24.7,0
+Branchiplicatus cupreus,9,W,6,2.2,0
+Branchiplicatus cupreus,9,W,7,2.2,0
+Branchiplicatus cupreus,9,W,19,6.5,0
+Branchiplicatus cupreus,11,H,30,18.5,0
+Branchiplicatus cupreus,11,H,34,27,0
+Branchiplicatus cupreus,11,H,29,28,0
+Branchiplicatus cupreus,11,W,23,9.6,0
+Branchiplicatus cupreus,11,W,24,7,0
+Branchiplicatus cupreus,11,W,26,9,0
+Branchiplicatus cupreus,11,C,27,3.3,0
+Branchiplicatus cupreus,11,C,31,3.3,0
+Branchiplicatus cupreus,11,C,35,3.7,0
+Branchiplicatus cupreus,22,H,96,10,0
+Branchiplicatus cupreus,22,H,103,17.9,4
+Branchiplicatus cupreus,22,H,129,14.7,0
+Branchiplicatus cupreus,22,W,110,5.8,0
+Branchiplicatus cupreus,22,W,111,2.9,0
+Branchiplicatus cupreus,22,W,109,2.3,0
+Branchiplicatus cupreus,22,C,73,2.4,0
+Branchiplicatus cupreus,22,C,64,2.1,1
+Branchiplicatus cupreus,22,C,113,2,0
+Branchiplicatus cupreus,33,H,S139,2.3,0
+Branchiplicatus cupreus,33,H,S133,4.2,0
+Branchiplicatus cupreus,33,W,138,2.9,0
+Branchiplicatus cupreus,33,W,132,,0
+Branchiplicatus cupreus,96,W,156,3.1,0
+Branchiplicatus cupreus,96,W,158,2.6,0
+Branchiplicatus cupreus,96,W,159,,0
+Branchiplicatus cupreus,108,H,83,2.6,0
+Branchiplicatus cupreus,108,H,164,2.6,0
+Branchiplicatus cupreus,108,H,174,2.7,0
+Branchiplicatus cupreus,108,C,170,1.9,0
+Branchiplicatus cupreus,108,C,171,2.1,0
+Branchiplicatus cupreus,108,C,172,1.9,0
+Branchiplicatus cupreus,135,W,183,,0
+Branchiplicatus cupreus,135,W,184,,0
+Branchiplicatus cupreus,135,W,186,,0
+Branchiplicatus cupreus,135,C,180,2,0
+Branchiplicatus cupreus,135,C,182,2,0
+Branchiplicatus cupreus,135,C,187,2,0
+Branchiplicatus cupreus,Pre,H,215,,0
+Branchiplicatus cupreus,Pre,H,187,3.1,0
+Branchiplicatus cupreus,Pre,H,236,,0
+Branchiplicatus cupreus,Pre,W,184,2,0
+Branchiplicatus cupreus,Pre,W,232,,0
+Branchiplicatus cupreus,Pre,W,224,2.5,0
+Branchiplicatus cupreus,Pre,C,201,2.3,0
+Branchiplicatus cupreus,Pre,C,204,2,0
+Branchiplicatus cupreus,Pre,C,199,2,0
+Branchipolynoe sp.,9,H,2,26.7,0
+Branchipolynoe sp.,9,H,3,23.2,0
+Branchipolynoe sp.,9,H,4,24.7,0
+Branchipolynoe sp.,9,W,6,2.2,0
+Branchipolynoe sp.,9,W,7,2.2,0
+Branchipolynoe sp.,9,W,19,6.5,0
+Branchipolynoe sp.,11,H,30,18.5,0
+Branchipolynoe sp.,11,H,34,27,0
+Branchipolynoe sp.,11,H,29,28,0
+Branchipolynoe sp.,11,W,23,9.6,0
+Branchipolynoe sp.,11,W,24,7,0
+Branchipolynoe sp.,11,W,26,9,0
+Branchipolynoe sp.,11,C,27,3.3,0
+Branchipolynoe sp.,11,C,31,3.3,0
+Branchipolynoe sp.,11,C,35,3.7,0
+Branchipolynoe sp.,22,H,96,10,0
+Branchipolynoe sp.,22,H,103,17.9,0
+Branchipolynoe sp.,22,H,129,14.7,0
+Branchipolynoe sp.,22,W,110,5.8,0
+Branchipolynoe sp.,22,W,111,2.9,0
+Branchipolynoe sp.,22,W,109,2.3,0
+Branchipolynoe sp.,22,C,73,2.4,0
+Branchipolynoe sp.,22,C,64,2.1,0
+Branchipolynoe sp.,22,C,113,2,0
+Branchipolynoe sp.,33,H,S139,2.3,0
+Branchipolynoe sp.,33,H,S133,4.2,0
+Branchipolynoe sp.,33,W,138,2.9,0
+Branchipolynoe sp.,33,W,132,,0
+Branchipolynoe sp.,96,W,156,3.1,0
+Branchipolynoe sp.,96,W,158,2.6,0
+Branchipolynoe sp.,96,W,159,,0
+Branchipolynoe sp.,108,H,83,2.6,0
+Branchipolynoe sp.,108,H,164,2.6,0
+Branchipolynoe sp.,108,H,174,2.7,0
+Branchipolynoe sp.,108,C,170,1.9,0
+Branchipolynoe sp.,108,C,171,2.1,0
+Branchipolynoe sp.,108,C,172,1.9,0
+Branchipolynoe sp.,135,W,183,,0
+Branchipolynoe sp.,135,W,184,,0
+Branchipolynoe sp.,135,W,186,,0
+Branchipolynoe sp.,135,C,180,2,0
+Branchipolynoe sp.,135,C,182,2,0
+Branchipolynoe sp.,135,C,187,2,0
+Branchipolynoe sp.,Pre,H,215,,0
+Branchipolynoe sp.,Pre,H,187,3.1,1
+Branchipolynoe sp.,Pre,H,236,,1
+Branchipolynoe sp.,Pre,W,184,2,0
+Branchipolynoe sp.,Pre,W,232,,1
+Branchipolynoe sp.,Pre,W,224,2.5,1
+Branchipolynoe sp.,Pre,C,201,2.3,0
+Branchipolynoe sp.,Pre,C,204,2,0
+Branchipolynoe sp.,Pre,C,199,2,0
+Galapagomystides aristata,9,H,2,26.7,0
+Galapagomystides aristata,9,H,3,23.2,0
+Galapagomystides aristata,9,H,4,24.7,0
+Galapagomystides aristata,9,W,6,2.2,0
+Galapagomystides aristata,9,W,7,2.2,0
+Galapagomystides aristata,9,W,19,6.5,0
+Galapagomystides aristata,11,H,30,18.5,0
+Galapagomystides aristata,11,H,34,27,0
+Galapagomystides aristata,11,H,29,28,0
+Galapagomystides aristata,11,W,23,9.6,0
+Galapagomystides aristata,11,W,24,7,3
+Galapagomystides aristata,11,W,26,9,0
+Galapagomystides aristata,11,C,27,3.3,0
+Galapagomystides aristata,11,C,31,3.3,0
+Galapagomystides aristata,11,C,35,3.7,2
+Galapagomystides aristata,22,H,96,10,0
+Galapagomystides aristata,22,H,103,17.9,0
+Galapagomystides aristata,22,H,129,14.7,0
+Galapagomystides aristata,22,W,110,5.8,0
+Galapagomystides aristata,22,W,111,2.9,0
+Galapagomystides aristata,22,W,109,2.3,0
+Galapagomystides aristata,22,C,73,2.4,0
+Galapagomystides aristata,22,C,64,2.1,0
+Galapagomystides aristata,22,C,113,2,0
+Galapagomystides aristata,33,H,S139,2.3,0
+Galapagomystides aristata,33,H,S133,4.2,0
+Galapagomystides aristata,33,W,138,2.9,0
+Galapagomystides aristata,33,W,132,,0
+Galapagomystides aristata,96,W,156,3.1,0
+Galapagomystides aristata,96,W,158,2.6,0
+Galapagomystides aristata,96,W,159,,0
+Galapagomystides aristata,108,H,83,2.6,0
+Galapagomystides aristata,108,H,164,2.6,0
+Galapagomystides aristata,108,H,174,2.7,1
+Galapagomystides aristata,108,C,170,1.9,0
+Galapagomystides aristata,108,C,171,2.1,0
+Galapagomystides aristata,108,C,172,1.9,0
+Galapagomystides aristata,135,W,183,,0
+Galapagomystides aristata,135,W,184,,0
+Galapagomystides aristata,135,W,186,,0
+Galapagomystides aristata,135,C,180,2,0
+Galapagomystides aristata,135,C,182,2,0
+Galapagomystides aristata,135,C,187,2,0
+Galapagomystides aristata,Pre,H,215,,0
+Galapagomystides aristata,Pre,H,187,3.1,0
+Galapagomystides aristata,Pre,H,236,,1
+Galapagomystides aristata,Pre,W,184,2,0
+Galapagomystides aristata,Pre,W,232,,0
+Galapagomystides aristata,Pre,W,224,2.5,0
+Galapagomystides aristata,Pre,C,201,2.3,0
+Galapagomystides aristata,Pre,C,204,2,0
+Galapagomystides aristata,Pre,C,199,2,0
+Glycera sp.,9,H,2,26.7,0
+Glycera sp.,9,H,3,23.2,0
+Glycera sp.,9,H,4,24.7,0
+Glycera sp.,9,W,6,2.2,0
+Glycera sp.,9,W,7,2.2,0
+Glycera sp.,9,W,19,6.5,0
+Glycera sp.,11,H,30,18.5,0
+Glycera sp.,11,H,34,27,0
+Glycera sp.,11,H,29,28,0
+Glycera sp.,11,W,23,9.6,0
+Glycera sp.,11,W,24,7,0
+Glycera sp.,11,W,26,9,0
+Glycera sp.,11,C,27,3.3,0
+Glycera sp.,11,C,31,3.3,0
+Glycera sp.,11,C,35,3.7,1
+Glycera sp.,22,H,96,10,0
+Glycera sp.,22,H,103,17.9,0
+Glycera sp.,22,H,129,14.7,0
+Glycera sp.,22,W,110,5.8,0
+Glycera sp.,22,W,111,2.9,0
+Glycera sp.,22,W,109,2.3,0
+Glycera sp.,22,C,73,2.4,0
+Glycera sp.,22,C,64,2.1,1
+Glycera sp.,22,C,113,2,0
+Glycera sp.,33,H,S139,2.3,0
+Glycera sp.,33,H,S133,4.2,1
+Glycera sp.,33,W,138,2.9,1
+Glycera sp.,33,W,132,,1
+Glycera sp.,96,W,156,3.1,0
+Glycera sp.,96,W,158,2.6,0
+Glycera sp.,96,W,159,,1
+Glycera sp.,108,H,83,2.6,1
+Glycera sp.,108,H,164,2.6,0
+Glycera sp.,108,H,174,2.7,0
+Glycera sp.,108,C,170,1.9,0
+Glycera sp.,108,C,171,2.1,0
+Glycera sp.,108,C,172,1.9,0
+Glycera sp.,135,W,183,,0
+Glycera sp.,135,W,184,,0
+Glycera sp.,135,W,186,,0
+Glycera sp.,135,C,180,2,1
+Glycera sp.,135,C,182,2,0
+Glycera sp.,135,C,187,2,0
+Glycera sp.,Pre,H,215,,1
+Glycera sp.,Pre,H,187,3.1,0
+Glycera sp.,Pre,H,236,,0
+Glycera sp.,Pre,W,184,2,0
+Glycera sp.,Pre,W,232,,0
+Glycera sp.,Pre,W,224,2.5,0
+Glycera sp.,Pre,C,201,2.3,1
+Glycera sp.,Pre,C,204,2,0
+Glycera sp.,Pre,C,199,2,0
+Hesiospina vestimentifera,9,H,2,26.7,0
+Hesiospina vestimentifera,9,H,3,23.2,0
+Hesiospina vestimentifera,9,H,4,24.7,0
+Hesiospina vestimentifera,9,W,6,2.2,0
+Hesiospina vestimentifera,9,W,7,2.2,0
+Hesiospina vestimentifera,9,W,19,6.5,0
+Hesiospina vestimentifera,11,H,30,18.5,0
+Hesiospina vestimentifera,11,H,34,27,0
+Hesiospina vestimentifera,11,H,29,28,0
+Hesiospina vestimentifera,11,W,23,9.6,0
+Hesiospina vestimentifera,11,W,24,7,0
+Hesiospina vestimentifera,11,W,26,9,0
+Hesiospina vestimentifera,11,C,27,3.3,0
+Hesiospina vestimentifera,11,C,31,3.3,0
+Hesiospina vestimentifera,11,C,35,3.7,0
+Hesiospina vestimentifera,22,H,96,10,1
+Hesiospina vestimentifera,22,H,103,17.9,0
+Hesiospina vestimentifera,22,H,129,14.7,0
+Hesiospina vestimentifera,22,W,110,5.8,0
+Hesiospina vestimentifera,22,W,111,2.9,0
+Hesiospina vestimentifera,22,W,109,2.3,0
+Hesiospina vestimentifera,22,C,73,2.4,0
+Hesiospina vestimentifera,22,C,64,2.1,0
+Hesiospina vestimentifera,22,C,113,2,0
+Hesiospina vestimentifera,33,H,S139,2.3,0
+Hesiospina vestimentifera,33,H,S133,4.2,0
+Hesiospina vestimentifera,33,W,138,2.9,0
+Hesiospina vestimentifera,33,W,132,,0
+Hesiospina vestimentifera,96,W,156,3.1,0
+Hesiospina vestimentifera,96,W,158,2.6,0
+Hesiospina vestimentifera,96,W,159,,0
+Hesiospina vestimentifera,108,H,83,2.6,0
+Hesiospina vestimentifera,108,H,164,2.6,0
+Hesiospina vestimentifera,108,H,174,2.7,0
+Hesiospina vestimentifera,108,C,170,1.9,0
+Hesiospina vestimentifera,108,C,171,2.1,0
+Hesiospina vestimentifera,108,C,172,1.9,0
+Hesiospina vestimentifera,135,W,183,,0
+Hesiospina vestimentifera,135,W,184,,0
+Hesiospina vestimentifera,135,W,186,,0
+Hesiospina vestimentifera,135,C,180,2,0
+Hesiospina vestimentifera,135,C,182,2,0
+Hesiospina vestimentifera,135,C,187,2,0
+Hesiospina vestimentifera,Pre,H,215,,0
+Hesiospina vestimentifera,Pre,H,187,3.1,0
+Hesiospina vestimentifera,Pre,H,236,,0
+Hesiospina vestimentifera,Pre,W,184,2,1
+Hesiospina vestimentifera,Pre,W,232,,42
+Hesiospina vestimentifera,Pre,W,224,2.5,1
+Hesiospina vestimentifera,Pre,C,201,2.3,0
+Hesiospina vestimentifera,Pre,C,204,2,0
+Hesiospina vestimentifera,Pre,C,199,2,0
+hesionid,9,H,2,26.7,0
+hesionid,9,H,3,23.2,0
+hesionid,9,H,4,24.7,0
+hesionid,9,W,6,2.2,0
+hesionid,9,W,7,2.2,0
+hesionid,9,W,19,6.5,0
+hesionid,11,H,30,18.5,0
+hesionid,11,H,34,27,0
+hesionid,11,H,29,28,0
+hesionid,11,W,23,9.6,0
+hesionid,11,W,24,7,0
+hesionid,11,W,26,9,0
+hesionid,11,C,27,3.3,3
+hesionid,11,C,31,3.3,0
+hesionid,11,C,35,3.7,7
+hesionid,22,H,96,10,0
+hesionid,22,H,103,17.9,0
+hesionid,22,H,129,14.7,0
+hesionid,22,W,110,5.8,0
+hesionid,22,W,111,2.9,0
+hesionid,22,W,109,2.3,0
+hesionid,22,C,73,2.4,0
+hesionid,22,C,64,2.1,0
+hesionid,22,C,113,2,0
+hesionid,33,H,S139,2.3,0
+hesionid,33,H,S133,4.2,0
+hesionid,33,W,138,2.9,2
+hesionid,33,W,132,,0
+hesionid,96,W,156,3.1,1
+hesionid,96,W,158,2.6,0
+hesionid,96,W,159,,4
+hesionid,108,H,83,2.6,3
+hesionid,108,H,164,2.6,1
+hesionid,108,H,174,2.7,0
+hesionid,108,C,170,1.9,1
+hesionid,108,C,171,2.1,4
+hesionid,108,C,172,1.9,0
+hesionid,135,W,183,,0
+hesionid,135,W,184,,0
+hesionid,135,W,186,,0
+hesionid,135,C,180,2,1
+hesionid,135,C,182,2,0
+hesionid,135,C,187,2,0
+hesionid,Pre,H,215,,0
+hesionid,Pre,H,187,3.1,0
+hesionid,Pre,H,236,,0
+hesionid,Pre,W,184,2,0
+hesionid,Pre,W,232,,0
+hesionid,Pre,W,224,2.5,0
+hesionid,Pre,C,201,2.3,0
+hesionid,Pre,C,204,2,0
+hesionid,Pre,C,199,2,0
+*Laminatubus alvini,9,H,2,26.7,0
+*Laminatubus alvini,9,H,3,23.2,0
+*Laminatubus alvini,9,H,4,24.7,0
+*Laminatubus alvini,9,W,6,2.2,0
+*Laminatubus alvini,9,W,7,2.2,0
+*Laminatubus alvini,9,W,19,6.5,0
+*Laminatubus alvini,11,H,30,18.5,0
+*Laminatubus alvini,11,H,34,27,0
+*Laminatubus alvini,11,H,29,28,0
+*Laminatubus alvini,11,W,23,9.6,0
+*Laminatubus alvini,11,W,24,7,0
+*Laminatubus alvini,11,W,26,9,0
+*Laminatubus alvini,11,C,27,3.3,0
+*Laminatubus alvini,11,C,31,3.3,0
+*Laminatubus alvini,11,C,35,3.7,0
+*Laminatubus alvini,22,H,96,10,0
+*Laminatubus alvini,22,H,103,17.9,0
+*Laminatubus alvini,22,H,129,14.7,0
+*Laminatubus alvini,22,W,110,5.8,0
+*Laminatubus alvini,22,W,111,2.9,0
+*Laminatubus alvini,22,W,109,2.3,0
+*Laminatubus alvini,22,C,73,2.4,2
+*Laminatubus alvini,22,C,64,2.1,2
+*Laminatubus alvini,22,C,113,2,33
+*Laminatubus alvini,33,H,S139,2.3,0
+*Laminatubus alvini,33,H,S133,4.2,14
+*Laminatubus alvini,33,W,138,2.9,0
+*Laminatubus alvini,33,W,132,,14
+*Laminatubus alvini,96,W,156,3.1,81
+*Laminatubus alvini,96,W,158,2.6,93
+*Laminatubus alvini,96,W,159,,113
+*Laminatubus alvini,108,H,83,2.6,15
+*Laminatubus alvini,108,H,164,2.6,5
+*Laminatubus alvini,108,H,174,2.7,5
+*Laminatubus alvini,108,C,170,1.9,5
+*Laminatubus alvini,108,C,171,2.1,18
+*Laminatubus alvini,108,C,172,1.9,4
+*Laminatubus alvini,135,W,183,,17
+*Laminatubus alvini,135,W,184,,15
+*Laminatubus alvini,135,W,186,,8
+*Laminatubus alvini,135,C,180,2,15
+*Laminatubus alvini,135,C,182,2,24
+*Laminatubus alvini,135,C,187,2,30
+*Laminatubus alvini,Pre,H,215,,15
+*Laminatubus alvini,Pre,H,187,3.1,8
+*Laminatubus alvini,Pre,H,236,,27
+*Laminatubus alvini,Pre,W,184,2,5
+*Laminatubus alvini,Pre,W,232,,0
+*Laminatubus alvini,Pre,W,224,2.5,49
+*Laminatubus alvini,Pre,C,201,2.3,107
+*Laminatubus alvini,Pre,C,204,2,58
+*Laminatubus alvini,Pre,C,199,2,6
+Lepidonotopodium sp.,9,H,2,26.7,0
+Lepidonotopodium sp.,9,H,3,23.2,0
+Lepidonotopodium sp.,9,H,4,24.7,0
+Lepidonotopodium sp.,9,W,6,2.2,0
+Lepidonotopodium sp.,9,W,7,2.2,0
+Lepidonotopodium sp.,9,W,19,6.5,0
+Lepidonotopodium sp.,11,H,30,18.5,0
+Lepidonotopodium sp.,11,H,34,27,0
+Lepidonotopodium sp.,11,H,29,28,2
+Lepidonotopodium sp.,11,W,23,9.6,0
+Lepidonotopodium sp.,11,W,24,7,0
+Lepidonotopodium sp.,11,W,26,9,0
+Lepidonotopodium sp.,11,C,27,3.3,0
+Lepidonotopodium sp.,11,C,31,3.3,0
+Lepidonotopodium sp.,11,C,35,3.7,0
+Lepidonotopodium sp.,22,H,96,10,0
+Lepidonotopodium sp.,22,H,103,17.9,0
+Lepidonotopodium sp.,22,H,129,14.7,0
+Lepidonotopodium sp.,22,W,110,5.8,0
+Lepidonotopodium sp.,22,W,111,2.9,0
+Lepidonotopodium sp.,22,W,109,2.3,3
+Lepidonotopodium sp.,22,C,73,2.4,0
+Lepidonotopodium sp.,22,C,64,2.1,0
+Lepidonotopodium sp.,22,C,113,2,0
+Lepidonotopodium sp.,33,H,S139,2.3,1
+Lepidonotopodium sp.,33,H,S133,4.2,5
+Lepidonotopodium sp.,33,W,138,2.9,1
+Lepidonotopodium sp.,33,W,132,,0
+Lepidonotopodium sp.,96,W,156,3.1,0
+Lepidonotopodium sp.,96,W,158,2.6,0
+Lepidonotopodium sp.,96,W,159,,0
+Lepidonotopodium sp.,108,H,83,2.6,0
+Lepidonotopodium sp.,108,H,164,2.6,0
+Lepidonotopodium sp.,108,H,174,2.7,0
+Lepidonotopodium sp.,108,C,170,1.9,0
+Lepidonotopodium sp.,108,C,171,2.1,0
+Lepidonotopodium sp.,108,C,172,1.9,0
+Lepidonotopodium sp.,135,W,183,,0
+Lepidonotopodium sp.,135,W,184,,0
+Lepidonotopodium sp.,135,W,186,,0
+Lepidonotopodium sp.,135,C,180,2,0
+Lepidonotopodium sp.,135,C,182,2,0
+Lepidonotopodium sp.,135,C,187,2,0
+Lepidonotopodium sp.,Pre,H,215,,0
+Lepidonotopodium sp.,Pre,H,187,3.1,0
+Lepidonotopodium sp.,Pre,H,236,,0
+Lepidonotopodium sp.,Pre,W,184,2,0
+Lepidonotopodium sp.,Pre,W,232,,1
+Lepidonotopodium sp.,Pre,W,224,2.5,0
+Lepidonotopodium sp.,Pre,C,201,2.3,0
+Lepidonotopodium sp.,Pre,C,204,2,0
+Lepidonotopodium sp.,Pre,C,199,2,0
+Nereis sp.,9,H,2,26.7,0
+Nereis sp.,9,H,3,23.2,0
+Nereis sp.,9,H,4,24.7,0
+Nereis sp.,9,W,6,2.2,0
+Nereis sp.,9,W,7,2.2,0
+Nereis sp.,9,W,19,6.5,0
+Nereis sp.,11,H,30,18.5,0
+Nereis sp.,11,H,34,27,0
+Nereis sp.,11,H,29,28,0
+Nereis sp.,11,W,23,9.6,0
+Nereis sp.,11,W,24,7,0
+Nereis sp.,11,W,26,9,0
+Nereis sp.,11,C,27,3.3,0
+Nereis sp.,11,C,31,3.3,0
+Nereis sp.,11,C,35,3.7,0
+Nereis sp.,22,H,96,10,0
+Nereis sp.,22,H,103,17.9,0
+Nereis sp.,22,H,129,14.7,0
+Nereis sp.,22,W,110,5.8,0
+Nereis sp.,22,W,111,2.9,0
+Nereis sp.,22,W,109,2.3,3
+Nereis sp.,22,C,73,2.4,2
+Nereis sp.,22,C,64,2.1,0
+Nereis sp.,22,C,113,2,0
+Nereis sp.,33,H,S139,2.3,0
+Nereis sp.,33,H,S133,4.2,0
+Nereis sp.,33,W,138,2.9,4
+Nereis sp.,33,W,132,,5
+Nereis sp.,96,W,156,3.1,10
+Nereis sp.,96,W,158,2.6,11
+Nereis sp.,96,W,159,,2
+Nereis sp.,108,H,83,2.6,4
+Nereis sp.,108,H,164,2.6,6
+Nereis sp.,108,H,174,2.7,5
+Nereis sp.,108,C,170,1.9,1
+Nereis sp.,108,C,171,2.1,17
+Nereis sp.,108,C,172,1.9,1
+Nereis sp.,135,W,183,,0
+Nereis sp.,135,W,184,,0
+Nereis sp.,135,W,186,,0
+Nereis sp.,135,C,180,2,0
+Nereis sp.,135,C,182,2,0
+Nereis sp.,135,C,187,2,0
+Nereis sp.,Pre,H,215,,1
+Nereis sp.,Pre,H,187,3.1,3
+Nereis sp.,Pre,H,236,,1
+Nereis sp.,Pre,W,184,2,4
+Nereis sp.,Pre,W,232,,6
+Nereis sp.,Pre,W,224,2.5,4
+Nereis sp.,Pre,C,201,2.3,1
+Nereis sp.,Pre,C,204,2,0
+Nereis sp.,Pre,C,199,2,0
+Nicomache sp.,9,H,2,26.7,0
+Nicomache sp.,9,H,3,23.2,0
+Nicomache sp.,9,H,4,24.7,0
+Nicomache sp.,9,W,6,2.2,0
+Nicomache sp.,9,W,7,2.2,0
+Nicomache sp.,9,W,19,6.5,0
+Nicomache sp.,11,H,30,18.5,0
+Nicomache sp.,11,H,34,27,0
+Nicomache sp.,11,H,29,28,0
+Nicomache sp.,11,W,23,9.6,0
+Nicomache sp.,11,W,24,7,0
+Nicomache sp.,11,W,26,9,0
+Nicomache sp.,11,C,27,3.3,0
+Nicomache sp.,11,C,31,3.3,0
+Nicomache sp.,11,C,35,3.7,0
+Nicomache sp.,22,H,96,10,0
+Nicomache sp.,22,H,103,17.9,0
+Nicomache sp.,22,H,129,14.7,0
+Nicomache sp.,22,W,110,5.8,0
+Nicomache sp.,22,W,111,2.9,0
+Nicomache sp.,22,W,109,2.3,0
+Nicomache sp.,22,C,73,2.4,0
+Nicomache sp.,22,C,64,2.1,0
+Nicomache sp.,22,C,113,2,0
+Nicomache sp.,33,H,S139,2.3,0
+Nicomache sp.,33,H,S133,4.2,0
+Nicomache sp.,33,W,138,2.9,0
+Nicomache sp.,33,W,132,,0
+Nicomache sp.,96,W,156,3.1,0
+Nicomache sp.,96,W,158,2.6,0
+Nicomache sp.,96,W,159,,5
+Nicomache sp.,108,H,83,2.6,0
+Nicomache sp.,108,H,164,2.6,0
+Nicomache sp.,108,H,174,2.7,0
+Nicomache sp.,108,C,170,1.9,0
+Nicomache sp.,108,C,171,2.1,0
+Nicomache sp.,108,C,172,1.9,0
+Nicomache sp.,135,W,183,,0
+Nicomache sp.,135,W,184,,4
+Nicomache sp.,135,W,186,,0
+Nicomache sp.,135,C,180,2,7
+Nicomache sp.,135,C,182,2,0
+Nicomache sp.,135,C,187,2,0
+Nicomache sp.,Pre,H,215,,0
+Nicomache sp.,Pre,H,187,3.1,0
+Nicomache sp.,Pre,H,236,,0
+Nicomache sp.,Pre,W,184,2,3
+Nicomache sp.,Pre,W,232,,0
+Nicomache sp.,Pre,W,224,2.5,2
+Nicomache sp.,Pre,C,201,2.3,8
+Nicomache sp.,Pre,C,204,2,4
+Nicomache sp.,Pre,C,199,2,1
+Ophryotrocha akessoni,9,H,2,26.7,0
+Ophryotrocha akessoni,9,H,3,23.2,0
+Ophryotrocha akessoni,9,H,4,24.7,0
+Ophryotrocha akessoni,9,W,6,2.2,39
+Ophryotrocha akessoni,9,W,7,2.2,36
+Ophryotrocha akessoni,9,W,19,6.5,89
+Ophryotrocha akessoni,11,H,30,18.5,0
+Ophryotrocha akessoni,11,H,34,27,0
+Ophryotrocha akessoni,11,H,29,28,0
+Ophryotrocha akessoni,11,W,23,9.6,27
+Ophryotrocha akessoni,11,W,24,7,14
+Ophryotrocha akessoni,11,W,26,9,17
+Ophryotrocha akessoni,11,C,27,3.3,10
+Ophryotrocha akessoni,11,C,31,3.3,26
+Ophryotrocha akessoni,11,C,35,3.7,30
+Ophryotrocha akessoni,22,H,96,10,68
+Ophryotrocha akessoni,22,H,103,17.9,224
+Ophryotrocha akessoni,22,H,129,14.7,21
+Ophryotrocha akessoni,22,W,110,5.8,276
+Ophryotrocha akessoni,22,W,111,2.9,221
+Ophryotrocha akessoni,22,W,109,2.3,341
+Ophryotrocha akessoni,22,C,73,2.4,205
+Ophryotrocha akessoni,22,C,64,2.1,6
+Ophryotrocha akessoni,22,C,113,2,89
+Ophryotrocha akessoni,33,H,S139,2.3,47
+Ophryotrocha akessoni,33,H,S133,4.2,64
+Ophryotrocha akessoni,33,W,138,2.9,87
+Ophryotrocha akessoni,33,W,132,,70
+Ophryotrocha akessoni,96,W,156,3.1,16
+Ophryotrocha akessoni,96,W,158,2.6,5
+Ophryotrocha akessoni,96,W,159,,3
+Ophryotrocha akessoni,108,H,83,2.6,2
+Ophryotrocha akessoni,108,H,164,2.6,0
+Ophryotrocha akessoni,108,H,174,2.7,2
+Ophryotrocha akessoni,108,C,170,1.9,5
+Ophryotrocha akessoni,108,C,171,2.1,7
+Ophryotrocha akessoni,108,C,172,1.9,10
+Ophryotrocha akessoni,135,W,183,,1
+Ophryotrocha akessoni,135,W,184,,0
+Ophryotrocha akessoni,135,W,186,,1
+Ophryotrocha akessoni,135,C,180,2,0
+Ophryotrocha akessoni,135,C,182,2,0
+Ophryotrocha akessoni,135,C,187,2,0
+Ophryotrocha akessoni,Pre,H,215,,3
+Ophryotrocha akessoni,Pre,H,187,3.1,9
+Ophryotrocha akessoni,Pre,H,236,,4
+Ophryotrocha akessoni,Pre,W,184,2,0
+Ophryotrocha akessoni,Pre,W,232,,11
+Ophryotrocha akessoni,Pre,W,224,2.5,0
+Ophryotrocha akessoni,Pre,C,201,2.3,6
+Ophryotrocha akessoni,Pre,C,204,2,12
+Ophryotrocha akessoni,Pre,C,199,2,2
+Paralvinella grasslei,9,H,2,26.7,158
+Paralvinella grasslei,9,H,3,23.2,121
+Paralvinella grasslei,9,H,4,24.7,112
+Paralvinella grasslei,9,W,6,2.2,0
+Paralvinella grasslei,9,W,7,2.2,0
+Paralvinella grasslei,9,W,19,6.5,5
+Paralvinella grasslei,11,H,30,18.5,23
+Paralvinella grasslei,11,H,34,27,109
+Paralvinella grasslei,11,H,29,28,106
+Paralvinella grasslei,11,W,23,9.6,0
+Paralvinella grasslei,11,W,24,7,0
+Paralvinella grasslei,11,W,26,9,1
+Paralvinella grasslei,11,C,27,3.3,0
+Paralvinella grasslei,11,C,31,3.3,0
+Paralvinella grasslei,11,C,35,3.7,1
+Paralvinella grasslei,22,H,96,10,7
+Paralvinella grasslei,22,H,103,17.9,138
+Paralvinella grasslei,22,H,129,14.7,193
+Paralvinella grasslei,22,W,110,5.8,0
+Paralvinella grasslei,22,W,111,2.9,1
+Paralvinella grasslei,22,W,109,2.3,0
+Paralvinella grasslei,22,C,73,2.4,0
+Paralvinella grasslei,22,C,64,2.1,0
+Paralvinella grasslei,22,C,113,2,1
+Paralvinella grasslei,33,H,S139,2.3,0
+Paralvinella grasslei,33,H,S133,4.2,0
+Paralvinella grasslei,33,W,138,2.9,0
+Paralvinella grasslei,33,W,132,,0
+Paralvinella grasslei,96,W,156,3.1,0
+Paralvinella grasslei,96,W,158,2.6,0
+Paralvinella grasslei,96,W,159,,0
+Paralvinella grasslei,108,H,83,2.6,0
+Paralvinella grasslei,108,H,164,2.6,0
+Paralvinella grasslei,108,H,174,2.7,0
+Paralvinella grasslei,108,C,170,1.9,0
+Paralvinella grasslei,108,C,171,2.1,0
+Paralvinella grasslei,108,C,172,1.9,0
+Paralvinella grasslei,135,W,183,,0
+Paralvinella grasslei,135,W,184,,0
+Paralvinella grasslei,135,W,186,,0
+Paralvinella grasslei,135,C,180,2,0
+Paralvinella grasslei,135,C,182,2,0
+Paralvinella grasslei,135,C,187,2,0
+Paralvinella grasslei,Pre,H,215,,0
+Paralvinella grasslei,Pre,H,187,3.1,0
+Paralvinella grasslei,Pre,H,236,,0
+Paralvinella grasslei,Pre,W,184,2,0
+Paralvinella grasslei,Pre,W,232,,0
+Paralvinella grasslei,Pre,W,224,2.5,0
+Paralvinella grasslei,Pre,C,201,2.3,0
+Paralvinella grasslei,Pre,C,204,2,0
+Paralvinella grasslei,Pre,C,199,2,0
+Thermiphione risensis,9,H,2,26.7,0
+Thermiphione risensis,9,H,3,23.2,0
+Thermiphione risensis,9,H,4,24.7,0
+Thermiphione risensis,9,W,6,2.2,0
+Thermiphione risensis,9,W,7,2.2,0
+Thermiphione risensis,9,W,19,6.5,0
+Thermiphione risensis,11,H,30,18.5,0
+Thermiphione risensis,11,H,34,27,0
+Thermiphione risensis,11,H,29,28,0
+Thermiphione risensis,11,W,23,9.6,0
+Thermiphione risensis,11,W,24,7,0
+Thermiphione risensis,11,W,26,9,0
+Thermiphione risensis,11,C,27,3.3,0
+Thermiphione risensis,11,C,31,3.3,0
+Thermiphione risensis,11,C,35,3.7,0
+Thermiphione risensis,22,H,96,10,0
+Thermiphione risensis,22,H,103,17.9,0
+Thermiphione risensis,22,H,129,14.7,0
+Thermiphione risensis,22,W,110,5.8,0
+Thermiphione risensis,22,W,111,2.9,0
+Thermiphione risensis,22,W,109,2.3,0
+Thermiphione risensis,22,C,73,2.4,0
+Thermiphione risensis,22,C,64,2.1,0
+Thermiphione risensis,22,C,113,2,0
+Thermiphione risensis,33,H,S139,2.3,0
+Thermiphione risensis,33,H,S133,4.2,0
+Thermiphione risensis,33,W,138,2.9,0
+Thermiphione risensis,33,W,132,,0
+Thermiphione risensis,96,W,156,3.1,2
+Thermiphione risensis,96,W,158,2.6,1
+Thermiphione risensis,96,W,159,,5
+Thermiphione risensis,108,H,83,2.6,0
+Thermiphione risensis,108,H,164,2.6,0
+Thermiphione risensis,108,H,174,2.7,0
+Thermiphione risensis,108,C,170,1.9,0
+Thermiphione risensis,108,C,171,2.1,2
+Thermiphione risensis,108,C,172,1.9,0
+Thermiphione risensis,135,W,183,,0
+Thermiphione risensis,135,W,184,,0
+Thermiphione risensis,135,W,186,,0
+Thermiphione risensis,135,C,180,2,0
+Thermiphione risensis,135,C,182,2,0
+Thermiphione risensis,135,C,187,2,0
+Thermiphione risensis,Pre,H,215,,0
+Thermiphione risensis,Pre,H,187,3.1,0
+Thermiphione risensis,Pre,H,236,,0
+Thermiphione risensis,Pre,W,184,2,1
+Thermiphione risensis,Pre,W,232,,1
+Thermiphione risensis,Pre,W,224,2.5,1
+Thermiphione risensis,Pre,C,201,2.3,1
+Thermiphione risensis,Pre,C,204,2,0
+Thermiphione risensis,Pre,C,199,2,0
+Prionospio sandersi,9,H,2,26.7,0
+Prionospio sandersi,9,H,3,23.2,0
+Prionospio sandersi,9,H,4,24.7,0
+Prionospio sandersi,9,W,6,2.2,0
+Prionospio sandersi,9,W,7,2.2,0
+Prionospio sandersi,9,W,19,6.5,0
+Prionospio sandersi,11,H,30,18.5,0
+Prionospio sandersi,11,H,34,27,0
+Prionospio sandersi,11,H,29,28,0
+Prionospio sandersi,11,W,23,9.6,0
+Prionospio sandersi,11,W,24,7,0
+Prionospio sandersi,11,W,26,9,0
+Prionospio sandersi,11,C,27,3.3,0
+Prionospio sandersi,11,C,31,3.3,0
+Prionospio sandersi,11,C,35,3.7,0
+Prionospio sandersi,22,H,96,10,1
+Prionospio sandersi,22,H,103,17.9,0
+Prionospio sandersi,22,H,129,14.7,0
+Prionospio sandersi,22,W,110,5.8,0
+Prionospio sandersi,22,W,111,2.9,0
+Prionospio sandersi,22,W,109,2.3,1
+Prionospio sandersi,22,C,73,2.4,0
+Prionospio sandersi,22,C,64,2.1,0
+Prionospio sandersi,22,C,113,2,0
+Prionospio sandersi,33,H,S139,2.3,0
+Prionospio sandersi,33,H,S133,4.2,1
+Prionospio sandersi,33,W,138,2.9,2
+Prionospio sandersi,33,W,132,,1
+Prionospio sandersi,96,W,156,3.1,0
+Prionospio sandersi,96,W,158,2.6,0
+Prionospio sandersi,96,W,159,,0
+Prionospio sandersi,108,H,83,2.6,4
+Prionospio sandersi,108,H,164,2.6,1
+Prionospio sandersi,108,H,174,2.7,1
+Prionospio sandersi,108,C,170,1.9,2
+Prionospio sandersi,108,C,171,2.1,2
+Prionospio sandersi,108,C,172,1.9,1
+Prionospio sandersi,135,W,183,,0
+Prionospio sandersi,135,W,184,,1
+Prionospio sandersi,135,W,186,,1
+Prionospio sandersi,135,C,180,2,4
+Prionospio sandersi,135,C,182,2,0
+Prionospio sandersi,135,C,187,2,0
+Prionospio sandersi,Pre,H,215,,0
+Prionospio sandersi,Pre,H,187,3.1,0
+Prionospio sandersi,Pre,H,236,,1
+Prionospio sandersi,Pre,W,184,2,0
+Prionospio sandersi,Pre,W,232,,0
+Prionospio sandersi,Pre,W,224,2.5,0
+Prionospio sandersi,Pre,C,201,2.3,0
+Prionospio sandersi,Pre,C,204,2,0
+Prionospio sandersi,Pre,C,199,2,0
+"polynoids, adult",9,H,2,26.7,0
+"polynoids, adult",9,H,3,23.2,0
+"polynoids, adult",9,H,4,24.7,0
+"polynoids, adult",9,W,6,2.2,0
+"polynoids, adult",9,W,7,2.2,0
+"polynoids, adult",9,W,19,6.5,0
+"polynoids, adult",11,H,30,18.5,0
+"polynoids, adult",11,H,34,27,0
+"polynoids, adult",11,H,29,28,0
+"polynoids, adult",11,W,23,9.6,4
+"polynoids, adult",11,W,24,7,2
+"polynoids, adult",11,W,26,9,2
+"polynoids, adult",11,C,27,3.3,6
+"polynoids, adult",11,C,31,3.3,5
+"polynoids, adult",11,C,35,3.7,19
+"polynoids, adult",22,H,96,10,0
+"polynoids, adult",22,H,103,17.9,0
+"polynoids, adult",22,H,129,14.7,0
+"polynoids, adult",22,W,110,5.8,0
+"polynoids, adult",22,W,111,2.9,1
+"polynoids, adult",22,W,109,2.3,0
+"polynoids, adult",22,C,73,2.4,1
+"polynoids, adult",22,C,64,2.1,0
+"polynoids, adult",22,C,113,2,0
+"polynoids, adult",33,H,S139,2.3,0
+"polynoids, adult",33,H,S133,4.2,0
+"polynoids, adult",33,W,138,2.9,0
+"polynoids, adult",33,W,132,,0
+"polynoids, adult",96,W,156,3.1,0
+"polynoids, adult",96,W,158,2.6,0
+"polynoids, adult",96,W,159,,0
+"polynoids, adult",108,H,83,2.6,0
+"polynoids, adult",108,H,164,2.6,0
+"polynoids, adult",108,H,174,2.7,0
+"polynoids, adult",108,C,170,1.9,0
+"polynoids, adult",108,C,171,2.1,0
+"polynoids, adult",108,C,172,1.9,0
+"polynoids, adult",135,W,183,,0
+"polynoids, adult",135,W,184,,0
+"polynoids, adult",135,W,186,,0
+"polynoids, adult",135,C,180,2,0
+"polynoids, adult",135,C,182,2,0
+"polynoids, adult",135,C,187,2,0
+"polynoids, adult",Pre,H,215,,0
+"polynoids, adult",Pre,H,187,3.1,0
+"polynoids, adult",Pre,H,236,,0
+"polynoids, adult",Pre,W,184,2,0
+"polynoids, adult",Pre,W,232,,0
+"polynoids, adult",Pre,W,224,2.5,0
+"polynoids, adult",Pre,C,201,2.3,0
+"polynoids, adult",Pre,C,204,2,0
+"polynoids, adult",Pre,C,199,2,0
+"polynoids, unk",9,H,2,26.7,0
+"polynoids, unk",9,H,3,23.2,0
+"polynoids, unk",9,H,4,24.7,0
+"polynoids, unk",9,W,6,2.2,1
+"polynoids, unk",9,W,7,2.2,4
+"polynoids, unk",9,W,19,6.5,0
+"polynoids, unk",11,H,30,18.5,1
+"polynoids, unk",11,H,34,27,0
+"polynoids, unk",11,H,29,28,0
+"polynoids, unk",11,W,23,9.6,1
+"polynoids, unk",11,W,24,7,0
+"polynoids, unk",11,W,26,9,0
+"polynoids, unk",11,C,27,3.3,0
+"polynoids, unk",11,C,31,3.3,0
+"polynoids, unk",11,C,35,3.7,0
+"polynoids, unk",22,H,96,10,0
+"polynoids, unk",22,H,103,17.9,0
+"polynoids, unk",22,H,129,14.7,0
+"polynoids, unk",22,W,110,5.8,3
+"polynoids, unk",22,W,111,2.9,0
+"polynoids, unk",22,W,109,2.3,0
+"polynoids, unk",22,C,73,2.4,0
+"polynoids, unk",22,C,64,2.1,0
+"polynoids, unk",22,C,113,2,0
+"polynoids, unk",33,H,S139,2.3,0
+"polynoids, unk",33,H,S133,4.2,0
+"polynoids, unk",33,W,138,2.9,2
+"polynoids, unk",33,W,132,,1
+"polynoids, unk",96,W,156,3.1,1
+"polynoids, unk",96,W,158,2.6,8
+"polynoids, unk",96,W,159,,10
+"polynoids, unk",108,H,83,2.6,0
+"polynoids, unk",108,H,164,2.6,4
+"polynoids, unk",108,H,174,2.7,2
+"polynoids, unk",108,C,170,1.9,0
+"polynoids, unk",108,C,171,2.1,10
+"polynoids, unk",108,C,172,1.9,0
+"polynoids, unk",135,W,183,,0
+"polynoids, unk",135,W,184,,0
+"polynoids, unk",135,W,186,,0
+"polynoids, unk",135,C,180,2,0
+"polynoids, unk",135,C,182,2,0
+"polynoids, unk",135,C,187,2,1
+"polynoids, unk",Pre,H,215,,3
+"polynoids, unk",Pre,H,187,3.1,0
+"polynoids, unk",Pre,H,236,,2
+"polynoids, unk",Pre,W,184,2,0
+"polynoids, unk",Pre,W,232,,0
+"polynoids, unk",Pre,W,224,2.5,0
+"polynoids, unk",Pre,C,201,2.3,2
+"polynoids, unk",Pre,C,204,2,0
+"polynoids, unk",Pre,C,199,2,0
+"polychaetes, unk",9,H,2,26.7,0
+"polychaetes, unk",9,H,3,23.2,0
+"polychaetes, unk",9,H,4,24.7,0
+"polychaetes, unk",9,W,6,2.2,0
+"polychaetes, unk",9,W,7,2.2,0
+"polychaetes, unk",9,W,19,6.5,0
+"polychaetes, unk",11,H,30,18.5,0
+"polychaetes, unk",11,H,34,27,1
+"polychaetes, unk",11,H,29,28,0
+"polychaetes, unk",11,W,23,9.6,0
+"polychaetes, unk",11,W,24,7,0
+"polychaetes, unk",11,W,26,9,1
+"polychaetes, unk",11,C,27,3.3,0
+"polychaetes, unk",11,C,31,3.3,0
+"polychaetes, unk",11,C,35,3.7,0
+"polychaetes, unk",22,H,96,10,0
+"polychaetes, unk",22,H,103,17.9,0
+"polychaetes, unk",22,H,129,14.7,0
+"polychaetes, unk",22,W,110,5.8,0
+"polychaetes, unk",22,W,111,2.9,1
+"polychaetes, unk",22,W,109,2.3,0
+"polychaetes, unk",22,C,73,2.4,1
+"polychaetes, unk",22,C,64,2.1,0
+"polychaetes, unk",22,C,113,2,0
+"polychaetes, unk",33,H,S139,2.3,0
+"polychaetes, unk",33,H,S133,4.2,0
+"polychaetes, unk",33,W,138,2.9,0
+"polychaetes, unk",33,W,132,,0
+"polychaetes, unk",96,W,156,3.1,0
+"polychaetes, unk",96,W,158,2.6,0
+"polychaetes, unk",96,W,159,,2
+"polychaetes, unk",108,H,83,2.6,2
+"polychaetes, unk",108,H,164,2.6,0
+"polychaetes, unk",108,H,174,2.7,0
+"polychaetes, unk",108,C,170,1.9,1
+"polychaetes, unk",108,C,171,2.1,52
+"polychaetes, unk",108,C,172,1.9,1
+"polychaetes, unk",135,W,183,,0
+"polychaetes, unk",135,W,184,,0
+"polychaetes, unk",135,W,186,,0
+"polychaetes, unk",135,C,180,2,0
+"polychaetes, unk",135,C,182,2,0
+"polychaetes, unk",135,C,187,2,0
+"polychaetes, unk",Pre,H,215,,0
+"polychaetes, unk",Pre,H,187,3.1,0
+"polychaetes, unk",Pre,H,236,,0
+"polychaetes, unk",Pre,W,184,2,0
+"polychaetes, unk",Pre,W,232,,0
+"polychaetes, unk",Pre,W,224,2.5,0
+"polychaetes, unk",Pre,C,201,2.3,2
+"polychaetes, unk",Pre,C,204,2,0
+"polychaetes, unk",Pre,C,199,2,0
+"polycheates, juv",9,H,2,26.7,0
+"polycheates, juv",9,H,3,23.2,0
+"polycheates, juv",9,H,4,24.7,0
+"polycheates, juv",9,W,6,2.2,54
+"polycheates, juv",9,W,7,2.2,17
+"polycheates, juv",9,W,19,6.5,68
+"polycheates, juv",11,H,30,18.5,0
+"polycheates, juv",11,H,34,27,0
+"polycheates, juv",11,H,29,28,0
+"polycheates, juv",11,W,23,9.6,0
+"polycheates, juv",11,W,24,7,1
+"polycheates, juv",11,W,26,9,1
+"polycheates, juv",11,C,27,3.3,0
+"polycheates, juv",11,C,31,3.3,0
+"polycheates, juv",11,C,35,3.7,0
+"polycheates, juv",22,H,96,10,0
+"polycheates, juv",22,H,103,17.9,0
+"polycheates, juv",22,H,129,14.7,0
+"polycheates, juv",22,W,110,5.8,0
+"polycheates, juv",22,W,111,2.9,0
+"polycheates, juv",22,W,109,2.3,2
+"polycheates, juv",22,C,73,2.4,2
+"polycheates, juv",22,C,64,2.1,0
+"polycheates, juv",22,C,113,2,0
+"polycheates, juv",33,H,S139,2.3,0
+"polycheates, juv",33,H,S133,4.2,4
+"polycheates, juv",33,W,138,2.9,0
+"polycheates, juv",33,W,132,,0
+"polycheates, juv",96,W,156,3.1,0
+"polycheates, juv",96,W,158,2.6,0
+"polycheates, juv",96,W,159,,5
+"polycheates, juv",108,H,83,2.6,0
+"polycheates, juv",108,H,164,2.6,0
+"polycheates, juv",108,H,174,2.7,1
+"polycheates, juv",108,C,170,1.9,0
+"polycheates, juv",108,C,171,2.1,10
+"polycheates, juv",108,C,172,1.9,0
+"polycheates, juv",135,W,183,,0
+"polycheates, juv",135,W,184,,0
+"polycheates, juv",135,W,186,,0
+"polycheates, juv",135,C,180,2,0
+"polycheates, juv",135,C,182,2,0
+"polycheates, juv",135,C,187,2,0
+"polycheates, juv",Pre,H,215,,0
+"polycheates, juv",Pre,H,187,3.1,1
+"polycheates, juv",Pre,H,236,,0
+"polycheates, juv",Pre,W,184,2,1
+"polycheates, juv",Pre,W,232,,0
+"polycheates, juv",Pre,W,224,2.5,0
+"polycheates, juv",Pre,C,201,2.3,1
+"polycheates, juv",Pre,C,204,2,0
+"polycheates, juv",Pre,C,199,2,0
+Riftia pachyptila,9,H,2,26.7,0
+Riftia pachyptila,9,H,3,23.2,0
+Riftia pachyptila,9,H,4,24.7,0
+Riftia pachyptila,9,W,6,2.2,0
+Riftia pachyptila,9,W,7,2.2,0
+Riftia pachyptila,9,W,19,6.5,0
+Riftia pachyptila,11,H,30,18.5,0
+Riftia pachyptila,11,H,34,27,0
+Riftia pachyptila,11,H,29,28,0
+Riftia pachyptila,11,W,23,9.6,0
+Riftia pachyptila,11,W,24,7,0
+Riftia pachyptila,11,W,26,9,0
+Riftia pachyptila,11,C,27,3.3,0
+Riftia pachyptila,11,C,31,3.3,0
+Riftia pachyptila,11,C,35,3.7,0
+Riftia pachyptila,22,H,96,10,2
+Riftia pachyptila,22,H,103,17.9,0
+Riftia pachyptila,22,H,129,14.7,0
+Riftia pachyptila,22,W,110,5.8,0
+Riftia pachyptila,22,W,111,2.9,0
+Riftia pachyptila,22,W,109,2.3,0
+Riftia pachyptila,22,C,73,2.4,0
+Riftia pachyptila,22,C,64,2.1,0
+Riftia pachyptila,22,C,113,2,0
+Riftia pachyptila,33,H,S139,2.3,0
+Riftia pachyptila,33,H,S133,4.2,0
+Riftia pachyptila,33,W,138,2.9,0
+Riftia pachyptila,33,W,132,,0
+Riftia pachyptila,96,W,156,3.1,0
+Riftia pachyptila,96,W,158,2.6,0
+Riftia pachyptila,96,W,159,,0
+Riftia pachyptila,108,H,83,2.6,0
+Riftia pachyptila,108,H,164,2.6,0
+Riftia pachyptila,108,H,174,2.7,0
+Riftia pachyptila,108,C,170,1.9,0
+Riftia pachyptila,108,C,171,2.1,0
+Riftia pachyptila,108,C,172,1.9,0
+Riftia pachyptila,135,W,183,,0
+Riftia pachyptila,135,W,184,,0
+Riftia pachyptila,135,W,186,,0
+Riftia pachyptila,135,C,180,2,0
+Riftia pachyptila,135,C,182,2,0
+Riftia pachyptila,135,C,187,2,0
+Riftia pachyptila,Pre,H,215,,0
+Riftia pachyptila,Pre,H,187,3.1,1
+Riftia pachyptila,Pre,H,236,,0
+Riftia pachyptila,Pre,W,184,2,0
+Riftia pachyptila,Pre,W,232,,0
+Riftia pachyptila,Pre,W,224,2.5,0
+Riftia pachyptila,Pre,C,201,2.3,0
+Riftia pachyptila,Pre,C,204,2,0
+Riftia pachyptila,Pre,C,199,2,0
+Tevnia jerichonana,9,H,2,26.7,0
+Tevnia jerichonana,9,H,3,23.2,0
+Tevnia jerichonana,9,H,4,24.7,0
+Tevnia jerichonana,9,W,6,2.2,0
+Tevnia jerichonana,9,W,7,2.2,0
+Tevnia jerichonana,9,W,19,6.5,0
+Tevnia jerichonana,11,H,30,18.5,0
+Tevnia jerichonana,11,H,34,27,0
+Tevnia jerichonana,11,H,29,28,0
+Tevnia jerichonana,11,W,23,9.6,0
+Tevnia jerichonana,11,W,24,7,0
+Tevnia jerichonana,11,W,26,9,0
+Tevnia jerichonana,11,C,27,3.3,0
+Tevnia jerichonana,11,C,31,3.3,0
+Tevnia jerichonana,11,C,35,3.7,0
+Tevnia jerichonana,22,H,96,10,51
+Tevnia jerichonana,22,H,103,17.9,158
+Tevnia jerichonana,22,H,129,14.7,52
+Tevnia jerichonana,22,W,110,5.8,0
+Tevnia jerichonana,22,W,111,2.9,187
+Tevnia jerichonana,22,W,109,2.3,0
+Tevnia jerichonana,22,C,73,2.4,0
+Tevnia jerichonana,22,C,64,2.1,0
+Tevnia jerichonana,22,C,113,2,0
+Tevnia jerichonana,33,H,S139,2.3,0
+Tevnia jerichonana,33,H,S133,4.2,0
+Tevnia jerichonana,33,W,138,2.9,0
+Tevnia jerichonana,33,W,132,,0
+Tevnia jerichonana,96,W,156,3.1,0
+Tevnia jerichonana,96,W,158,2.6,0
+Tevnia jerichonana,96,W,159,,0
+Tevnia jerichonana,108,H,83,2.6,0
+Tevnia jerichonana,108,H,164,2.6,0
+Tevnia jerichonana,108,H,174,2.7,0
+Tevnia jerichonana,108,C,170,1.9,0
+Tevnia jerichonana,108,C,171,2.1,0
+Tevnia jerichonana,108,C,172,1.9,0
+Tevnia jerichonana,135,W,183,,0
+Tevnia jerichonana,135,W,184,,0
+Tevnia jerichonana,135,W,186,,0
+Tevnia jerichonana,135,C,180,2,0
+Tevnia jerichonana,135,C,182,2,0
+Tevnia jerichonana,135,C,187,2,0
+Tevnia jerichonana,Pre,H,215,,0
+Tevnia jerichonana,Pre,H,187,3.1,2
+Tevnia jerichonana,Pre,H,236,,2
+Tevnia jerichonana,Pre,W,184,2,0
+Tevnia jerichonana,Pre,W,232,,0
+Tevnia jerichonana,Pre,W,224,2.5,0
+Tevnia jerichonana,Pre,C,201,2.3,0
+Tevnia jerichonana,Pre,C,204,2,0
+Tevnia jerichonana,Pre,C,199,2,0
+"siboglinids, small",9,H,2,26.7,263
+"siboglinids, small",9,H,3,23.2,646
+"siboglinids, small",9,H,4,24.7,1087
+"siboglinids, small",9,W,6,2.2,149
+"siboglinids, small",9,W,7,2.2,318
+"siboglinids, small",9,W,19,6.5,1087
+"siboglinids, small",11,H,30,18.5,3
+"siboglinids, small",11,H,34,27,10
+"siboglinids, small",11,H,29,28,26
+"siboglinids, small",11,W,23,9.6,0
+"siboglinids, small",11,W,24,7,34
+"siboglinids, small",11,W,26,9,14
+"siboglinids, small",11,C,27,3.3,0
+"siboglinids, small",11,C,31,3.3,0
+"siboglinids, small",11,C,35,3.7,0
+"siboglinids, small",22,H,96,10,390
+"siboglinids, small",22,H,103,17.9,314
+"siboglinids, small",22,H,129,14.7,193
+"siboglinids, small",22,W,110,5.8,0
+"siboglinids, small",22,W,111,2.9,0
+"siboglinids, small",22,W,109,2.3,95
+"siboglinids, small",22,C,73,2.4,146
+"siboglinids, small",22,C,64,2.1,0
+"siboglinids, small",22,C,113,2,0
+"siboglinids, small",33,H,S139,2.3,12
+"siboglinids, small",33,H,S133,4.2,9
+"siboglinids, small",33,W,138,2.9,0
+"siboglinids, small",33,W,132,,0
+"siboglinids, small",96,W,156,3.1,1
+"siboglinids, small",96,W,158,2.6,0
+"siboglinids, small",96,W,159,,0
+"siboglinids, small",108,H,83,2.6,0
+"siboglinids, small",108,H,164,2.6,0
+"siboglinids, small",108,H,174,2.7,0
+"siboglinids, small",108,C,170,1.9,0
+"siboglinids, small",108,C,171,2.1,1
+"siboglinids, small",108,C,172,1.9,0
+"siboglinids, small",135,W,183,,2
+"siboglinids, small",135,W,184,,0
+"siboglinids, small",135,W,186,,0
+"siboglinids, small",135,C,180,2,0
+"siboglinids, small",135,C,182,2,0
+"siboglinids, small",135,C,187,2,0
+"siboglinids, small",Pre,H,215,,5
+"siboglinids, small",Pre,H,187,3.1,76
+"siboglinids, small",Pre,H,236,,38
+"siboglinids, small",Pre,W,184,2,0
+"siboglinids, small",Pre,W,232,,30
+"siboglinids, small",Pre,W,224,2.5,0
+"siboglinids, small",Pre,C,201,2.3,0
+"siboglinids, small",Pre,C,204,2,0
+"siboglinids, small",Pre,C,199,2,0
+Bythograea thermydron,9,H,2,26.7,2
+Bythograea thermydron,9,H,3,23.2,3
+Bythograea thermydron,9,H,4,24.7,3
+Bythograea thermydron,9,W,6,2.2,0
+Bythograea thermydron,9,W,7,2.2,0
+Bythograea thermydron,9,W,19,6.5,0
+Bythograea thermydron,11,H,30,18.5,4
+Bythograea thermydron,11,H,34,27,1
+Bythograea thermydron,11,H,29,28,2
+Bythograea thermydron,11,W,23,9.6,2
+Bythograea thermydron,11,W,24,7,1
+Bythograea thermydron,11,W,26,9,1
+Bythograea thermydron,11,C,27,3.3,0
+Bythograea thermydron,11,C,31,3.3,0
+Bythograea thermydron,11,C,35,3.7,0
+Bythograea thermydron,22,H,96,10,1
+Bythograea thermydron,22,H,103,17.9,4
+Bythograea thermydron,22,H,129,14.7,0
+Bythograea thermydron,22,W,110,5.8,0
+Bythograea thermydron,22,W,111,2.9,0
+Bythograea thermydron,22,W,109,2.3,0
+Bythograea thermydron,22,C,73,2.4,0
+Bythograea thermydron,22,C,64,2.1,0
+Bythograea thermydron,22,C,113,2,0
+Bythograea thermydron,33,H,S139,2.3,0
+Bythograea thermydron,33,H,S133,4.2,0
+Bythograea thermydron,33,W,138,2.9,0
+Bythograea thermydron,33,W,132,,0
+Bythograea thermydron,96,W,156,3.1,0
+Bythograea thermydron,96,W,158,2.6,0
+Bythograea thermydron,96,W,159,,0
+Bythograea thermydron,108,H,83,2.6,0
+Bythograea thermydron,108,H,164,2.6,0
+Bythograea thermydron,108,H,174,2.7,0
+Bythograea thermydron,108,C,170,1.9,0
+Bythograea thermydron,108,C,171,2.1,0
+Bythograea thermydron,108,C,172,1.9,0
+Bythograea thermydron,135,W,183,,0
+Bythograea thermydron,135,W,184,,0
+Bythograea thermydron,135,W,186,,0
+Bythograea thermydron,135,C,180,2,0
+Bythograea thermydron,135,C,182,2,0
+Bythograea thermydron,135,C,187,2,0
+Bythograea thermydron,Pre,H,215,,0
+Bythograea thermydron,Pre,H,187,3.1,0
+Bythograea thermydron,Pre,H,236,,0
+Bythograea thermydron,Pre,W,184,2,0
+Bythograea thermydron,Pre,W,232,,0
+Bythograea thermydron,Pre,W,224,2.5,0
+Bythograea thermydron,Pre,C,201,2.3,0
+Bythograea thermydron,Pre,C,204,2,0
+Bythograea thermydron,Pre,C,199,2,0
+amphipods,9,H,2,26.7,0
+amphipods,9,H,3,23.2,1
+amphipods,9,H,4,24.7,1
+amphipods,9,W,6,2.2,0
+amphipods,9,W,7,2.2,1
+amphipods,9,W,19,6.5,4
+amphipods,11,H,30,18.5,28
+amphipods,11,H,34,27,1
+amphipods,11,H,29,28,6
+amphipods,11,W,23,9.6,14
+amphipods,11,W,24,7,58
+amphipods,11,W,26,9,35
+amphipods,11,C,27,3.3,2
+amphipods,11,C,31,3.3,1
+amphipods,11,C,35,3.7,5
+amphipods,22,H,96,10,938
+amphipods,22,H,103,17.9,427
+amphipods,22,H,129,14.7,24
+amphipods,22,W,110,5.8,3
+amphipods,22,W,111,2.9,14
+amphipods,22,W,109,2.3,5
+amphipods,22,C,73,2.4,3
+amphipods,22,C,64,2.1,2
+amphipods,22,C,113,2,8
+amphipods,33,H,S139,2.3,24
+amphipods,33,H,S133,4.2,182
+amphipods,33,W,138,2.9,7
+amphipods,33,W,132,,10
+amphipods,96,W,156,3.1,0
+amphipods,96,W,158,2.6,7
+amphipods,96,W,159,,2
+amphipods,108,H,83,2.6,1
+amphipods,108,H,164,2.6,2
+amphipods,108,H,174,2.7,0
+amphipods,108,C,170,1.9,0
+amphipods,108,C,171,2.1,3
+amphipods,108,C,172,1.9,2
+amphipods,135,W,183,,0
+amphipods,135,W,184,,1
+amphipods,135,W,186,,0
+amphipods,135,C,180,2,1
+amphipods,135,C,182,2,1
+amphipods,135,C,187,2,2
+amphipods,Pre,H,215,,5
+amphipods,Pre,H,187,3.1,19
+amphipods,Pre,H,236,,0
+amphipods,Pre,W,184,2,0
+amphipods,Pre,W,232,,1
+amphipods,Pre,W,224,2.5,1
+amphipods,Pre,C,201,2.3,0
+amphipods,Pre,C,204,2,0
+amphipods,Pre,C,199,2,3
+isopods,9,H,2,26.7,0
+isopods,9,H,3,23.2,0
+isopods,9,H,4,24.7,0
+isopods,9,W,6,2.2,0
+isopods,9,W,7,2.2,0
+isopods,9,W,19,6.5,0
+isopods,11,H,30,18.5,0
+isopods,11,H,34,27,0
+isopods,11,H,29,28,0
+isopods,11,W,23,9.6,0
+isopods,11,W,24,7,0
+isopods,11,W,26,9,0
+isopods,11,C,27,3.3,0
+isopods,11,C,31,3.3,0
+isopods,11,C,35,3.7,0
+isopods,22,H,96,10,0
+isopods,22,H,103,17.9,0
+isopods,22,H,129,14.7,0
+isopods,22,W,110,5.8,0
+isopods,22,W,111,2.9,0
+isopods,22,W,109,2.3,0
+isopods,22,C,73,2.4,0
+isopods,22,C,64,2.1,0
+isopods,22,C,113,2,0
+isopods,33,H,S139,2.3,0
+isopods,33,H,S133,4.2,0
+isopods,33,W,138,2.9,0
+isopods,33,W,132,,0
+isopods,96,W,156,3.1,4
+isopods,96,W,158,2.6,11
+isopods,96,W,159,,1
+isopods,108,H,83,2.6,3
+isopods,108,H,164,2.6,4
+isopods,108,H,174,2.7,3
+isopods,108,C,170,1.9,9
+isopods,108,C,171,2.1,60
+isopods,108,C,172,1.9,0
+isopods,135,W,183,,0
+isopods,135,W,184,,0
+isopods,135,W,186,,0
+isopods,135,C,180,2,0
+isopods,135,C,182,2,0
+isopods,135,C,187,2,0
+isopods,Pre,H,215,,0
+isopods,Pre,H,187,3.1,0
+isopods,Pre,H,236,,0
+isopods,Pre,W,184,2,0
+isopods,Pre,W,232,,0
+isopods,Pre,W,224,2.5,0
+isopods,Pre,C,201,2.3,0
+isopods,Pre,C,204,2,0
+isopods,Pre,C,199,2,0
+tanaids,9,H,2,26.7,0
+tanaids,9,H,3,23.2,0
+tanaids,9,H,4,24.7,0
+tanaids,9,W,6,2.2,0
+tanaids,9,W,7,2.2,0
+tanaids,9,W,19,6.5,0
+tanaids,11,H,30,18.5,0
+tanaids,11,H,34,27,0
+tanaids,11,H,29,28,0
+tanaids,11,W,23,9.6,0
+tanaids,11,W,24,7,0
+tanaids,11,W,26,9,0
+tanaids,11,C,27,3.3,0
+tanaids,11,C,31,3.3,0
+tanaids,11,C,35,3.7,0
+tanaids,22,H,96,10,0
+tanaids,22,H,103,17.9,0
+tanaids,22,H,129,14.7,0
+tanaids,22,W,110,5.8,0
+tanaids,22,W,111,2.9,0
+tanaids,22,W,109,2.3,0
+tanaids,22,C,73,2.4,0
+tanaids,22,C,64,2.1,0
+tanaids,22,C,113,2,0
+tanaids,33,H,S139,2.3,0
+tanaids,33,H,S133,4.2,0
+tanaids,33,W,138,2.9,0
+tanaids,33,W,132,,0
+tanaids,96,W,156,3.1,4
+tanaids,96,W,158,2.6,8
+tanaids,96,W,159,,0
+tanaids,108,H,83,2.6,2
+tanaids,108,H,164,2.6,1
+tanaids,108,H,174,2.7,1
+tanaids,108,C,170,1.9,2
+tanaids,108,C,171,2.1,0
+tanaids,108,C,172,1.9,0
+tanaids,135,W,183,,1
+tanaids,135,W,184,,0
+tanaids,135,W,186,,0
+tanaids,135,C,180,2,0
+tanaids,135,C,182,2,0
+tanaids,135,C,187,2,0
+tanaids,Pre,H,215,,0
+tanaids,Pre,H,187,3.1,0
+tanaids,Pre,H,236,,0
+tanaids,Pre,W,184,2,0
+tanaids,Pre,W,232,,0
+tanaids,Pre,W,224,2.5,0
+tanaids,Pre,C,201,2.3,0
+tanaids,Pre,C,204,2,1
+tanaids,Pre,C,199,2,1
+Neolepas zevinae,9,H,2,26.7,0
+Neolepas zevinae,9,H,3,23.2,0
+Neolepas zevinae,9,H,4,24.7,0
+Neolepas zevinae,9,W,6,2.2,0
+Neolepas zevinae,9,W,7,2.2,0
+Neolepas zevinae,9,W,19,6.5,0
+Neolepas zevinae,11,H,30,18.5,0
+Neolepas zevinae,11,H,34,27,0
+Neolepas zevinae,11,H,29,28,0
+Neolepas zevinae,11,W,23,9.6,0
+Neolepas zevinae,11,W,24,7,0
+Neolepas zevinae,11,W,26,9,0
+Neolepas zevinae,11,C,27,3.3,0
+Neolepas zevinae,11,C,31,3.3,0
+Neolepas zevinae,11,C,35,3.7,0
+Neolepas zevinae,22,H,96,10,0
+Neolepas zevinae,22,H,103,17.9,0
+Neolepas zevinae,22,H,129,14.7,0
+Neolepas zevinae,22,W,110,5.8,0
+Neolepas zevinae,22,W,111,2.9,0
+Neolepas zevinae,22,W,109,2.3,0
+Neolepas zevinae,22,C,73,2.4,0
+Neolepas zevinae,22,C,64,2.1,0
+Neolepas zevinae,22,C,113,2,1
+Neolepas zevinae,33,H,S139,2.3,0
+Neolepas zevinae,33,H,S133,4.2,0
+Neolepas zevinae,33,W,138,2.9,0
+Neolepas zevinae,33,W,132,,1
+Neolepas zevinae,96,W,156,3.1,0
+Neolepas zevinae,96,W,158,2.6,6
+Neolepas zevinae,96,W,159,,4
+Neolepas zevinae,108,H,83,2.6,0
+Neolepas zevinae,108,H,164,2.6,0
+Neolepas zevinae,108,H,174,2.7,0
+Neolepas zevinae,108,C,170,1.9,0
+Neolepas zevinae,108,C,171,2.1,0
+Neolepas zevinae,108,C,172,1.9,0
+Neolepas zevinae,135,W,183,,0
+Neolepas zevinae,135,W,184,,0
+Neolepas zevinae,135,W,186,,0
+Neolepas zevinae,135,C,180,2,0
+Neolepas zevinae,135,C,182,2,0
+Neolepas zevinae,135,C,187,2,0
+Neolepas zevinae,Pre,H,215,,0
+Neolepas zevinae,Pre,H,187,3.1,0
+Neolepas zevinae,Pre,H,236,,0
+Neolepas zevinae,Pre,W,184,2,0
+Neolepas zevinae,Pre,W,232,,0
+Neolepas zevinae,Pre,W,224,2.5,1
+Neolepas zevinae,Pre,C,201,2.3,6
+Neolepas zevinae,Pre,C,204,2,0
+Neolepas zevinae,Pre,C,199,2,0
+barnacle cyprids,9,H,2,26.7,0
+barnacle cyprids,9,H,3,23.2,0
+barnacle cyprids,9,H,4,24.7,0
+barnacle cyprids,9,W,6,2.2,0
+barnacle cyprids,9,W,7,2.2,0
+barnacle cyprids,9,W,19,6.5,0
+barnacle cyprids,11,H,30,18.5,0
+barnacle cyprids,11,H,34,27,0
+barnacle cyprids,11,H,29,28,0
+barnacle cyprids,11,W,23,9.6,0
+barnacle cyprids,11,W,24,7,0
+barnacle cyprids,11,W,26,9,0
+barnacle cyprids,11,C,27,3.3,0
+barnacle cyprids,11,C,31,3.3,0
+barnacle cyprids,11,C,35,3.7,0
+barnacle cyprids,22,H,96,10,0
+barnacle cyprids,22,H,103,17.9,0
+barnacle cyprids,22,H,129,14.7,0
+barnacle cyprids,22,W,110,5.8,0
+barnacle cyprids,22,W,111,2.9,0
+barnacle cyprids,22,W,109,2.3,0
+barnacle cyprids,22,C,73,2.4,0
+barnacle cyprids,22,C,64,2.1,0
+barnacle cyprids,22,C,113,2,0
+barnacle cyprids,33,H,S139,2.3,0
+barnacle cyprids,33,H,S133,4.2,0
+barnacle cyprids,33,W,138,2.9,0
+barnacle cyprids,33,W,132,,0
+barnacle cyprids,96,W,156,3.1,0
+barnacle cyprids,96,W,158,2.6,1
+barnacle cyprids,96,W,159,,0
+barnacle cyprids,108,H,83,2.6,0
+barnacle cyprids,108,H,164,2.6,0
+barnacle cyprids,108,H,174,2.7,0
+barnacle cyprids,108,C,170,1.9,0
+barnacle cyprids,108,C,171,2.1,0
+barnacle cyprids,108,C,172,1.9,0
+barnacle cyprids,135,W,183,,0
+barnacle cyprids,135,W,184,,0
+barnacle cyprids,135,W,186,,0
+barnacle cyprids,135,C,180,2,0
+barnacle cyprids,135,C,182,2,0
+barnacle cyprids,135,C,187,2,0
+barnacle cyprids,Pre,H,215,,0
+barnacle cyprids,Pre,H,187,3.1,0
+barnacle cyprids,Pre,H,236,,0
+barnacle cyprids,Pre,W,184,2,0
+barnacle cyprids,Pre,W,232,,0
+barnacle cyprids,Pre,W,224,2.5,0
+barnacle cyprids,Pre,C,201,2.3,0
+barnacle cyprids,Pre,C,204,2,0
+barnacle cyprids,Pre,C,199,2,0
+"shrimp, juvenile",9,H,2,26.7,0
+"shrimp, juvenile",9,H,3,23.2,0
+"shrimp, juvenile",9,H,4,24.7,0
+"shrimp, juvenile",9,W,6,2.2,0
+"shrimp, juvenile",9,W,7,2.2,0
+"shrimp, juvenile",9,W,19,6.5,1
+"shrimp, juvenile",11,H,30,18.5,0
+"shrimp, juvenile",11,H,34,27,0
+"shrimp, juvenile",11,H,29,28,0
+"shrimp, juvenile",11,W,23,9.6,0
+"shrimp, juvenile",11,W,24,7,0
+"shrimp, juvenile",11,W,26,9,0
+"shrimp, juvenile",11,C,27,3.3,0
+"shrimp, juvenile",11,C,31,3.3,0
+"shrimp, juvenile",11,C,35,3.7,0
+"shrimp, juvenile",22,H,96,10,0
+"shrimp, juvenile",22,H,103,17.9,0
+"shrimp, juvenile",22,H,129,14.7,0
+"shrimp, juvenile",22,W,110,5.8,0
+"shrimp, juvenile",22,W,111,2.9,0
+"shrimp, juvenile",22,W,109,2.3,0
+"shrimp, juvenile",22,C,73,2.4,0
+"shrimp, juvenile",22,C,64,2.1,0
+"shrimp, juvenile",22,C,113,2,0
+"shrimp, juvenile",33,H,S139,2.3,0
+"shrimp, juvenile",33,H,S133,4.2,0
+"shrimp, juvenile",33,W,138,2.9,0
+"shrimp, juvenile",33,W,132,,0
+"shrimp, juvenile",96,W,156,3.1,0
+"shrimp, juvenile",96,W,158,2.6,0
+"shrimp, juvenile",96,W,159,,0
+"shrimp, juvenile",108,H,83,2.6,0
+"shrimp, juvenile",108,H,164,2.6,0
+"shrimp, juvenile",108,H,174,2.7,0
+"shrimp, juvenile",108,C,170,1.9,0
+"shrimp, juvenile",108,C,171,2.1,0
+"shrimp, juvenile",108,C,172,1.9,0
+"shrimp, juvenile",135,W,183,,0
+"shrimp, juvenile",135,W,184,,0
+"shrimp, juvenile",135,W,186,,0
+"shrimp, juvenile",135,C,180,2,0
+"shrimp, juvenile",135,C,182,2,0
+"shrimp, juvenile",135,C,187,2,0
+"shrimp, juvenile",Pre,H,215,,0
+"shrimp, juvenile",Pre,H,187,3.1,0
+"shrimp, juvenile",Pre,H,236,,0
+"shrimp, juvenile",Pre,W,184,2,0
+"shrimp, juvenile",Pre,W,232,,0
+"shrimp, juvenile",Pre,W,224,2.5,0
+"shrimp, juvenile",Pre,C,201,2.3,0
+"shrimp, juvenile",Pre,C,204,2,0
+"shrimp, juvenile",Pre,C,199,2,0
+"worm, unsegmented",9,H,2,26.7,0
+"worm, unsegmented",9,H,3,23.2,0
+"worm, unsegmented",9,H,4,24.7,0
+"worm, unsegmented",9,W,6,2.2,0
+"worm, unsegmented",9,W,7,2.2,0
+"worm, unsegmented",9,W,19,6.5,1
+"worm, unsegmented",11,H,30,18.5,0
+"worm, unsegmented",11,H,34,27,0
+"worm, unsegmented",11,H,29,28,0
+"worm, unsegmented",11,W,23,9.6,0
+"worm, unsegmented",11,W,24,7,1
+"worm, unsegmented",11,W,26,9,1
+"worm, unsegmented",11,C,27,3.3,0
+"worm, unsegmented",11,C,31,3.3,0
+"worm, unsegmented",11,C,35,3.7,0
+"worm, unsegmented",22,H,96,10,5
+"worm, unsegmented",22,H,103,17.9,28
+"worm, unsegmented",22,H,129,14.7,1
+"worm, unsegmented",22,W,110,5.8,0
+"worm, unsegmented",22,W,111,2.9,0
+"worm, unsegmented",22,W,109,2.3,0
+"worm, unsegmented",22,C,73,2.4,0
+"worm, unsegmented",22,C,64,2.1,0
+"worm, unsegmented",22,C,113,2,0
+"worm, unsegmented",33,H,S139,2.3,0
+"worm, unsegmented",33,H,S133,4.2,10
+"worm, unsegmented",33,W,138,2.9,1
+"worm, unsegmented",33,W,132,,0
+"worm, unsegmented",96,W,156,3.1,1
+"worm, unsegmented",96,W,158,2.6,2
+"worm, unsegmented",96,W,159,,2
+"worm, unsegmented",108,H,83,2.6,0
+"worm, unsegmented",108,H,164,2.6,0
+"worm, unsegmented",108,H,174,2.7,0
+"worm, unsegmented",108,C,170,1.9,0
+"worm, unsegmented",108,C,171,2.1,4
+"worm, unsegmented",108,C,172,1.9,0
+"worm, unsegmented",135,W,183,,0
+"worm, unsegmented",135,W,184,,0
+"worm, unsegmented",135,W,186,,0
+"worm, unsegmented",135,C,180,2,0
+"worm, unsegmented",135,C,182,2,0
+"worm, unsegmented",135,C,187,2,0
+"worm, unsegmented",Pre,H,215,,1
+"worm, unsegmented",Pre,H,187,3.1,1
+"worm, unsegmented",Pre,H,236,,0
+"worm, unsegmented",Pre,W,184,2,0
+"worm, unsegmented",Pre,W,232,,0
+"worm, unsegmented",Pre,W,224,2.5,1
+"worm, unsegmented",Pre,C,201,2.3,0
+"worm, unsegmented",Pre,C,204,2,1
+"worm, unsegmented",Pre,C,199,2,0
+anemone,9,H,2,26.7,0
+anemone,9,H,3,23.2,0
+anemone,9,H,4,24.7,0
+anemone,9,W,6,2.2,1
+anemone,9,W,7,2.2,0
+anemone,9,W,19,6.5,0
+anemone,11,H,30,18.5,0
+anemone,11,H,34,27,0
+anemone,11,H,29,28,0
+anemone,11,W,23,9.6,0
+anemone,11,W,24,7,0
+anemone,11,W,26,9,0
+anemone,11,C,27,3.3,0
+anemone,11,C,31,3.3,0
+anemone,11,C,35,3.7,0
+anemone,22,H,96,10,0
+anemone,22,H,103,17.9,0
+anemone,22,H,129,14.7,0
+anemone,22,W,110,5.8,0
+anemone,22,W,111,2.9,0
+anemone,22,W,109,2.3,0
+anemone,22,C,73,2.4,0
+anemone,22,C,64,2.1,0
+anemone,22,C,113,2,0
+anemone,33,H,S139,2.3,0
+anemone,33,H,S133,4.2,0
+anemone,33,W,138,2.9,0
+anemone,33,W,132,,3
+anemone,96,W,156,3.1,0
+anemone,96,W,158,2.6,0
+anemone,96,W,159,,3
+anemone,108,H,83,2.6,1
+anemone,108,H,164,2.6,0
+anemone,108,H,174,2.7,0
+anemone,108,C,170,1.9,0
+anemone,108,C,171,2.1,0
+anemone,108,C,172,1.9,0
+anemone,135,W,183,,0
+anemone,135,W,184,,0
+anemone,135,W,186,,0
+anemone,135,C,180,2,0
+anemone,135,C,182,2,0
+anemone,135,C,187,2,1
+anemone,Pre,H,215,,1
+anemone,Pre,H,187,3.1,1
+anemone,Pre,H,236,,0
+anemone,Pre,W,184,2,0
+anemone,Pre,W,232,,0
+anemone,Pre,W,224,2.5,0
+anemone,Pre,C,201,2.3,0
+anemone,Pre,C,204,2,0
+anemone,Pre,C,199,2,0
+dandelion,9,H,2,26.7,0
+dandelion,9,H,3,23.2,1
+dandelion,9,H,4,24.7,0
+dandelion,9,W,6,2.2,0
+dandelion,9,W,7,2.2,0
+dandelion,9,W,19,6.5,0
+dandelion,11,H,30,18.5,0
+dandelion,11,H,34,27,0
+dandelion,11,H,29,28,0
+dandelion,11,W,23,9.6,0
+dandelion,11,W,24,7,0
+dandelion,11,W,26,9,0
+dandelion,11,C,27,3.3,0
+dandelion,11,C,31,3.3,0
+dandelion,11,C,35,3.7,0
+dandelion,22,H,96,10,0
+dandelion,22,H,103,17.9,0
+dandelion,22,H,129,14.7,0
+dandelion,22,W,110,5.8,0
+dandelion,22,W,111,2.9,0
+dandelion,22,W,109,2.3,0
+dandelion,22,C,73,2.4,0
+dandelion,22,C,64,2.1,0
+dandelion,22,C,113,2,0
+dandelion,33,H,S139,2.3,0
+dandelion,33,H,S133,4.2,0
+dandelion,33,W,138,2.9,0
+dandelion,33,W,132,,0
+dandelion,96,W,156,3.1,0
+dandelion,96,W,158,2.6,0
+dandelion,96,W,159,,0
+dandelion,108,H,83,2.6,0
+dandelion,108,H,164,2.6,0
+dandelion,108,H,174,2.7,0
+dandelion,108,C,170,1.9,1
+dandelion,108,C,171,2.1,0
+dandelion,108,C,172,1.9,0
+dandelion,135,W,183,,0
+dandelion,135,W,184,,0
+dandelion,135,W,186,,0
+dandelion,135,C,180,2,0
+dandelion,135,C,182,2,0
+dandelion,135,C,187,2,0
+dandelion,Pre,H,215,,0
+dandelion,Pre,H,187,3.1,0
+dandelion,Pre,H,236,,0
+dandelion,Pre,W,184,2,0
+dandelion,Pre,W,232,,0
+dandelion,Pre,W,224,2.5,0
+dandelion,Pre,C,201,2.3,0
+dandelion,Pre,C,204,2,0
+dandelion,Pre,C,199,2,0
+ophiuroids,9,H,2,26.7,0
+ophiuroids,9,H,3,23.2,0
+ophiuroids,9,H,4,24.7,0
+ophiuroids,9,W,6,2.2,0
+ophiuroids,9,W,7,2.2,0
+ophiuroids,9,W,19,6.5,0
+ophiuroids,11,H,30,18.5,0
+ophiuroids,11,H,34,27,0
+ophiuroids,11,H,29,28,0
+ophiuroids,11,W,23,9.6,0
+ophiuroids,11,W,24,7,0
+ophiuroids,11,W,26,9,0
+ophiuroids,11,C,27,3.3,0
+ophiuroids,11,C,31,3.3,0
+ophiuroids,11,C,35,3.7,0
+ophiuroids,22,H,96,10,0
+ophiuroids,22,H,103,17.9,0
+ophiuroids,22,H,129,14.7,0
+ophiuroids,22,W,110,5.8,0
+ophiuroids,22,W,111,2.9,0
+ophiuroids,22,W,109,2.3,0
+ophiuroids,22,C,73,2.4,0
+ophiuroids,22,C,64,2.1,0
+ophiuroids,22,C,113,2,0
+ophiuroids,33,H,S139,2.3,0
+ophiuroids,33,H,S133,4.2,0
+ophiuroids,33,W,138,2.9,2
+ophiuroids,33,W,132,,0
+ophiuroids,96,W,156,3.1,0
+ophiuroids,96,W,158,2.6,0
+ophiuroids,96,W,159,,1
+ophiuroids,108,H,83,2.6,0
+ophiuroids,108,H,164,2.6,0
+ophiuroids,108,H,174,2.7,0
+ophiuroids,108,C,170,1.9,0
+ophiuroids,108,C,171,2.1,0
+ophiuroids,108,C,172,1.9,0
+ophiuroids,135,W,183,,0
+ophiuroids,135,W,184,,0
+ophiuroids,135,W,186,,0
+ophiuroids,135,C,180,2,0
+ophiuroids,135,C,182,2,0
+ophiuroids,135,C,187,2,0
+ophiuroids,Pre,H,215,,1
+ophiuroids,Pre,H,187,3.1,0
+ophiuroids,Pre,H,236,,0
+ophiuroids,Pre,W,184,2,0
+ophiuroids,Pre,W,232,,0
+ophiuroids,Pre,W,224,2.5,0
+ophiuroids,Pre,C,201,2.3,0
+ophiuroids,Pre,C,204,2,0
+ophiuroids,Pre,C,199,2,0
+kinorhynch,9,H,2,26.7,0
+kinorhynch,9,H,3,23.2,0
+kinorhynch,9,H,4,24.7,0
+kinorhynch,9,W,6,2.2,3
+kinorhynch,9,W,7,2.2,0
+kinorhynch,9,W,19,6.5,0
+kinorhynch,11,H,30,18.5,0
+kinorhynch,11,H,34,27,0
+kinorhynch,11,H,29,28,0
+kinorhynch,11,W,23,9.6,0
+kinorhynch,11,W,24,7,0
+kinorhynch,11,W,26,9,0
+kinorhynch,11,C,27,3.3,0
+kinorhynch,11,C,31,3.3,0
+kinorhynch,11,C,35,3.7,0
+kinorhynch,22,H,96,10,0
+kinorhynch,22,H,103,17.9,0
+kinorhynch,22,H,129,14.7,0
+kinorhynch,22,W,110,5.8,2
+kinorhynch,22,W,111,2.9,0
+kinorhynch,22,W,109,2.3,5
+kinorhynch,22,C,73,2.4,1
+kinorhynch,22,C,64,2.1,0
+kinorhynch,22,C,113,2,0
+kinorhynch,33,H,S139,2.3,0
+kinorhynch,33,H,S133,4.2,1
+kinorhynch,33,W,138,2.9,0
+kinorhynch,33,W,132,,0
+kinorhynch,96,W,156,3.1,1
+kinorhynch,96,W,158,2.6,0
+kinorhynch,96,W,159,,1
+kinorhynch,108,H,83,2.6,0
+kinorhynch,108,H,164,2.6,0
+kinorhynch,108,H,174,2.7,0
+kinorhynch,108,C,170,1.9,0
+kinorhynch,108,C,171,2.1,0
+kinorhynch,108,C,172,1.9,0
+kinorhynch,135,W,183,,0
+kinorhynch,135,W,184,,0
+kinorhynch,135,W,186,,0
+kinorhynch,135,C,180,2,0
+kinorhynch,135,C,182,2,1
+kinorhynch,135,C,187,2,1
+kinorhynch,Pre,H,215,,0
+kinorhynch,Pre,H,187,3.1,0
+kinorhynch,Pre,H,236,,0
+kinorhynch,Pre,W,184,2,0
+kinorhynch,Pre,W,232,,0
+kinorhynch,Pre,W,224,2.5,0
+kinorhynch,Pre,C,201,2.3,0
+kinorhynch,Pre,C,204,2,0
+kinorhynch,Pre,C,199,2,0
+Abyssotherma pacifica,9,H,2,26.7,0
+Abyssotherma pacifica,9,H,3,23.2,0
+Abyssotherma pacifica,9,H,4,24.7,0
+Abyssotherma pacifica,9,W,6,2.2,0
+Abyssotherma pacifica,9,W,7,2.2,0
+Abyssotherma pacifica,9,W,19,6.5,0
+Abyssotherma pacifica,11,H,30,18.5,0
+Abyssotherma pacifica,11,H,34,27,0
+Abyssotherma pacifica,11,H,29,28,0
+Abyssotherma pacifica,11,W,23,9.6,0
+Abyssotherma pacifica,11,W,24,7,0
+Abyssotherma pacifica,11,W,26,9,0
+Abyssotherma pacifica,11,C,27,3.3,0
+Abyssotherma pacifica,11,C,31,3.3,0
+Abyssotherma pacifica,11,C,35,3.7,0
+Abyssotherma pacifica,22,H,96,10,0
+Abyssotherma pacifica,22,H,103,17.9,0
+Abyssotherma pacifica,22,H,129,14.7,0
+Abyssotherma pacifica,22,W,110,5.8,1
+Abyssotherma pacifica,22,W,111,2.9,0
+Abyssotherma pacifica,22,W,109,2.3,1
+Abyssotherma pacifica,22,C,73,2.4,6
+Abyssotherma pacifica,22,C,64,2.1,81
+Abyssotherma pacifica,22,C,113,2,4
+Abyssotherma pacifica,33,H,S139,2.3,2
+Abyssotherma pacifica,33,H,S133,4.2,0
+Abyssotherma pacifica,33,W,138,2.9,95
+Abyssotherma pacifica,33,W,132,,172
+Abyssotherma pacifica,96,W,156,3.1,207
+Abyssotherma pacifica,96,W,158,2.6,346
+Abyssotherma pacifica,96,W,159,,714
+Abyssotherma pacifica,108,H,83,2.6,19
+Abyssotherma pacifica,108,H,164,2.6,7
+Abyssotherma pacifica,108,H,174,2.7,23
+Abyssotherma pacifica,108,C,170,1.9,30
+Abyssotherma pacifica,108,C,171,2.1,20
+Abyssotherma pacifica,108,C,172,1.9,40
+Abyssotherma pacifica,135,W,183,,94
+Abyssotherma pacifica,135,W,184,,161
+Abyssotherma pacifica,135,W,186,,38
+Abyssotherma pacifica,135,C,180,2,107
+Abyssotherma pacifica,135,C,182,2,21
+Abyssotherma pacifica,135,C,187,2,24
+Abyssotherma pacifica,Pre,H,215,,19
+Abyssotherma pacifica,Pre,H,187,3.1,4
+Abyssotherma pacifica,Pre,H,236,,7
+Abyssotherma pacifica,Pre,W,184,2,56
+Abyssotherma pacifica,Pre,W,232,,1
+Abyssotherma pacifica,Pre,W,224,2.5,34
+Abyssotherma pacifica,Pre,C,201,2.3,1164
+Abyssotherma pacifica,Pre,C,204,2,951
+Abyssotherma pacifica,Pre,C,199,2,247
+Metafolliculina sp.,9,H,2,26.7,0
+Metafolliculina sp.,9,H,3,23.2,0
+Metafolliculina sp.,9,H,4,24.7,0
+Metafolliculina sp.,9,W,6,2.2,0
+Metafolliculina sp.,9,W,7,2.2,0
+Metafolliculina sp.,9,W,19,6.5,0
+Metafolliculina sp.,11,H,30,18.5,0
+Metafolliculina sp.,11,H,34,27,0
+Metafolliculina sp.,11,H,29,28,0
+Metafolliculina sp.,11,W,23,9.6,0
+Metafolliculina sp.,11,W,24,7,0
+Metafolliculina sp.,11,W,26,9,0
+Metafolliculina sp.,11,C,27,3.3,0
+Metafolliculina sp.,11,C,31,3.3,0
+Metafolliculina sp.,11,C,35,3.7,0
+Metafolliculina sp.,22,H,96,10,0
+Metafolliculina sp.,22,H,103,17.9,0
+Metafolliculina sp.,22,H,129,14.7,0
+Metafolliculina sp.,22,W,110,5.8,0
+Metafolliculina sp.,22,W,111,2.9,0
+Metafolliculina sp.,22,W,109,2.3,8
+Metafolliculina sp.,22,C,73,2.4,7
+Metafolliculina sp.,22,C,64,2.1,5
+Metafolliculina sp.,22,C,113,2,18
+Metafolliculina sp.,33,H,S139,2.3,445
+Metafolliculina sp.,33,H,S133,4.2,1239
+Metafolliculina sp.,33,W,138,2.9,318
+Metafolliculina sp.,33,W,132,,568
+Metafolliculina sp.,96,W,156,3.1,2094
+Metafolliculina sp.,96,W,158,2.6,2777
+Metafolliculina sp.,96,W,159,,2750
+Metafolliculina sp.,108,H,83,2.6,4
+Metafolliculina sp.,108,H,164,2.6,4
+Metafolliculina sp.,108,H,174,2.7,9
+Metafolliculina sp.,108,C,170,1.9,0
+Metafolliculina sp.,108,C,171,2.1,1
+Metafolliculina sp.,108,C,172,1.9,5
+Metafolliculina sp.,135,W,183,,0
+Metafolliculina sp.,135,W,184,,1
+Metafolliculina sp.,135,W,186,,7
+Metafolliculina sp.,135,C,180,2,0
+Metafolliculina sp.,135,C,182,2,4
+Metafolliculina sp.,135,C,187,2,6
+Metafolliculina sp.,Pre,H,215,,1500
+Metafolliculina sp.,Pre,H,187,3.1,940
+Metafolliculina sp.,Pre,H,236,,1000
+Metafolliculina sp.,Pre,W,184,2,0
+Metafolliculina sp.,Pre,W,232,,0
+Metafolliculina sp.,Pre,W,224,2.5,20
+Metafolliculina sp.,Pre,C,201,2.3,7000
+Metafolliculina sp.,Pre,C,204,2,3200
+Metafolliculina sp.,Pre,C,199,2,75
+other forams,9,H,2,26.7,0
+other forams,9,H,3,23.2,0
+other forams,9,H,4,24.7,0
+other forams,9,W,6,2.2,0
+other forams,9,W,7,2.2,0
+other forams,9,W,19,6.5,0
+other forams,11,H,30,18.5,0
+other forams,11,H,34,27,0
+other forams,11,H,29,28,0
+other forams,11,W,23,9.6,0
+other forams,11,W,24,7,0
+other forams,11,W,26,9,0
+other forams,11,C,27,3.3,0
+other forams,11,C,31,3.3,0
+other forams,11,C,35,3.7,0
+other forams,22,H,96,10,0
+other forams,22,H,103,17.9,0
+other forams,22,H,129,14.7,0
+other forams,22,W,110,5.8,0
+other forams,22,W,111,2.9,0
+other forams,22,W,109,2.3,0
+other forams,22,C,73,2.4,1
+other forams,22,C,64,2.1,0
+other forams,22,C,113,2,0
+other forams,33,H,S139,2.3,0
+other forams,33,H,S133,4.2,0
+other forams,33,W,138,2.9,0
+other forams,33,W,132,,0
+other forams,96,W,156,3.1,0
+other forams,96,W,158,2.6,0
+other forams,96,W,159,,2
+other forams,108,H,83,2.6,1
+other forams,108,H,164,2.6,0
+other forams,108,H,174,2.7,0
+other forams,108,C,170,1.9,1
+other forams,108,C,171,2.1,4
+other forams,108,C,172,1.9,0
+other forams,135,W,183,,11
+other forams,135,W,184,,16
+other forams,135,W,186,,10
+other forams,135,C,180,2,5
+other forams,135,C,182,2,0
+other forams,135,C,187,2,1
+other forams,Pre,H,215,,0
+other forams,Pre,H,187,3.1,0
+other forams,Pre,H,236,,0
+other forams,Pre,W,184,2,0
+other forams,Pre,W,232,,0
+other forams,Pre,W,224,2.5,1
+other forams,Pre,C,201,2.3,0
+other forams,Pre,C,204,2,5
+other forams,Pre,C,199,2,6
+mites,9,H,2,26.7,0
+mites,9,H,3,23.2,0
+mites,9,H,4,24.7,0
+mites,9,W,6,2.2,0
+mites,9,W,7,2.2,0
+mites,9,W,19,6.5,0
+mites,11,H,30,18.5,0
+mites,11,H,34,27,0
+mites,11,H,29,28,0
+mites,11,W,23,9.6,0
+mites,11,W,24,7,0
+mites,11,W,26,9,0
+mites,11,C,27,3.3,0
+mites,11,C,31,3.3,0
+mites,11,C,35,3.7,0
+mites,22,H,96,10,0
+mites,22,H,103,17.9,0
+mites,22,H,129,14.7,0
+mites,22,W,110,5.8,0
+mites,22,W,111,2.9,0
+mites,22,W,109,2.3,0
+mites,22,C,73,2.4,0
+mites,22,C,64,2.1,1
+mites,22,C,113,2,2
+mites,33,H,S139,2.3,0
+mites,33,H,S133,4.2,0
+mites,33,W,138,2.9,0
+mites,33,W,132,,0
+mites,96,W,156,3.1,11
+mites,96,W,158,2.6,11
+mites,96,W,159,,10
+mites,108,H,83,2.6,2
+mites,108,H,164,2.6,0
+mites,108,H,174,2.7,2
+mites,108,C,170,1.9,0
+mites,108,C,171,2.1,1
+mites,108,C,172,1.9,0
+mites,135,W,183,,1
+mites,135,W,184,,3
+mites,135,W,186,,1
+mites,135,C,180,2,4
+mites,135,C,182,2,1
+mites,135,C,187,2,1
+mites,Pre,H,215,,0
+mites,Pre,H,187,3.1,0
+mites,Pre,H,236,,0
+mites,Pre,W,184,2,0
+mites,Pre,W,232,,0
+mites,Pre,W,224,2.5,0
+mites,Pre,C,201,2.3,0
+mites,Pre,C,204,2,0
+mites,Pre,C,199,2,0
+possible flatworm,9,H,2,26.7,0
+possible flatworm,9,H,3,23.2,0
+possible flatworm,9,H,4,24.7,0
+possible flatworm,9,W,6,2.2,0
+possible flatworm,9,W,7,2.2,0
+possible flatworm,9,W,19,6.5,0
+possible flatworm,11,H,30,18.5,0
+possible flatworm,11,H,34,27,0
+possible flatworm,11,H,29,28,0
+possible flatworm,11,W,23,9.6,0
+possible flatworm,11,W,24,7,0
+possible flatworm,11,W,26,9,0
+possible flatworm,11,C,27,3.3,0
+possible flatworm,11,C,31,3.3,0
+possible flatworm,11,C,35,3.7,0
+possible flatworm,22,H,96,10,0
+possible flatworm,22,H,103,17.9,1
+possible flatworm,22,H,129,14.7,0
+possible flatworm,22,W,110,5.8,0
+possible flatworm,22,W,111,2.9,0
+possible flatworm,22,W,109,2.3,0
+possible flatworm,22,C,73,2.4,0
+possible flatworm,22,C,64,2.1,1
+possible flatworm,22,C,113,2,0
+possible flatworm,33,H,S139,2.3,0
+possible flatworm,33,H,S133,4.2,2
+possible flatworm,33,W,138,2.9,1
+possible flatworm,33,W,132,,0
+possible flatworm,96,W,156,3.1,0
+possible flatworm,96,W,158,2.6,0
+possible flatworm,96,W,159,,0
+possible flatworm,108,H,83,2.6,0
+possible flatworm,108,H,164,2.6,0
+possible flatworm,108,H,174,2.7,0
+possible flatworm,108,C,170,1.9,0
+possible flatworm,108,C,171,2.1,0
+possible flatworm,108,C,172,1.9,0
+possible flatworm,135,W,183,,0
+possible flatworm,135,W,184,,0
+possible flatworm,135,W,186,,0
+possible flatworm,135,C,180,2,0
+possible flatworm,135,C,182,2,0
+possible flatworm,135,C,187,2,0
+possible flatworm,Pre,H,215,,0
+possible flatworm,Pre,H,187,3.1,0
+possible flatworm,Pre,H,236,,0
+possible flatworm,Pre,W,184,2,0
+possible flatworm,Pre,W,232,,0
+possible flatworm,Pre,W,224,2.5,0
+possible flatworm,Pre,C,201,2.3,0
+possible flatworm,Pre,C,204,2,0
+possible flatworm,Pre,C,199,2,0

@@ -1,0 +1,84 @@
+usecase-786028_abund:
+  title: usecase-786028_abund
+  description: ''
+  version: v1.0.8
+  pipeline:
+  - run: bcodmo_pipeline_processors.load
+    cache: false
+    parameters:
+      format: xlsx
+      from: https://github.com/BCODMO/frictionless-usecases/blob/master/usecases/786028_abund/orig/Pvent_P&S_135_supptable1_submit.xlsx?raw=true
+      headers:
+      - 1
+      - 4
+      infer_strategy: strings
+      cast_strategy: strings
+      remove_empty_rows: true
+      skip_rows: []
+      override_schema:
+        missingValues:
+        - ''
+        - nd
+        - ND
+      input_separator: ','
+      sheet: 1
+      preserve_formatting: true
+      adjust_floating_point_error: true
+      deduplicate_headers: true
+      name: epr
+  - run: bcodmo_pipeline_processors.rename_fields
+    cache: true
+    parameters:
+      resources:
+      - epr
+      fields:
+      - old_field: "Date Zone ID Recovery T (\xB0C)"
+        new_field: Identification
+      - old_field: 135 C 182
+        new_field: 135 C 182 2
+    bcodmo_notes: Fixed "135 C 182" to "135 C 182 2" which is what was in the Excel
+      file.
+  - run: unpivot
+    cache: true
+    parameters:
+      resources:
+      - epr
+      extraKeyFields:
+      - name: Date
+        type: string
+      - name: Zone
+        type: string
+      - name: ID
+        type: string
+      - name: Recovery_T
+        type: string
+      extraValueField:
+        name: abundance
+        type: string
+      unpivot:
+      - name: (.*) (.*) (.*) (.*)
+        keys:
+          Date: \1
+          Zone: \2
+          ID: \3
+          Recovery_T: \4
+    bcodmo_notes: ''
+  - run: set_types
+    cache: true
+    parameters:
+      regex: false
+      resources:
+      - epr
+      types:
+        Identification:
+          type: string
+        Date:
+          type: string
+        Zone:
+          type: string
+        ID:
+          type: string
+        Recovery_T:
+          type: number
+        abundance:
+          type: number
