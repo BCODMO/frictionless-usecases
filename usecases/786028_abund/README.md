@@ -17,7 +17,8 @@ The folder [v1/unpivoted](v1/unpivoted) contains the output from a pipeline corr
 
 Unpivots the dataset to transform it from having multiple header rows containing data into having all data in columns with one set of field names.
 
-epr.csv (displayed in Laminar)
+epr.csv displayed in Laminar
+
 ![image](https://user-images.githubusercontent.com/9537357/71844157-8bae4080-3093-11ea-80e6-810f0f615f1c.png)
 
 
