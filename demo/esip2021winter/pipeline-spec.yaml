@@ -1,0 +1,151 @@
+laminar_demo:
+  title: laminar_demo
+  description: ''
+  datasetId: ''
+  datasetVersion: ''
+  redmineIssueNumber: ''
+  version: v2.0.9
+  submissionId: ''
+  pipeline:
+    - run: bcodmo_pipeline_processors.load
+      parameters:
+        format: csv
+        from:
+          - >-
+            s3://laminar-load/data302/CCAW/orig/goni_20200329/OC1611B_underway_POM.csv
+          - >-
+            s3://laminar-load/data302/CCAW/orig/goni_20200329/OC1603B_underway_POM.csv
+          - >-
+            s3://laminar-load/data302/CCAW/orig/goni_20200329/OC1602A_underway_POM.csv
+          - >-
+            s3://laminar-load/data302/CCAW/orig/goni_20200329/OC1601A_underway_POM.csv
+        headers: 1
+        infer_strategy: strings
+        cast_strategy: strings
+        remove_empty_rows: true
+        skip_rows: []
+        override_schema:
+          missingValues:
+            - ''
+            - nd
+        input_separator: ','
+        ignore_blank_headers: false
+        s3_endpoint_url: 'http://s3.us-east-2.amazonaws.com'
+        use_filename: true
+    - run: bcodmo_pipeline_processors.concatenate
+      parameters:
+        missing_values:
+          - ''
+          - nd
+        include_source_name: []
+        target:
+          name: pom
+          path: pom.csv
+        sources:
+          - oc1611b_underway_pom
+          - oc1603b_underway_pom
+          - oc1602a_underway_pom
+          - oc1601a_underway_pom
+        fields:
+          Cruise: []
+          Latitude (N): []
+          Longitude (W): []
+          Time & Date (PST): []
+          Temperature (deg C): []
+          Salinity: []
+          PN (micromolar): []
+          POC (micromolar): []
+          Beam attenuation (1/m): []
+    - run: bcodmo_pipeline_processors.find_replace
+      parameters:
+        resources:
+          - pom
+        fields:
+          - patterns:
+              - find: ^(.*)\/(.\d)\/(.\d)\s(.*)
+                replace: \1/\2/20\3 \4
+            name: Time & Date (PST)
+    - run: bcodmo_pipeline_processors.find_replace
+      parameters:
+        resources:
+          - pom
+        fields:
+          - patterns:
+              - find: ^(.*)
+                replace: '-\1'
+            name: Longitude (W)
+    - run: bcodmo_pipeline_processors.convert_date
+      parameters:
+        resources:
+          - pom
+        fields:
+          - input_type: python
+            inputs:
+              - field: Time & Date (PST)
+                format: '%m/%d/%Y %H:%M'
+            input_timezone: PST8PDT
+            output_type: datetime
+            output_field: ISO_DateTime_UTC
+            output_format: '%Y-%m-%dT%H:%MZ'
+            output_timezone: UTC
+            year: ''
+    - run: bcodmo_pipeline_processors.set_types
+      parameters:
+        regex: false
+        resources:
+          - pom
+        types:
+          Cruise:
+            type: string
+          Latitude (N):
+            type: number
+          Longitude (W):
+            type: number
+          Time & Date (PST):
+            type: datetime
+            format: '%m/%d/%Y %H:%M'
+            outputFormat: '%m/%d/%Y %H:%M'
+          Temperature (deg C):
+            type: number
+          Salinity:
+            type: number
+          PN (micromolar):
+            type: number
+          POC (micromolar):
+            type: number
+          Beam attenuation (1/m):
+            type: number
+          ISO_DateTime_UTC:
+            type: datetime
+            format: '%Y-%m-%dT%H:%MZ'
+            outputFormat: '%Y-%m-%dT%H:%MZ'
+    - run: bcodmo_pipeline_processors.rename_fields
+      parameters:
+        resources:
+          - pom
+        fields:
+          - old_field: Latitude (N)
+            new_field: Latitude
+          - old_field: Longitude (W)
+            new_field: Longitude
+          - old_field: Time & Date (PST)
+            new_field: Date_Time_PST
+          - old_field: Temperature (deg C)
+            new_field: Temperature
+          - old_field: PN (micromolar)
+            new_field: PN
+          - old_field: POC (micromolar)
+            new_field: POC
+          - old_field: Beam attenuation (1/m)
+            new_field: Beam_attenuation
+    - run: bcodmo_pipeline_processors.dump_to_s3
+      parameters:
+        prefix: demo/esip2021winter/data
+        force-format: true
+        format: csv
+        save_pipeline_spec: true
+        temporal_format_property: outputFormat
+        bucket_name: laminar-dump
+        data_manager:
+          name: Amber York
+          orcid: 0000-0002-5133-5842

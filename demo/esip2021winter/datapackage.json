@@ -1,0 +1,109 @@
+{
+  "bcodmo:": {
+    "dataManager": {
+      "name": "",
+      "orcid": ""
+    },
+    "submissionId": ""
+  },
+  "bytes": 22973,
+  "count_of_rows": 260,
+  "dump_bucket": "laminar-results",
+  "dump_path": "d24e6f2c-5b28-11eb-b889-0a02c286bb67/",
+  "hash": "c2efd749893968f20f546535c399352d",
+  "profile": "data-package",
+  "resources": [
+    {
+      "bytes": 22973,
+      "dialect": {
+        "delimiter": ",",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "dpp:streaming": true,
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "3e6abfba8b7b93511ada7d82cb49fdd5",
+      "mediatype": "text/csv",
+      "name": "pom",
+      "path": "pom.csv",
+      "profile": "data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "Cruise",
+            "type": "string"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Latitude",
+            "type": "number"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Longitude",
+            "type": "number"
+          },
+          {
+            "format": "%m/%d/%Y %H:%M",
+            "name": "Date_Time_PST",
+            "outputFormat": "%m/%d/%Y %H:%M",
+            "type": "datetime"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Temperature",
+            "type": "number"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Salinity",
+            "type": "number"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "PN",
+            "type": "number"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "POC",
+            "type": "number"
+          },
+          {
+            "decimalChar": ".",
+            "format": "default",
+            "groupChar": "",
+            "name": "Beam_attenuation",
+            "type": "number"
+          },
+          {
+            "format": "%Y-%m-%dT%H:%MZ",
+            "name": "ISO_DateTime_UTC",
+            "outputFormat": "%Y-%m-%dT%H:%MZ",
+            "type": "datetime"
+          }
+        ],
+        "missingValues": [
+          "",
+          "nd"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+@prefix odo: <http://ocean-data.org/schema/> .
+@prefix plan: <http://purl.org/net/p-plan#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://d2rq.bco-dmo.org/id/redmine/issue/esip2021winter-demo> odo:identifier [ a odo:RedmineIssueIdentifier ;
+            odo:identifierValue "esip2021winter-demo"^^xsd:token ] .
+
+<http://lod.bco-dmo.org/id/person/643627> a prov:Person ;
+    prov:qualifiedDelegation [ a prov:Delegation ;
+            rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ;
+            prov:agent <http://lod.bco-dmo.org/id/affiliation/191> ;
+            prov:hadActivity _:N25730e3f8d63482ebd48b0e702a3e5e2,
+                _:N37f2c907ce1f4591849d1f59b1982898 ;
+            prov:hadRole odo:BcoDmoDataManagerRole ] .
+
+[] a schema:DigitalDocument,
+        prov:Entity ;
+    rdfs:label "Frictionlessdata Data Package for Dataset ID:demo ver.esip2021winter"^^xsd:string ;
+    schema:contentUrl "s3://laminar-dump/demo/esip2021winter/data/datapackage.json"^^xsd:anyURI ;
+    schema:encodingFormat "application/json"^^xsd:token ;
+    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ;
+    prov:wasAttributedTo <http://lod.bco-dmo.org/id/person/643627> ;
+    prov:wasGeneratedBy _:N37f2c907ce1f4591849d1f59b1982898 .
+
+[] a schema:DataDownload,
+        prov:Entity ;
+    rdfs:label "Processed Data: pom"^^xsd:string ;
+    schema:contentUrl "demo/esip2021winter/data/pom.csv"^^xsd:anyURI ;
+    schema:encodingFormat "csv"^^xsd:token ;
+    schema:name "demo/esip2021winter/data/pom"^^xsd:string ;
+    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ;
+    prov:wasAttributedTo <http://lod.bco-dmo.org/id/person/643627> ;
+    prov:wasGeneratedBy _:N37f2c907ce1f4591849d1f59b1982898 .
+
+[] a plan:Step ;
+    rdfs:label "bcodmo_pipeline_processors.dump_to_s3"^^xsd:token ;
+    plan:hasInputVar [ a plan:Variable ;
+            rdfs:label "data_manager"^^xsd:token ;
+            rdf:value """{"name": "Amber York", "orcid": "0000-0002-5133-5842"}
+"""^^odo:yamlLiteral ;
+            rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ],
+        [ a plan:Variable ;
+            rdfs:label "temporal_format_property"^^xsd:token ;
+            rdf:value """"outputFormat"
+"""^^odo:yamlLiteral ;
+            rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ],
+        [ a plan:Variable ;
+            rdfs:label "bucket_name"^^xsd:token ;
+            rdf:value """"laminar-dump"
+"""^^odo:yamlLiteral ;
+            rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ],
+        [ a plan:Variable ;
+            rdfs:label "save_pipeline_spec"^^xsd:token ;
+            rdf:value """!!bool "true"
+"""^^odo:yamlLiteral ;
+            rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ],
+        [ a plan:Variable ;
+            rdfs:label "format"^^xsd:token ;
+            rdf:value """"csv"
+"""^^odo:yamlLiteral ;
+            rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ],
+        [ a plan:Variable ;
+            rdfs:label "force-format"^^xsd:token ;
+            rdf:value """!!bool "true"
+"""^^odo:yamlLiteral ;
+            rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ],
+        [ a plan:Variable ;
+            rdfs:label "prefix"^^xsd:token ;
+            rdf:value """"demo/esip2021winter/data"
+"""^^odo:yamlLiteral ;
+            rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ] ;
+    plan:isPrecededBy [ a plan:Step ;
+            rdfs:label "bcodmo_pipeline_processors.rename_fields"^^xsd:token ;
+            plan:hasInputVar [ a plan:Variable ;
+                    rdfs:label "resources"^^xsd:token ;
+                    rdf:value """["pom"]
+"""^^odo:yamlLiteral ;
+                    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ],
+                [ a plan:Variable ;
+                    rdfs:label "fields"^^xsd:token ;
+                    rdf:value """[{"new_field": "Latitude", "old_field": "Latitude (N)"}, {"new_field": "Longitude",
+    "old_field": "Longitude (W)"}, {"new_field": "Date_Time_PST", "old_field": "Time\\
+      \\ & Date (PST)"}, {"new_field": "Temperature", "old_field": "Temperature (deg\\
+      \\ C)"}, {"new_field": "PN", "old_field": "PN (micromolar)"}, {"new_field": "POC",
+    "old_field": "POC (micromolar)"}, {"new_field": "Beam_attenuation", "old_field": "Beam\\
+      \\ attenuation (1/m)"}]
+"""^^odo:yamlLiteral ;
+                    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ] ;
+            plan:isPrecededBy [ a plan:Step ;
+                    rdfs:label "bcodmo_pipeline_processors.set_types"^^xsd:token ;
+                    plan:hasInputVar [ a plan:Variable ;
+                            rdfs:label "regex"^^xsd:token ;
+                            rdf:value """!!bool "false"
+"""^^odo:yamlLiteral ;
+                            rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ],
+                        [ a plan:Variable ;
+                            rdfs:label "types"^^xsd:token ;
+                            rdf:value """{"Beam attenuation (1/m)": {"type": "number"}, "Cruise": {"type": "string"}, "ISO_DateTime_UTC": {
+    "format": "%Y-%m-%dT%H:%MZ", "outputFormat": "%Y-%m-%dT%H:%MZ", "type": "datetime"},
+  "Latitude (N)": {"type": "number"}, "Longitude (W)": {"type": "number"}, "PN (micromolar)": {
+    "type": "number"}, "POC (micromolar)": {"type": "number"}, "Salinity": {"type": "number"},
+  "Temperature (deg C)": {"type": "number"}, "Time & Date (PST)": {"format": "%m/%d/%Y\\
+      \\ %H:%M", "outputFormat": "%m/%d/%Y %H:%M", "type": "datetime"}}
+"""^^odo:yamlLiteral ;
+                            rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ],
+                        [ a plan:Variable ;
+                            rdfs:label "resources"^^xsd:token ;
+                            rdf:value """["pom"]
+"""^^odo:yamlLiteral ;
+                            rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ] ;
+                    plan:isPrecededBy [ a plan:Step ;
+                            rdfs:label "bcodmo_pipeline_processors.convert_date"^^xsd:token ;
+                            plan:hasInputVar [ a plan:Variable ;
+                                    rdfs:label "resources"^^xsd:token ;
+                                    rdf:value """["pom"]
+"""^^odo:yamlLiteral ;
+                                    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ],
+                                [ a plan:Variable ;
+                                    rdfs:label "fields"^^xsd:token ;
+                                    rdf:value """[{"input_timezone": "PST8PDT", "input_type": "python", "inputs": [{"field": "Time\\
+          \\ & Date (PST)", "format": "%m/%d/%Y %H:%M"}], "output_field": "ISO_DateTime_UTC",
+    "output_format": "%Y-%m-%dT%H:%MZ", "output_timezone": "UTC", "output_type": "datetime",
+    "year": ""}]
+"""^^odo:yamlLiteral ;
+                                    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ] ;
+                            plan:isPrecededBy [ a plan:Step ;
+                                    rdfs:label "bcodmo_pipeline_processors.find_replace"^^xsd:token ;
+                                    plan:hasInputVar [ a plan:Variable ;
+                                            rdfs:label "resources"^^xsd:token ;
+                                            rdf:value """["pom"]
+"""^^odo:yamlLiteral ;
+                                            rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ],
+                                        [ a plan:Variable ;
+                                            rdfs:label "fields"^^xsd:token ;
+                                            rdf:value """[{"name": "Longitude (W)", "patterns": [{"find": "^(.*)", "replace": "-\\\\1"}]}]
+"""^^odo:yamlLiteral ;
+                                            rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ] ;
+                                    plan:isPrecededBy [ a plan:Step ;
+                                            rdfs:label "bcodmo_pipeline_processors.find_replace"^^xsd:token ;
+                                            plan:hasInputVar [ a plan:Variable ;
+                                                    rdfs:label "resources"^^xsd:token ;
+                                                    rdf:value """["pom"]
+"""^^odo:yamlLiteral ;
+                                                    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ],
+                                                [ a plan:Variable ;
+                                                    rdfs:label "fields"^^xsd:token ;
+                                                    rdf:value """[{"name": "Time & Date (PST)", "patterns": [{"find": "^(.*)\\\\/(.\\\\d)\\\\/(.\\\\d)\\\\s(.*)",
+        "replace": "\\\\1/\\\\2/20\\\\3 \\\\4"}]}]
+"""^^odo:yamlLiteral ;
+                                                    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ] ;
+                                            plan:isPrecededBy [ a plan:Step ;
+                                                    rdfs:label "bcodmo_pipeline_processors.concatenate"^^xsd:token ;
+                                                    plan:hasInputVar [ a plan:Variable ;
+                                                            rdfs:label "target"^^xsd:token ;
+                                                            rdf:value """{"name": "pom", "path": "pom.csv"}
+"""^^odo:yamlLiteral ;
+                                                            rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ],
+                                                        [ a plan:Variable ;
+                                                            rdfs:label "missing_values"^^xsd:token ;
+                                                            rdf:value """["", "nd"]
+"""^^odo:yamlLiteral ;
+                                                            rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ],
+                                                        [ a plan:Variable ;
+                                                            rdfs:label "include_source_name"^^xsd:token ;
+                                                            rdf:value """[]
+"""^^odo:yamlLiteral ;
+                                                            rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ],
+                                                        [ a plan:Variable ;
+                                                            rdfs:label "sources"^^xsd:token ;
+                                                            rdf:value """["oc1611b_underway_pom", "oc1603b_underway_pom", "oc1602a_underway_pom", "oc1601a_underway_pom"]
+"""^^odo:yamlLiteral ;
+                                                            rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ],
+                                                        [ a plan:Variable ;
+                                                            rdfs:label "fields"^^xsd:token ;
+                                                            rdf:value """{"Beam attenuation (1/m)": [], "Cruise": [], "Latitude (N)": [], "Longitude (W)": [],
+  "PN (micromolar)": [], "POC (micromolar)": [], "Salinity": [], "Temperature (deg C)": [],
+  "Time & Date (PST)": []}
+"""^^odo:yamlLiteral ;
+                                                            rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ] ;
+                                                    plan:isPrecededBy [ a plan:Step ;
+                                                            rdfs:label "bcodmo_pipeline_processors.load"^^xsd:token ;
+                                                            plan:hasInputVar [ a plan:Variable ;
+                                                                    rdfs:label "use_filename"^^xsd:token ;
+                                                                    rdf:value """!!bool "true"
+"""^^odo:yamlLiteral ;
+                                                                    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ],
+                                                                [ a plan:Variable ;
+                                                                    rdfs:label "ignore_blank_headers"^^xsd:token ;
+                                                                    rdf:value """!!bool "false"
+"""^^odo:yamlLiteral ;
+                                                                    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ],
+                                                                [ a plan:Variable ;
+                                                                    rdfs:label "from"^^xsd:token ;
+                                                                    rdf:value """["s3://laminar-load/data302/CCAW/orig/goni_20200329/OC1611B_underway_POM.csv", "s3://laminar-load/data302/CCAW/orig/goni_20200329/OC1603B_underway_POM.csv",
+  "s3://laminar-load/data302/CCAW/orig/goni_20200329/OC1602A_underway_POM.csv", "s3://laminar-load/data302/CCAW/orig/goni_20200329/OC1601A_underway_POM.csv"]
+"""^^odo:yamlLiteral ;
+                                                                    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ],
+                                                                [ a plan:Variable ;
+                                                                    rdfs:label "format"^^xsd:token ;
+                                                                    rdf:value """"csv"
+"""^^odo:yamlLiteral ;
+                                                                    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ],
+                                                                [ a plan:Variable ;
+                                                                    rdfs:label "infer_strategy"^^xsd:token ;
+                                                                    rdf:value """"strings"
+"""^^odo:yamlLiteral ;
+                                                                    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ],
+                                                                [ a plan:Variable ;
+                                                                    rdfs:label "s3_endpoint_url"^^xsd:token ;
+                                                                    rdf:value """"http://s3.us-east-2.amazonaws.com"
+"""^^odo:yamlLiteral ;
+                                                                    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ],
+                                                                [ a plan:Variable ;
+                                                                    rdfs:label "headers"^^xsd:token ;
+                                                                    rdf:value """!!int "1"
+"""^^odo:yamlLiteral ;
+                                                                    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ],
+                                                                [ a plan:Variable ;
+                                                                    rdfs:label "remove_empty_rows"^^xsd:token ;
+                                                                    rdf:value """!!bool "true"
+"""^^odo:yamlLiteral ;
+                                                                    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ],
+                                                                [ a plan:Variable ;
+                                                                    rdfs:label "skip_rows"^^xsd:token ;
+                                                                    rdf:value """[]
+"""^^odo:yamlLiteral ;
+                                                                    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ],
+                                                                [ a plan:Variable ;
+                                                                    rdfs:label "override_schema"^^xsd:token ;
+                                                                    rdf:value """{"missingValues": ["", "nd"]}
+"""^^odo:yamlLiteral ;
+                                                                    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ],
+                                                                [ a plan:Variable ;
+                                                                    rdfs:label "cast_strategy"^^xsd:token ;
+                                                                    rdf:value """"strings"
+"""^^odo:yamlLiteral ;
+                                                                    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ],
+                                                                [ a plan:Variable ;
+                                                                    rdfs:label "input_separator"^^xsd:token ;
+                                                                    rdf:value """","
+"""^^odo:yamlLiteral ;
+                                                                    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ] ;
+                                                            plan:isStepOfPlan _:N9c6220adf82d4f97badcf40e2ffa3f46 ;
+                                                            rdf:value 0 ;
+                                                            rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ] ;
+                                                    plan:isStepOfPlan _:N9c6220adf82d4f97badcf40e2ffa3f46 ;
+                                                    rdf:value 1 ;
+                                                    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ] ;
+                                            plan:isStepOfPlan _:N9c6220adf82d4f97badcf40e2ffa3f46 ;
+                                            rdf:value 2 ;
+                                            rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ] ;
+                                    plan:isStepOfPlan _:N9c6220adf82d4f97badcf40e2ffa3f46 ;
+                                    rdf:value 3 ;
+                                    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ] ;
+                            plan:isStepOfPlan _:N9c6220adf82d4f97badcf40e2ffa3f46 ;
+                            rdf:value 4 ;
+                            rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ] ;
+                    plan:isStepOfPlan _:N9c6220adf82d4f97badcf40e2ffa3f46 ;
+                    rdf:value 5 ;
+                    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ] ;
+            plan:isStepOfPlan _:N9c6220adf82d4f97badcf40e2ffa3f46 ;
+            rdf:value 6 ;
+            rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ] ;
+    plan:isStepOfPlan _:N9c6220adf82d4f97badcf40e2ffa3f46 ;
+    rdf:value 7 ;
+    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 .
+
+_:N185e1d7b159742d9ba9118eac0cc063c a prov:Association ;
+    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ;
+    prov:agent <http://lod.bco-dmo.org/id/person/643627> ;
+    prov:hadPlan _:N9c6220adf82d4f97badcf40e2ffa3f46 ;
+    prov:hadRole odo:BcoDmoDataManagerRole .
+
+_:N38af06576a674c169e56083960cf144c a plan:Variable ;
+    rdfs:label "redmineIssueNumber"^^xsd:token ;
+    rdf:value """""xxxx
+"""^^odo:yamlLiteral ;
+    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 .
+
+_:N5b882f6299ea4746a2eca8cd69f6e689 a plan:Variable ;
+    rdfs:label "datasetId"^^xsd:token ;
+    rdf:value """""
+"""^^odo:yamlLiteral ;
+    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 .
+
+_:N6798930570eb4f4dbc6fa7654a867f11 a plan:Variable ;
+    rdfs:label "submissionId"^^xsd:token ;
+    rdf:value """""
+"""^^odo:yamlLiteral ;
+    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 .
+
+_:N95e322c6f8ba43ce90ea568b042532e9 a plan:Variable ;
+    rdfs:label "datasetVersion"^^xsd:token ;
+    rdf:value """""
+"""^^odo:yamlLiteral ;
+    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 .
+
+_:N960bc13267c94bff9b2bc3d4926ecaec a prov:Collection ;
+    rdfs:label "Data Submission"^^xsd:string ;
+    odo:identifier [ a odo:SubmissionIdentifier ;
+            odo:identifierValue ""^^xsd:token ] ;
+    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 .
+
+_:N987bf6d8a7834d8ba3f66d9c0dfaaba0 a plan:Variable ;
+    rdfs:label "version"^^xsd:token ;
+    rdf:value """"v2.0.9"
+"""^^odo:yamlLiteral ;
+    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 .
+
+_:Nbfbea543c8ba4e44a80adeae7d6a91d6 a prov:Association ;
+    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ;
+    prov:agent <http://lod.bco-dmo.org/id/person/643627> ;
+    prov:hadPlan _:N9c6220adf82d4f97badcf40e2ffa3f46 ;
+    prov:hadRole odo:BcoDmoDataManagerRole .
+
+_:Nc076391e625544c5b1275419c13d084f a schema:SoftwareSourceCode,
+        prov:Entity ;
+    rdfs:label "Laminar"^^xsd:string ;
+    schema:version "v2.0.9"^^xsd:token ;
+    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 .
+
+_:N25730e3f8d63482ebd48b0e702a3e5e2 a schema:CreateAction,
+        prov:Activity ;
+    rdfs:label "Created Pipeline for Dataset ID:demo ver.esip2021winter"^^xsd:string ;
+    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ;
+    prov:generated _:N9c6220adf82d4f97badcf40e2ffa3f46 ;
+    prov:qualifiedAssociation _:N185e1d7b159742d9ba9118eac0cc063c ;
+    prov:used _:Nc076391e625544c5b1275419c13d084f ;
+    prov:wasAssociatedWith <http://lod.bco-dmo.org/id/person/643627> .
+
+_:N37f2c907ce1f4591849d1f59b1982898 a schema:PlayAction,
+        prov:Activity ;
+    rdfs:label "Executed Pipeline for Dataset ID:demo ver.esip2021winter"^^xsd:string ;
+    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ;
+    prov:hadPlan _:N9c6220adf82d4f97badcf40e2ffa3f46 ;
+    prov:qualifiedAssociation _:Nbfbea543c8ba4e44a80adeae7d6a91d6 ;
+    prov:used _:N9c6220adf82d4f97badcf40e2ffa3f46,
+        _:Nc076391e625544c5b1275419c13d084f ;
+    prov:wasAssociatedWith <http://lod.bco-dmo.org/id/person/643627> ;
+    prov:wasInformedBy _:N25730e3f8d63482ebd48b0e702a3e5e2 .
+
+_:N9c6220adf82d4f97badcf40e2ffa3f46 a schema:DigitalDocument,
+        prov:Plan ;
+    rdfs:label "Frictionlessdata Data Package Pipeline for Dataset ID:demo ver.esip2021winter"^^xsd:string ;
+    plan:isVariableOfPlan _:N38af06576a674c169e56083960cf144c,
+        _:N5b882f6299ea4746a2eca8cd69f6e689,
+        _:N6798930570eb4f4dbc6fa7654a867f11,
+        _:N95e322c6f8ba43ce90ea568b042532e9,
+        _:N987bf6d8a7834d8ba3f66d9c0dfaaba0 ;
+    schema:contentUrl "s3://laminar-dump/demo/esip2021winter/data/pipeline-spec.yaml"^^xsd:anyURI ;
+    schema:description ""^^xsd:string ;
+    schema:encodingFormat "application/x-yaml"^^xsd:token ;
+    schema:name "laminar_demo"^^xsd:string ;
+    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ;
+    prov:wasAttributedTo <http://lod.bco-dmo.org/id/person/643627> ;
+    prov:wasGeneratedBy _:N25730e3f8d63482ebd48b0e702a3e5e2 ;
+    prov:wasInfluencedBy _:N960bc13267c94bff9b2bc3d4926ecaec,
+        <https://d2rq.bco-dmo.org/id/redmine/issue/esip2021winter-demo> .
+
+_:Na7d1cef4cd9d411c8f17247fa87552a9 a prov:Bundle ;
+    rdfs:label "Provenance Record for Dataset ID:demo ver.esip2021winter"^^xsd:string ;
+    rdfs:isDefinedBy _:Na7d1cef4cd9d411c8f17247fa87552a9 ;
+    prov:generatedAtTime "2021-01-20T19:00:26+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo <http://lod.bco-dmo.org/id/person/643627> .
+
